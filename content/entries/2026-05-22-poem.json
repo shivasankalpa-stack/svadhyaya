@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-22-poem",
+ "type": "poem",
+ "date": "2026-05-22",
+ "time": "04:28",
+ "author": "Kusha N M",
+ "source": "2026-05-22T04:28|ಬಲ್ಲವರಮನಗಳಲಿಸಣ್ಣತನಹುದುಗಿಹುದುಎಲ",
+ "kn": {
+  "lines": [
+   "ಬಲ್ಲವರ ಮನಗಳಲಿ ಸಣ್ಣತನ ಹುದುಗಿಹುದು",
+   "ಎಲ್ಲವನು ತಿಳಿದಿಹೆನು ಸಮರಿಲ್ಲವೆಂದು",
+   "ಸಲ್ಲುತಿಹ ಗೌರವವ ಗರ್ವ ಮದ ಕಳೆಯುತಿರೆ",
+   "ಗೆಲ್ಲುವುದು ಮಮಕಾರ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಬಲ್ಲವರ ಮನಗಳಲಿ ಸಣ್ಣತನ ಹುದುಗಿಹುದು\nಎಲ್ಲವನು ತಿಳಿದಿಹೆನು ಸಮರಿಲ್ಲವೆಂದು\nಸಲ್ಲುತಿಹ ಗೌರವವ ಗರ್ವ ಮದ ಕಳೆಯುತಿರೆ\nಗೆಲ್ಲುವುದು ಮಮಕಾರ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Pettiness lies hidden in the minds of the learned:",
+   "‘I know everything; I have no equal’;",
+   "when pride and conceit eat away the respect that is due,",
+   "attachment wins, O deluded one."
+  ],
+  "theme": "Pride",
+  "bhavartha": "Even learned people can harbour the petty belief that they are unmatched. Such pride destroys the respect they deserve, and ego takes over."
+ }
+}

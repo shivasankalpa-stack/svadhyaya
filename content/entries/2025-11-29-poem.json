@@ -1,0 +1,28 @@
+{
+ "id": "2025-11-29-poem",
+ "type": "poem",
+ "date": "2025-11-29",
+ "time": "05:49",
+ "author": "Kusha N M",
+ "source": "2025-11-29T05:49|ಬಾಲರವಿತಾನುದಿಸಿಬಾನಿನಲಿಉರಿಯುತಲೆಕ",
+ "kn": {
+  "lines": [
+   "ಬಾಲರವಿ ತಾನುದಿಸಿ ಬಾನಿನಲಿ ಉರಿಯುತಲೆ",
+   "ಕಾಲಕಳೆಯುತ ಸಂಜೆ ಕರಗಿ ಹೋಗುವನು",
+   "ಮೇಲರಿಮೆ ತೋರುತಲೆ ಜನಗಳನು ಧಿಕ್ಕರಿಸೆ",
+   "ಸೋಲ ಕಾಣುವೆ ನೀನು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಬಾಲರವಿ ತಾನುದಿಸಿ ಬಾನಿನಲಿ ಉರಿಯುತಲೆ\nಕಾಲಕಳೆಯುತ ಸಂಜೆ ಕರಗಿ ಹೋಗುವನು\nಮೇಲರಿಮೆ ತೋರುತಲೆ ಜನಗಳನು ಧಿಕ್ಕರಿಸೆ\nಸೋಲ ಕಾಣುವೆ ನೀನು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "The young sun rises and blazes across the sky,",
+   "yet as time passes it melts away at dusk;",
+   "if you show off your superiority and scorn people,",
+   "you will meet defeat, O deluded one."
+  ],
+  "theme": "Humility",
+  "bhavartha": "Even the blazing sun sets by evening. Pride that looks down on others will likewise end in a fall."
+ }
+}

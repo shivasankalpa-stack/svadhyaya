@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-23-poem",
+ "type": "poem",
+ "date": "2026-03-23",
+ "time": "08:01",
+ "author": "Kusha N M",
+ "source": "2026-03-23T08:01|ಎದುರಿರಲುನಗುನಗುತಹಿಂದಿಂದೆತಿವಿಯುವ",
+ "kn": {
+  "lines": [
+   "ಎದುರಿರಲು ನಗುನಗುತ ಹಿಂದಿಂದೆ ತಿವಿಯುವರು",
+   "ಬದುಕುತಿರೆ ಶಾಂತಿಯಲಿ ಹಿಂಸೆ ನೀಡುವರು",
+   "ಅದುರುವರು ನೀನವರ ಗುರುತಿಸಲು ಮುಂದಾಗೆ",
+   "ಹೆದರದೆಯೆ ಮುನ್ನುಗ್ಗು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಎದುರಿರಲು ನಗುನಗುತ ಹಿಂದಿಂದೆ ತಿವಿಯುವರು\nಬದುಕುತಿರೆ ಶಾಂತಿಯಲಿ ಹಿಂಸೆ ನೀಡುವರು\nಅದುರುವರು ನೀನವರ ಗುರುತಿಸಲು ಮುಂದಾಗೆ\nಹೆದರದೆಯೆ ಮುನ್ನುಗ್ಗು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "They smile to your face and stab you from behind;",
+   "when you live in peace, they cause you harm;",
+   "they tremble when you step up to recognise them;",
+   "charge ahead without fear, O deluded one."
+  ],
+  "theme": "Courage",
+  "bhavartha": "Some people smile in front and scheme behind. They lose their nerve once they are recognised. Don’t be afraid of them; keep moving forward."
+ }
+}

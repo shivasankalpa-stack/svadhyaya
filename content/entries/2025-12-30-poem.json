@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-30-poem",
+ "type": "poem",
+ "date": "2025-12-30",
+ "time": "05:19",
+ "author": "Kusha N M",
+ "source": "2025-12-30T05:19|ಯೌವನದಿಸರಿತಪ್ಪುಗೊಂದಲವುಸಹಜವಹುಸಾವ",
+ "kn": {
+  "lines": [
+   "ಯೌವನದಿ ಸರಿತಪ್ಪು ಗೊಂದಲವು ಸಹಜವಹು",
+   "ಸಾವರಿಸಿ ಉತ್ತರವ ಹುಡುಕುತಿರಬೇಕು",
+   "ಹೂವಂತೆ ಅರಳುತಿರೆ ಕಣ್ಮುಂದೆ ಸತ್ಯಗಳು",
+   "ಜೀವನವೆ ಸೊಬಗಿನದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಯೌವನದಿ ಸರಿತಪ್ಪು ಗೊಂದಲವು ಸಹಜವಹು\nಸಾವರಿಸಿ ಉತ್ತರವ ಹುಡುಕುತಿರಬೇಕು\nಹೂವಂತೆ ಅರಳುತಿರೆ ಕಣ್ಮುಂದೆ ಸತ್ಯಗಳು\nಜೀವನವೆ ಸೊಬಗಿನದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "In youth, confusion over right and wrong is natural;",
+   "gather yourself and keep seeking answers;",
+   "when truths open like flowers before your eyes,",
+   "life itself becomes graceful, O deluded one."
+  ],
+  "theme": "Youth",
+  "bhavartha": "Young people naturally struggle with right and wrong. Keep searching patiently; as truth unfolds, life grows beautiful."
+ }
+}

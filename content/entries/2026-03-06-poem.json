@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-06-poem",
+ "type": "poem",
+ "date": "2026-03-06",
+ "time": "05:45",
+ "author": "Kusha N M",
+ "source": "2026-03-06T05:45|ಅಸ್ಥಿರದಬಾಳ್ವೆಯಲಿಏಕತಾನತೆಯಿರಲುದು",
+ "kn": {
+  "lines": [
+   "ಅಸ್ಥಿರದ ಬಾಳ್ವೆಯಲಿ ಏಕತಾನತೆಯಿರಲು",
+   "ದುಸ್ತರವ ಬರಗೊಡದು ಎಚ್ಚರಿಕೆ ವಹಿಸೆ",
+   "ಸುಸ್ಥಿತಿಯ ತಲುಪುವೆಯೊ ವಿವಿಧತೆಯ ಒಳಗೊಯ್ಯೆ",
+   "ಅಸ್ತಿತ್ವವುಳಿಯುವುದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಅಸ್ಥಿರದ ಬಾಳ್ವೆಯಲಿ ಏಕತಾನತೆಯಿರಲು\nದುಸ್ತರವ ಬರಗೊಡದು ಎಚ್ಚರಿಕೆ ವಹಿಸೆ\nಸುಸ್ಥಿತಿಯ ತಲುಪುವೆಯೊ ವಿವಿಧತೆಯ ಒಳಗೊಯ್ಯೆ\nಅಸ್ತಿತ್ವವುಳಿಯುವುದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When there is monotony in an unsteady life,",
+   "take care, and it will not become unbearable;",
+   "take in variety and you will reach a good state;",
+   "your existence will endure, O deluded one."
+  ],
+  "theme": "Variety",
+  "bhavartha": "Monotony can wear a life down. Stay alert to it, welcome variety, and life stays healthy and lasting."
+ }
+}

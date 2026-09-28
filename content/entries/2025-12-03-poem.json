@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-03-poem",
+ "type": "poem",
+ "date": "2025-12-03",
+ "time": "04:48",
+ "author": "Kusha N M",
+ "source": "2025-12-03T04:48|ಹುಟ್ಟುಸಾವುಗಳೆಂದುಜೀವನದಎರಡುಕೊನೆಹ",
+ "kn": {
+  "lines": [
+   "ಹುಟ್ಟುಸಾವುಗಳೆಂದು ಜೀವನದ ಎರಡುಕೊನೆ",
+   "ಹುಟ್ಟಿದವ ಸಾಯುವುದೆ ಬದಲಿಸದ ನಿಯಮ",
+   "ಜುಟ್ಟ ಹಿಡಿದಿರೆ ಸಾವು ಧರ್ಮದಲಿ ನಡೆಯದಿರೆ",
+   "ಕಷ್ಟಪಡುವೆಯೊ ನೀನು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹುಟ್ಟುಸಾವುಗಳೆಂದು ಜೀವನದ ಎರಡುಕೊನೆ\nಹುಟ್ಟಿದವ ಸಾಯುವುದೆ ಬದಲಿಸದ ನಿಯಮ\nಜುಟ್ಟ ಹಿಡಿದಿರೆ ಸಾವು ಧರ್ಮದಲಿ ನಡೆಯದಿರೆ\nಕಷ್ಟಪಡುವೆಯೊ ನೀನು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Birth and death are life’s two ends;",
+   "that whoever is born must die is a law that does not change;",
+   "when death seizes you by the topknot, if you have not walked in dharma,",
+   "you will suffer, O deluded one."
+  ],
+  "theme": "Mortality",
+  "bhavartha": "Death is certain for everyone born. What decides whether its coming is hard is whether we have lived by dharma."
+ }
+}

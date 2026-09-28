@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-08-poem",
+ "type": "poem",
+ "date": "2025-12-08",
+ "time": "06:46",
+ "author": "Kusha N M",
+ "source": "2025-12-08T06:46|ಜಿಜ್ಞಾಸೆಗಳಿರಬಹುದುಅನುಮಾನವಿರಬಹುದ",
+ "kn": {
+  "lines": [
+   "ಜಿಜ್ಞಾಸೆಗಳಿರಬಹುದು ಅನುಮಾನವಿರಬಹುದು",
+   "ಸುಜ್ಞಾನಿಯ ಜೊತೆ ಕುಳಿತು ಉತ್ತರವ ಹುಡುಕು",
+   "ಅಜ್ಞನಾಗದೆ ನೀನು ವಿಷಯಗಳ ಸಂಗ್ರಹಿಸಿ",
+   "ತಜ್ಞನಾಗೆಲೊ ನೀನು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಜಿಜ್ಞಾಸೆಗಳಿರಬಹುದು ಅನುಮಾನವಿರಬಹುದು\nಸುಜ್ಞಾನಿಯ ಜೊತೆ ಕುಳಿತು ಉತ್ತರವ ಹುಡುಕು\nಅಜ್ಞನಾಗದೆ ನೀನು ವಿಷಯಗಳ ಸಂಗ್ರಹಿಸಿ\nತಜ್ಞನಾಗೆಲೊ ನೀನು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "There may be questions, there may be doubts;",
+   "sit with a wise person and look for the answers;",
+   "don’t stay ignorant: gather what can be known,",
+   "and become an expert yourself, O deluded one."
+  ],
+  "theme": "Inquiry",
+  "bhavartha": "Doubts are natural. Take them to people who know, keep gathering knowledge instead of staying ignorant, and in time you will become knowledgeable yourself."
+ }
+}

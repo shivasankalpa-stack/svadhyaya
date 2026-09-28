@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-25-poem",
+ "type": "poem",
+ "date": "2026-04-25",
+ "time": "05:07",
+ "author": "Kusha N M",
+ "source": "2026-04-25T05:07|ಕಷ್ಟಗಳಮರೆಮಾಚಿದುಡಿಯುತಲೆಮನೆಗಾಗಿಇ",
+ "kn": {
+  "lines": [
+   "ಕಷ್ಟಗಳ ಮರೆಮಾಚಿ ದುಡಿಯುತಲೆ ಮನೆಗಾಗಿ",
+   "ಇಷ್ಟಗಳ ನಿನಗಾಗೆ ತ್ಯಾಗ ಮಾಡಿಹನು",
+   "ನಿಷ್ಠೆಯಿಂದಲೆ ಗಳಿಸಿ ಜಗನಿನಗೆ ಪರಿಚಯಿಸಿ",
+   "ಶಿಷ್ಟನಾಗುವ ಜನಕ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕಷ್ಟಗಳ ಮರೆಮಾಚಿ ದುಡಿಯುತಲೆ ಮನೆಗಾಗಿ\nಇಷ್ಟಗಳ ನಿನಗಾಗೆ ತ್ಯಾಗ ಮಾಡಿಹನು\nನಿಷ್ಠೆಯಿಂದಲೆ ಗಳಿಸಿ ಜಗನಿನಗೆ ಪರಿಚಯಿಸಿ\nಶಿಷ್ಟನಾಗುವ ಜನಕ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Hiding his hardships, working for the home,",
+   "he sacrificed his own wishes for you;",
+   "earning with integrity, introducing you to the world,",
+   "your father becomes a noble one, O deluded one."
+  ],
+  "theme": "Father",
+  "bhavartha": "A father hides his struggles, gives up his own desires for his family, earns honestly and opens the world to his child. Honour him."
+ }
+}

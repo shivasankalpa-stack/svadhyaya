@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-21-poem",
+ "type": "poem",
+ "date": "2026-01-21",
+ "time": "04:54",
+ "author": "Kusha N M",
+ "source": "2026-01-21T04:54|ಸಾಧನೆಯಪಥದಲ್ಲಿಏಳುಬೀಳಿರಬೇಕುಬೋಧನೆ",
+ "kn": {
+  "lines": [
+   "ಸಾಧನೆಯ ಪಥದಲ್ಲಿ ಏಳುಬೀಳಿರಬೇಕು",
+   "ಬೋಧನೆಗೆ ಅರ್ಹವಹು ಅನುಭವದ ಕಥನ",
+   "ಶೋಧಿಸುವ ಜನರಿಹರು ಸವಾಲುಗಳನೊಡ್ಡಿ",
+   "ಸಾಧಿಸುವ ಛಲಬೇಕು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಸಾಧನೆಯ ಪಥದಲ್ಲಿ ಏಳುಬೀಳಿರಬೇಕು\nಬೋಧನೆಗೆ ಅರ್ಹವಹು ಅನುಭವದ ಕಥನ\nಶೋಧಿಸುವ ಜನರಿಹರು ಸವಾಲುಗಳನೊಡ್ಡಿ\nಸಾಧಿಸುವ ಛಲಬೇಕು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "On the road of achievement there must be rises and falls;",
+   "the story of experience is what makes one fit to teach;",
+   "there are people who will test you with challenges;",
+   "you need the grit to achieve, O deluded one."
+  ],
+  "theme": "Grit",
+  "bhavartha": "Success is never a straight line. Experience, with its falls, is what qualifies us to guide others. When people challenge us, determination carries us through."
+ }
+}

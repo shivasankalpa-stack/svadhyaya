@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-24-poem",
+ "type": "poem",
+ "date": "2025-12-24",
+ "time": "06:30",
+ "author": "Kusha N M",
+ "source": "2025-12-24T06:30|ಎದುರಿನಲಿಹೊಗಳುವರುಹಿಂದಿಂದೆತೆಗಳುವ",
+ "kn": {
+  "lines": [
+   "ಎದುರಿನಲಿ ಹೊಗಳುವರು ಹಿಂದಿಂದೆ ತೆಗಳುವರು",
+   "ಎದುರಿಸಲು ಸಿದ್ಧನಿರು ಪರಿಪರಿಯ ತಾಪ",
+   "ಹೆದರದೆಯೆ ಮುನ್ನಡೆಯೆ ತಾಪದಿಂ ಪರಿಹಾರ",
+   "ಕದಲದಿರು ಕನಲದಿರು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಎದುರಿನಲಿ ಹೊಗಳುವರು ಹಿಂದಿಂದೆ ತೆಗಳುವರು\nಎದುರಿಸಲು ಸಿದ್ಧನಿರು ಪರಿಪರಿಯ ತಾಪ\nಹೆದರದೆಯೆ ಮುನ್ನಡೆಯೆ ತಾಪದಿಂ ಪರಿಹಾರ\nಕದಲದಿರು ಕನಲದಿರು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "They praise you to your face and revile you behind your back;",
+   "be ready to face every kind of heat;",
+   "if you press on without fear, the heat itself will pass;",
+   "do not waver, do not rage, O deluded one."
+  ],
+  "theme": "Steadiness",
+  "bhavartha": "People flatter in front and criticise behind. Expect it, keep going without fear, and neither falter nor lose your temper."
+ }
+}

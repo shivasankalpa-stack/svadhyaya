@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-25-poem",
+ "type": "poem",
+ "date": "2026-01-25",
+ "time": "08:59",
+ "author": "Kusha N M",
+ "source": "2026-01-25T08:59|ಹಣಗಳಿಕೆಯೊಂದೆನಿನಜೀವನದಗುರಿಯಾಗೆಮಣ",
+ "kn": {
+  "lines": [
+   "ಹಣಗಳಿಕೆಯೊಂದೆ ನಿನ ಜೀವನದ ಗುರಿಯಾಗೆ",
+   "ಮಣಿಯುವುದು ನಿನ್ನೆಲ್ಲ ಸದ್ಗುಣದ ದಾರಿ",
+   "ಗುಣಿತದಲಿ ಕ್ಷಯವಾಗೆ ಅವಗುಣದ ಸಿಕ್ಕುಗಳು",
+   "ಗಣಿನೀನು ಗುಣಗಳಿಗೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹಣಗಳಿಕೆಯೊಂದೆ ನಿನ ಜೀವನದ ಗುರಿಯಾಗೆ\nಮಣಿಯುವುದು ನಿನ್ನೆಲ್ಲ ಸದ್ಗುಣದ ದಾರಿ\nಗುಣಿತದಲಿ ಕ್ಷಯವಾಗೆ ಅವಗುಣದ ಸಿಕ್ಕುಗಳು\nಗಣಿನೀನು ಗುಣಗಳಿಗೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If earning money is your life’s only goal,",
+   "every path of virtue in you will bend;",
+   "when the knots of vice waste away by multiplying good,",
+   "you are a mine of virtues, O deluded one."
+  ],
+  "theme": "Values",
+  "bhavartha": "When money becomes the only aim, good character erodes. Multiply your virtues until vices wither, and you become a treasury of goodness."
+ }
+}

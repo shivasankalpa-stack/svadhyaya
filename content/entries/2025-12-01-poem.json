@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-01-poem",
+ "type": "poem",
+ "date": "2025-12-01",
+ "time": "05:55",
+ "author": "Kusha N M",
+ "source": "2025-12-01T05:55|ಭಗವಂತನಾಗುವೆಯೊಪತಿತರನುಉದ್ಧರಿಸೆಜಗ",
+ "kn": {
+  "lines": [
+   "ಭಗವಂತನಾಗುವೆಯೊ ಪತಿತರನು ಉದ್ಧರಿಸೆ",
+   "ಜಗಜನರು ಅನುಸರಿಸಿ ನಡೆಯುವರೊ ನಿನ್ನ",
+   "ಮಗುವಾಗು ಕಲಿವುದಕೆ ಸಜ್ಜನರ ಸಂಗದಲಿ",
+   "ನಗವಾಗು ನೀ ಜನಕೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಭಗವಂತನಾಗುವೆಯೊ ಪತಿತರನು ಉದ್ಧರಿಸೆ\nಜಗಜನರು ಅನುಸರಿಸಿ ನಡೆಯುವರೊ ನಿನ್ನ\nಮಗುವಾಗು ಕಲಿವುದಕೆ ಸಜ್ಜನರ ಸಂಗದಲಿ\nನಗವಾಗು ನೀ ಜನಕೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "You become godlike when you lift up the fallen;",
+   "then people everywhere will follow your lead;",
+   "be a child, eager to learn in good company,",
+   "and be a mountain for people, O deluded one."
+  ],
+  "theme": "Service",
+  "bhavartha": "Raising up those who have fallen is the most godlike act. Stay humble enough to keep learning from good people, and you will become a steady support for others."
+ }
+}

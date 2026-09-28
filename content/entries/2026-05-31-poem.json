@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-31-poem",
+ "type": "poem",
+ "date": "2026-05-31",
+ "time": "04:52",
+ "author": "Kusha N M",
+ "source": "2026-05-31T04:52|ಬೆಳಕೆಂದುಬಳಿಸಾರೆಬಿಸಿತಾಗಿಮರಣಿಸುವ",
+ "kn": {
+  "lines": [
+   "ಬೆಳಕೆಂದು ಬಳಿಸಾರೆ ಬಿಸಿತಾಗಿ ಮರಣಿಸುವೆ",
+   "ತಿಳಿದುನಡೆ ಬೆಳಕಹುದೊ ಬಿಸಿಯಹುದೊ ಎಂದು",
+   "ಅಳಿಯುವುದು ಜೀವನವು ಇಬ್ಬಗೆಯ ಇರುಕಿರಲು",
+   "ಮಳಲಿನಲಿ ಕುಸಿಯದಿರು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಬೆಳಕೆಂದು ಬಳಿಸಾರೆ ಬಿಸಿತಾಗಿ ಮರಣಿಸುವೆ\nತಿಳಿದುನಡೆ ಬೆಳಕಹುದೊ ಬಿಸಿಯಹುದೊ ಎಂದು\nಅಳಿಯುವುದು ಜೀವನವು ಇಬ್ಬಗೆಯ ಇರುಕಿರಲು\nಮಳಲಿನಲಿ ಕುಸಿಯದಿರು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Taking it for light, you draw close, feel the heat and die;",
+   "walk on knowing whether it is light or heat;",
+   "life perishes when caught in a double bind;",
+   "do not sink into the sand, O deluded one."
+  ],
+  "theme": "Discernment",
+  "bhavartha": "Like a moth drawn to a flame, we can mistake what burns for what illumines. Learn to tell them apart; divided loyalties destroy a life."
+ }
+}

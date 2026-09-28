@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-12-poem",
+ "type": "poem",
+ "date": "2026-03-12",
+ "time": "04:03",
+ "author": "Kusha N M",
+ "source": "2026-03-12T04:03|ಉದಧಿಯಲಿತೆರೆಸೀಳಿನುಗ್ಗುತಿಹಹಡಗಂತೆ",
+ "kn": {
+  "lines": [
+   "ಉದಧಿಯಲಿ ತೆರೆಸೀಳಿ ನುಗ್ಗುತಿಹ ಹಡಗಂತೆ",
+   "ಒದಗಿಬರೊ ಕಷ್ಟಸುಖ ತಾಳುವುದೆ ಬದುಕು",
+   "ಹದವಾಗಿ ಬೆರೆತಿರಲು ಜೀವನದಿ ಸಿಹಿಕಹಿಯು",
+   "ಮುದದಿಂದ ತರಣಿಸುವೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಉದಧಿಯಲಿ ತೆರೆಸೀಳಿ ನುಗ್ಗುತಿಹ ಹಡಗಂತೆ\nಒದಗಿಬರೊ ಕಷ್ಟಸುಖ ತಾಳುವುದೆ ಬದುಕು\nಹದವಾಗಿ ಬೆರೆತಿರಲು ಜೀವನದಿ ಸಿಹಿಕಹಿಯು\nಮುದದಿಂದ ತರಣಿಸುವೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Like a ship cutting through the waves of the ocean,",
+   "life means bearing the sorrows and joys that come;",
+   "when sweet and bitter are well blended in life,",
+   "you will cross over with delight, O deluded one."
+  ],
+  "theme": "Balance",
+  "bhavartha": "Life is a voyage through waves of joy and sorrow. When we accept both in good measure, we can sail across with a glad heart."
+ }
+}

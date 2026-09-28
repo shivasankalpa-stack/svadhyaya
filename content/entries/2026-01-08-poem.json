@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-08-poem",
+ "type": "poem",
+ "date": "2026-01-08",
+ "time": "10:35",
+ "author": "Kusha N M",
+ "source": "2026-01-08T10:35|ಕೆಟ್ಟಚಟಸುಡುತಲಿರೆಜೀವನದಮಜಲುಗಳಮೆಟ",
+ "kn": {
+  "lines": [
+   "ಕೆಟ್ಟಚಟ ಸುಡುತಲಿರೆ ಜೀವನದ ಮಜಲುಗಳ",
+   "ಮೆಟ್ಟಿನಡೆ ದಟ್ಟತೆಯ ಸರಿಸಿ ಬದಿಗೆಂದು",
+   "ಹುಟ್ಟಿನಿಂದಲೆ ಬೆಳೆಸೆ ಸುವಿಚಾರ ಸನ್ನಡತೆ",
+   "ಸುಟ್ಟುಹಾಕುವೆ ಚಟವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕೆಟ್ಟಚಟ ಸುಡುತಲಿರೆ ಜೀವನದ ಮಜಲುಗಳ\nಮೆಟ್ಟಿನಡೆ ದಟ್ಟತೆಯ ಸರಿಸಿ ಬದಿಗೆಂದು\nಹುಟ್ಟಿನಿಂದಲೆ ಬೆಳೆಸೆ ಸುವಿಚಾರ ಸನ್ನಡತೆ\nಸುಟ್ಟುಹಾಕುವೆ ಚಟವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When bad habits burn up the stages of life,",
+   "tread them down, push the thickness aside;",
+   "if from birth you nurture good thoughts and good conduct,",
+   "you will burn up the habits instead, O deluded one."
+  ],
+  "theme": "Habits",
+  "bhavartha": "Bad habits consume a life stage by stage. Good thoughts and conduct, cultivated from the start, burn the habits away instead."
+ }
+}

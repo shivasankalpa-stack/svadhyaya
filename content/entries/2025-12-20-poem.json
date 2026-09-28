@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-20-poem",
+ "type": "poem",
+ "date": "2025-12-20",
+ "time": "07:27",
+ "author": "Kusha N M",
+ "source": "2025-12-20T07:27|ನಿಮಿಷಗಳುಕಳೆಯುವವುಗಂಟೆಗಳುಸಾಗುವವು",
+ "kn": {
+  "lines": [
+   "ನಿಮಿಷಗಳು ಕಳೆಯುವವು ಗಂಟೆಗಳು ಸಾಗುವವು",
+   "ಸಮಯಗಳು ಸರಿಯುತಿವೆ ಕಾಲಗೋಗೊಟ್ಟು",
+   "ಗಮನಿಸದೆ ನಿನ್ನಿರುವ ಕಾಲವದು ಸರಿಯುತಿರೆ",
+   "ತಮಕಳೆಯೆ ಸಿದ್ಧನಿರು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಿಮಿಷಗಳು ಕಳೆಯುವವು ಗಂಟೆಗಳು ಸಾಗುವವು\nಸಮಯಗಳು ಸರಿಯುತಿವೆ ಕಾಲಗೋಗೊಟ್ಟು\nಗಮನಿಸದೆ ನಿನ್ನಿರುವ ಕಾಲವದು ಸರಿಯುತಿರೆ\nತಮಕಳೆಯೆ ಸಿದ್ಧನಿರು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Minutes pass, hours move on;",
+   "moments slip away, handing us over to time;",
+   "while your own time slips by unnoticed,",
+   "be ready to cast off your darkness, O deluded one."
+  ],
+  "theme": "Time",
+  "bhavartha": "Time slips past without our noticing. Before our own share runs out, we should be ready to shed the darkness of ignorance."
+ }
+}

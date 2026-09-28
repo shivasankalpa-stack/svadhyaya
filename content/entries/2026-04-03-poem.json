@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-03-poem",
+ "type": "poem",
+ "date": "2026-04-03",
+ "time": "07:20",
+ "author": "Kusha N M",
+ "source": "2026-04-03T07:20|ಮನದಕದವನುಮುಚ್ಚಿನಿನ್ನೊಳಗೆಮಾತಾಡುತ",
+ "kn": {
+  "lines": [
+   "ಮನದ ಕದವನು ಮುಚ್ಚಿ ನಿನ್ನೊಳಗೆ ಮಾತಾಡು",
+   "ತನುವಲಿಹ ಕಲ್ಮಶವ ಹೆಕ್ಕಿ ಹೊರಹಾಕು",
+   "ಅನುಸರಿಸು ಚಿತ್ತನುಡಿ ಅನುಕರಿಸೆ ಹಿರಿಯನಡೆ",
+   "ಸನಿಹದಲೆ ಗೆಲುವುಂಟು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಮನದ ಕದವನು ಮುಚ್ಚಿ ನಿನ್ನೊಳಗೆ ಮಾತಾಡು\nತನುವಲಿಹ ಕಲ್ಮಶವ ಹೆಕ್ಕಿ ಹೊರಹಾಕು\nಅನುಸರಿಸು ಚಿತ್ತನುಡಿ ಅನುಕರಿಸೆ ಹಿರಿಯನಡೆ\nಸನಿಹದಲೆ ಗೆಲುವುಂಟು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Close the door of your mind and talk within yourself;",
+   "pick out the impurities in you and throw them out;",
+   "follow the voice of your heart, imitate the conduct of the elders,",
+   "and victory is close at hand, O deluded one."
+  ],
+  "theme": "Introspection",
+  "bhavartha": "Spend time in quiet self-examination. Remove what is impure, listen to your conscience, follow good examples, and success is near."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-10-poem",
+ "type": "poem",
+ "date": "2026-04-10",
+ "time": "05:33",
+ "author": "Kusha N M",
+ "source": "2026-04-10T05:33|ಬೆಳೆವನಖಕೂದಲನುಕತ್ತರಿಸಿಎಸೆವಂತೆತಳ",
+ "kn": {
+  "lines": [
+   "ಬೆಳೆವನಖ ಕೂದಲನು ಕತ್ತರಿಸಿ ಎಸೆವಂತೆ",
+   "ತಳೆಯದೇ ನಿಲುವುಗಳ ಗುಣದೋಷಗಳಿಗೆ",
+   "ಮೊಳೆಯುವಿಕೆ ಮರುಕಳಿಸೆ ತುಂಡರಿಸಿ ಸತತದಲಿ",
+   "ತೊಳೆ ನಿನ್ನ ಪಾಪಗಳ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಬೆಳೆವನಖ ಕೂದಲನು ಕತ್ತರಿಸಿ ಎಸೆವಂತೆ\nತಳೆಯದೇ ನಿಲುವುಗಳ ಗುಣದೋಷಗಳಿಗೆ\nಮೊಳೆಯುವಿಕೆ ಮರುಕಳಿಸೆ ತುಂಡರಿಸಿ ಸತತದಲಿ\nತೊಳೆ ನಿನ್ನ ಪಾಪಗಳ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "As you cut and throw away growing nails and hair,",
+   "without taking a stand on virtues and faults,",
+   "whenever the sprouting returns, cut it away again and again;",
+   "wash away your sins, O deluded one."
+  ],
+  "theme": "Vigilance",
+  "bhavartha": "Faults keep growing back like nails and hair. Without fuss, keep trimming them as they appear, and keep yourself clean."
+ }
+}

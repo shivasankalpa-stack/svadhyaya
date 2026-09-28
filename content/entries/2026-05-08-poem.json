@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-08-poem",
+ "type": "poem",
+ "date": "2026-05-08",
+ "time": "06:55",
+ "author": "Kusha N M",
+ "source": "2026-05-08T06:55|ಕುಸುಮದಲಿಮಧುವನ್ನುಮಕ್ಷಿಕವುಸೆಳೆವಂ",
+ "kn": {
+  "lines": [
+   "ಕುಸುಮದಲಿ ಮಧುವನ್ನು ಮಕ್ಷಿಕವು ಸೆಳೆವಂತೆ",
+   "ಹಸಿವಿರಲು ವಿದ್ಯೆಗಳ ಬಲ್ಲರಿಂ ಪಡೆವೆ",
+   "ತುಸುಬಾಗಿ ಶರಣಾಗಿ ವಿನಯದಿಂ ಕಲಿಯುತಿರೆ",
+   "ಹೊಸಬದುಕ ಕಟ್ಟುವೆಯೊ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕುಸುಮದಲಿ ಮಧುವನ್ನು ಮಕ್ಷಿಕವು ಸೆಳೆವಂತೆ\nಹಸಿವಿರಲು ವಿದ್ಯೆಗಳ ಬಲ್ಲರಿಂ ಪಡೆವೆ\nತುಸುಬಾಗಿ ಶರಣಾಗಿ ವಿನಯದಿಂ ಕಲಿಯುತಿರೆ\nಹೊಸಬದುಕ ಕಟ್ಟುವೆಯೊ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "As the bee draws honey from the flower,",
+   "if you are hungry, you will gain learning from those who know;",
+   "if you bend a little, surrender, and keep learning with humility,",
+   "you will build a new life, O deluded one."
+  ],
+  "theme": "Humility",
+  "bhavartha": "A hungry learner, like a bee seeking nectar, draws knowledge from the wise. Humility and openness make it possible to rebuild one’s life."
+ }
+}

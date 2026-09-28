@@ -1,0 +1,28 @@
+{
+ "id": "2026-02-21-poem",
+ "type": "poem",
+ "date": "2026-02-21",
+ "time": "05:05",
+ "author": "Kusha N M",
+ "source": "2026-02-21T05:05|ದುರ್ದಿನವುದಿನಪನನುಮೇಘಮುತ್ತಿರಲಾಗಿ",
+ "kn": {
+  "lines": [
+   "ದುರ್ದಿನವು ದಿನಪನನು ಮೇಘಮುತ್ತಿರಲಾಗಿ",
+   "ಮರ್ದಿಸುವ ರವಿದಿನವು ಕತ್ತಲೆಯ ಜಗವ",
+   "ವರ್ಧಿಸುತ ಚೈತನ್ಯ ತಮನಿಶೆಯ ಕಳೆಯುತಲೆ",
+   "ಸ್ಪರ್ಧಿಪೆ ಜಗದೊಡನೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ದುರ್ದಿನವು ದಿನಪನನು ಮೇಘಮುತ್ತಿರಲಾಗಿ\nಮರ್ದಿಸುವ ರವಿದಿನವು ಕತ್ತಲೆಯ ಜಗವ\nವರ್ಧಿಸುತ ಚೈತನ್ಯ ತಮನಿಶೆಯ ಕಳೆಯುತಲೆ\nಸ್ಪರ್ಧಿಪೆ ಜಗದೊಡನೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "On a bad day, clouds besiege the sun;",
+   "but the day of the sun crushes the world’s darkness;",
+   "growing in vigour, dispelling the night of darkness,",
+   "you will compete with the world, O deluded one."
+  ],
+  "theme": "Hope",
+  "bhavartha": "Even the sun is sometimes hidden by clouds, yet its light always returns to drive out darkness. Renew your energy, shake off gloom, and hold your own in the world."
+ }
+}

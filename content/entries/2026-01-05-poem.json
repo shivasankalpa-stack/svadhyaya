@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-05-poem",
+ "type": "poem",
+ "date": "2026-01-05",
+ "time": "06:55",
+ "author": "Kusha N M",
+ "source": "2026-01-05T06:55|ಕಣ್ಣೆದುರುಕಾಣುವುದುನಿಜವೆಂಬುದೇನಿಲ",
+ "kn": {
+  "lines": [
+   "ಕಣ್ಣೆದುರು ಕಾಣುವುದು ನಿಜವೆಂಬುದೇನಿಲ್ಲ",
+   "ತಣ್ಣನೆಯೆ ಯೋಚಿಸಲು ತಿಳಿಯುವುದು ಸತ್ಯ",
+   "ಬಣ್ಣವನು ಕಳಚುತಲೆ ನಿಜಬಣ್ಣವರಿಯುತಿರೆ",
+   "ಸಣ್ಣತನ ತೊರೆದುನಡೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕಣ್ಣೆದುರು ಕಾಣುವುದು ನಿಜವೆಂಬುದೇನಿಲ್ಲ\nತಣ್ಣನೆಯೆ ಯೋಚಿಸಲು ತಿಳಿಯುವುದು ಸತ್ಯ\nಬಣ್ಣವನು ಕಳಚುತಲೆ ನಿಜಬಣ್ಣವರಿಯುತಿರೆ\nಸಣ್ಣತನ ತೊರೆದುನಡೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "What you see before your eyes is not necessarily true;",
+   "truth is known when you think it through calmly;",
+   "as you strip off the paint and come to know the real colour,",
+   "walk on, leaving pettiness behind, O deluded one."
+  ],
+  "theme": "Discernment",
+  "bhavartha": "Appearances deceive. Truth emerges from calm reflection. As we learn to see past the surface, we should also let go of small-mindedness."
+ }
+}

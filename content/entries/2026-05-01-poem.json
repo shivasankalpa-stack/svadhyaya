@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-01-poem",
+ "type": "poem",
+ "date": "2026-05-01",
+ "time": "05:18",
+ "author": "Kusha N M",
+ "source": "2026-05-01T05:18|ಬುದ್ಧಿವಂತನೆಯಿರಲಿಮೇರುವಿದ್ಯೆಗಳಿರ",
+ "kn": {
+  "lines": [
+   "ಬುದ್ಧಿವಂತನೆಯಿರಲಿ ಮೇರು ವಿದ್ಯೆಗಳಿರಲಿ",
+   "ಸಿದ್ಧಿಪಡೆದವನಿರಲಿ ಬೇರೆ ವಿಷಯದಲಿ",
+   "ಶುದ್ಧಮನವಿಲ್ಲದಲೆ ಅನ್ಯರನು ಹೀಗಳೆಯೆ",
+   "ರದ್ದಿ ಸಮ ಜೀವನವು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಬುದ್ಧಿವಂತನೆಯಿರಲಿ ಮೇರು ವಿದ್ಯೆಗಳಿರಲಿ\nಸಿದ್ಧಿಪಡೆದವನಿರಲಿ ಬೇರೆ ವಿಷಯದಲಿ\nಶುದ್ಧಮನವಿಲ್ಲದಲೆ ಅನ್ಯರನು ಹೀಗಳೆಯೆ\nರದ್ದಿ ಸಮ ಜೀವನವು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Be he intelligent, have he the highest learning,",
+   "be he accomplished in some other field,",
+   "if, without a pure mind, he belittles others,",
+   "his life is like waste paper, O deluded one."
+  ],
+  "theme": "Purity",
+  "bhavartha": "Brilliance, learning and achievement are worthless if one lacks a clean heart and looks down on others."
+ }
+}

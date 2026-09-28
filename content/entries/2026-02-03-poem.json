@@ -1,0 +1,28 @@
+{
+ "id": "2026-02-03-poem",
+ "type": "poem",
+ "date": "2026-02-03",
+ "time": "07:00",
+ "author": "Kusha N M",
+ "source": "2026-02-03T07:00|ಕಷ್ಟಬರುವುದೆಮನವಗಟ್ಟಿಯಾಗಿಸಲೆಂದುನ",
+ "kn": {
+  "lines": [
+   "ಕಷ್ಟ ಬರುವುದೆ ಮನವ ಗಟ್ಟಿಯಾಗಿಸಲೆಂದು",
+   "ನಷ್ಟನಿನಗಾಗುವುದು ಕುಗ್ಗಿರಲು ಮನವು",
+   "ಯಷ್ಟಿಯಾಗಿರೆ ಮನವು ಕಷ್ಟಗಳ ದೂರವಿಡೆ",
+   "ಇಷ್ಟ ಸಾಧಿಪೆ ನೀನು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕಷ್ಟ ಬರುವುದೆ ಮನವ ಗಟ್ಟಿಯಾಗಿಸಲೆಂದು\nನಷ್ಟನಿನಗಾಗುವುದು ಕುಗ್ಗಿರಲು ಮನವು\nಯಷ್ಟಿಯಾಗಿರೆ ಮನವು ಕಷ್ಟಗಳ ದೂರವಿಡೆ\nಇಷ್ಟ ಸಾಧಿಪೆ ನೀನು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Hardship comes to make the mind strong;",
+   "the loss is yours if the mind shrinks;",
+   "if the mind is a firm staff that keeps hardships away,",
+   "you will achieve what you desire, O deluded one."
+  ],
+  "theme": "Resilience",
+  "bhavartha": "Difficulties exist to strengthen us. A shrinking mind loses; a mind as firm as a staff holds hardship at bay and reaches its goal."
+ }
+}

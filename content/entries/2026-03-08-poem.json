@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-08-poem",
+ "type": "poem",
+ "date": "2026-03-08",
+ "time": "04:59",
+ "author": "Kusha N M",
+ "source": "2026-03-08T04:59|ಅಸ್ತಿತ್ವದುಳಿವಿಗೇದಿನನಿತ್ಯಕಾದಾಟಮ",
+ "kn": {
+  "lines": [
+   "ಅಸ್ತಿತ್ವದುಳಿವಿಗೇ ದಿನನಿತ್ಯ ಕಾದಾಟ",
+   "ಮಸ್ತಿಷ್ಕವಿರಲಲ್ಲಿ ಮನುಜತ್ವದುಳಿವು",
+   "ಸುಸ್ಥಿತಿಯ ಜಗವೆಮಗೆ ಗುರಿಯಾಗೆ ಬದುಕಿನಲಿ",
+   "ದುಸ್ತರವ ನೀಗಿನಡೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಅಸ್ತಿತ್ವದುಳಿವಿಗೇ ದಿನನಿತ್ಯ ಕಾದಾಟ\nಮಸ್ತಿಷ್ಕವಿರಲಲ್ಲಿ ಮನುಜತ್ವದುಳಿವು\nಸುಸ್ಥಿತಿಯ ಜಗವೆಮಗೆ ಗುರಿಯಾಗೆ ಬದುಕಿನಲಿ\nದುಸ್ತರವ ನೀಗಿನಡೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Every day is a fight to keep existing;",
+   "where there is a mind, humanity survives;",
+   "when a well-ordered world is our goal in life,",
+   "walk on, overcoming what is hard to cross, O deluded one."
+  ],
+  "theme": "Humanity",
+  "bhavartha": "Life is a daily struggle to survive, but a thinking mind keeps our humanity alive. Aim for a better world and push through the hardest obstacles."
+ }
+}

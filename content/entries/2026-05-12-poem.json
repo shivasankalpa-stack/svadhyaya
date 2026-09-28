@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-12-poem",
+ "type": "poem",
+ "date": "2026-05-12",
+ "time": "06:55",
+ "author": "Kusha N M",
+ "source": "2026-05-12T06:55|ಸಂಕಲ್ಪಸಿದ್ಧಿಗಿವೆನೂರಾರುದಾರಿಗಳುಶ",
+ "kn": {
+  "lines": [
+   "ಸಂಕಲ್ಪ ಸಿದ್ಧಿಗಿವೆ ನೂರಾರು ದಾರಿಗಳು",
+   "ಶಂಕೆಗಳು ಪಥಿಕನನು ಕಾಡುವುದು ಸಹಜ",
+   "ಅಂಕೆಯಲ್ಲಿರಲುಮನ ಅನುಭವವೆ ಪರಿಹಾರ",
+   "ಅಂಕಣದೆ ಗೆಲುವಿಹುದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಸಂಕಲ್ಪ ಸಿದ್ಧಿಗಿವೆ ನೂರಾರು ದಾರಿಗಳು\nಶಂಕೆಗಳು ಪಥಿಕನನು ಕಾಡುವುದು ಸಹಜ\nಅಂಕೆಯಲ್ಲಿರಲುಮನ ಅನುಭವವೆ ಪರಿಹಾರ\nಅಂಕಣದೆ ಗೆಲುವಿಹುದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "There are hundreds of ways to fulfil a resolve;",
+   "it is natural for doubts to trouble the traveller;",
+   "if the mind is kept in check, experience is the remedy;",
+   "victory lies in the arena, O deluded one."
+  ],
+  "theme": "Resolve",
+  "bhavartha": "There are many paths to any goal, and doubts are natural along the way. A disciplined mind and experience overcome them, and victory is won by staying in the field."
+ }
+}

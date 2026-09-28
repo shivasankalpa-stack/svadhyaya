@@ -1,0 +1,28 @@
+{
+ "id": "2026-02-06-poem",
+ "type": "poem",
+ "date": "2026-02-06",
+ "time": "04:41",
+ "author": "Kusha N M",
+ "source": "2026-02-06T04:41|ಅಸಹನೆಕೋಪಗಳುಮಾನವನಧೃತಿಗೆಡಿಸೆಅಸಮರ",
+ "kn": {
+  "lines": [
+   "ಅಸಹನೆ ಕೋಪಗಳು ಮಾನವನ ಧೃತಿಗೆಡಿಸೆ",
+   "ಅಸಮರ್ಥನಾಗುವನು ಕರ್ಮ ಮಾಡುದಕೆ",
+   "ಹಸನದುವೆ ಜೀವನವು ಸಹನೆ ಸಂಯಮವಿರಲು",
+   "ಕಸುವದುವೆ ನಿನಗೆಂದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಅಸಹನೆ ಕೋಪಗಳು ಮಾನವನ ಧೃತಿಗೆಡಿಸೆ\nಅಸಮರ್ಥನಾಗುವನು ಕರ್ಮ ಮಾಡುದಕೆ\nಹಸನದುವೆ ಜೀವನವು ಸಹನೆ ಸಂಯಮವಿರಲು\nಕಸುವದುವೆ ನಿನಗೆಂದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When impatience and anger shake a person’s nerve,",
+   "he becomes unable to do his work;",
+   "life becomes fine when there is patience and restraint;",
+   "that is your strength forever, O deluded one."
+  ],
+  "theme": "Patience",
+  "bhavartha": "Impatience and anger disable us. Patience and self-control make life good and are a lasting strength."
+ }
+}

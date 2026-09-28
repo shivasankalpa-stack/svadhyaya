@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-28-poem",
+ "type": "poem",
+ "date": "2026-04-28",
+ "time": "07:09",
+ "author": "Kusha N M",
+ "source": "2026-04-28T07:09|ಹುಟ್ಟುಸಾವಿನಾಯ್ಕೆನಿನ್ನಪರಿಧಿಯಲಿಲ",
+ "kn": {
+  "lines": [
+   "ಹುಟ್ಟು ಸಾವಿನಾಯ್ಕೆ ನಿನ್ನ ಪರಿಧಿಯಲಿಲ್ಲ",
+   "ಗುಟ್ಟದುವೆ ತಿಳಿಯದಿಹ ಜೀವನರಹಸ್ಯ",
+   "ತೊಟ್ಟಿರುವ ನಿನವೇಷ ಸೂತ್ರಿಕನ ನಿರ್ಧಾರ",
+   "ಬಿಟ್ಟಿ ಮೆರೆಯಲುಬೇಡ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹುಟ್ಟು ಸಾವಿನಾಯ್ಕೆ ನಿನ್ನ ಪರಿಧಿಯಲಿಲ್ಲ\nಗುಟ್ಟದುವೆ ತಿಳಿಯದಿಹ ಜೀವನರಹಸ್ಯ\nತೊಟ್ಟಿರುವ ನಿನವೇಷ ಸೂತ್ರಿಕನ ನಿರ್ಧಾರ\nಬಿಟ್ಟಿ ಮೆರೆಯಲುಬೇಡ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "The choice of birth and death is not within your reach;",
+   "that is the secret of life, which no one knows;",
+   "the costume you wear is the stage-director’s decision;",
+   "don’t show off for nothing, O deluded one."
+  ],
+  "theme": "Humility",
+  "bhavartha": "We choose neither our birth nor our death; the role we play is assigned by the Director. There is nothing to be proud of."
+ }
+}

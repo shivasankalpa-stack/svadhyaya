@@ -1,0 +1,28 @@
+{
+ "id": "2026-07-02-poem",
+ "type": "poem",
+ "date": "2026-07-02",
+ "time": "05:31",
+ "author": "Kusha N M",
+ "source": "2026-07-02T05:31|ನಡತೆಯಲಿಅಳವಡಿಸುನೀನಾಡೊಮಾತುಗಳಸಿಡು",
+ "kn": {
+  "lines": [
+   "ನಡತೆಯಲಿ ಅಳವಡಿಸು ನೀನಾಡೊ ಮಾತುಗಳ",
+   "ಸಿಡುಕದಿರು ನಿನತಪ್ಪು ತೋರಿಸುವ ಜನಕೆ",
+   "ಮಿಡಿಯುತಿರೆ ಮನನಿನದು ನ್ಯೂನತೆಯ ಸರಿಪಡಿಸೆ",
+   "ಅಡಿಯದುವೆ ಬದಲಿಕೆಗೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಡತೆಯಲಿ ಅಳವಡಿಸು ನೀನಾಡೊ ಮಾತುಗಳ \nಸಿಡುಕದಿರು ನಿನತಪ್ಪು ತೋರಿಸುವ ಜನಕೆ\nಮಿಡಿಯುತಿರೆ ಮನನಿನದು ನ್ಯೂನತೆಯ ಸರಿಪಡಿಸೆ\nಅಡಿಯದುವೆ ಬದಲಿಕೆಗೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Bring the words you speak into your conduct;",
+   "do not snap at people who point out your mistakes;",
+   "when your mind is moved to correct its failings,",
+   "that is the first step to change, O deluded one."
+  ],
+  "theme": "Openness",
+  "bhavartha": "Live what you say, and accept correction without irritation. The willingness to fix our faults is the beginning of change."
+ }
+}

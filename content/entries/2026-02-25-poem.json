@@ -1,0 +1,28 @@
+{
+ "id": "2026-02-25-poem",
+ "type": "poem",
+ "date": "2026-02-25",
+ "time": "04:41",
+ "author": "Kusha N M",
+ "source": "2026-02-25T04:41|ಕುಳಿತುಚರ್ಚೆಯಮಾಡುಮತಭೇದಸರಿಪಡಿಸೆತ",
+ "kn": {
+  "lines": [
+   "ಕುಳಿತು ಚರ್ಚೆಯಮಾಡು ಮತಭೇದ ಸರಿಪಡಿಸೆ",
+   "ತಿಳಿಗೊಳಿಸು ದ್ವೇಷಮನ ಒಳಸುಳಿಯನರಿತು",
+   "ಅಳವಡಿಸೆ ಮಂಥನದೆ ಉದಿಸಿರುವ ವಿಷಯಗಳ",
+   "ಉಳಿಸುವೆಯೊ ಏಕತೆಯ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕುಳಿತು ಚರ್ಚೆಯಮಾಡು ಮತಭೇದ ಸರಿಪಡಿಸೆ\nತಿಳಿಗೊಳಿಸು ದ್ವೇಷಮನ ಒಳಸುಳಿಯನರಿತು\nಅಳವಡಿಸೆ ಮಂಥನದೆ ಉದಿಸಿರುವ ವಿಷಯಗಳ\nಉಳಿಸುವೆಯೊ ಏಕತೆಯ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Sit down and talk it through to heal differences of opinion;",
+   "calm the mind full of hatred by understanding its undercurrents;",
+   "if you put into practice what emerges from churning it over,",
+   "you will preserve unity, O deluded one."
+  ],
+  "theme": "Dialogue",
+  "bhavartha": "Disagreements are best settled by sitting together and talking. Understand what lies beneath the anger, act on what the discussion brings up, and unity survives."
+ }
+}

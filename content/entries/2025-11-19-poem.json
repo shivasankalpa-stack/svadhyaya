@@ -1,0 +1,28 @@
+{
+ "id": "2025-11-19-poem",
+ "type": "poem",
+ "date": "2025-11-19",
+ "time": "10:22",
+ "author": "Kusha N M",
+ "source": "2025-11-19T10:22|ಕತ್ತಲಲೆನವಮಾಸಕಳೆಯುತಲೆಮಾನವನೆಬತ್ತ",
+ "kn": {
+  "lines": [
+   "ಕತ್ತಲಲೆ ನವಮಾಸ ಕಳೆಯುತಲೆ ಮಾನವನೆ",
+   "ಬತ್ತದಿಹ ಬೆಳಕನ್ನು ಪಡೆಯುವೆಯೊ ನೀನು",
+   "ಚಿತ್ತದಲಿ ಸದ್ಗುಣದ ದೀಪಸ್ತಂಭವ ನಿಲಿಸಿ",
+   "ಬಿತ್ತುನೀ ಬೆಳಕನ್ನೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕತ್ತಲಲೆ ನವಮಾಸ ಕಳೆಯುತಲೆ ಮಾನವನೆ\nಬತ್ತದಿಹ ಬೆಳಕನ್ನು ಪಡೆಯುವೆಯೊ ನೀನು\nಚಿತ್ತದಲಿ ಸದ್ಗುಣದ ದೀಪಸ್ತಂಭವ ನಿಲಿಸಿ\nಬಿತ್ತುನೀ ಬೆಳಕನ್ನೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Nine months you spent in darkness, O man,",
+   "and then received a light that never runs dry;",
+   "set up a lamp-post of virtue in your mind,",
+   "and sow that light in turn, O deluded one."
+  ],
+  "theme": "Light",
+  "bhavartha": "We come out of the darkness of the womb into a light we did not earn. The fitting return is to raise a steady lamp of good qualities within and spread its light to others."
+ }
+}

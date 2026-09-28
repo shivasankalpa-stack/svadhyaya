@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-22-poem",
+ "type": "poem",
+ "date": "2026-03-22",
+ "time": "06:40",
+ "author": "Kusha N M",
+ "source": "2026-03-22T06:40|ಸಾಲಶೂಲದಿನರಳಿಹೆಣಗಾಡೊಬದಲಿನಲಿಕಾಲು",
+ "kn": {
+  "lines": [
+   "ಸಾಲಶೂಲದಿ ನರಳಿ ಹೆಣಗಾಡೊ ಬದಲಿನಲಿ",
+   "ಕಾಲು ಚಾಚಲು ಕಲಿಯೊ ಹಾಸಿಗೆಯ ಅಳತೆ",
+   "ಹಾಲು ಸಕ್ಕರೆ ತೆರದಿ ಹದವರಿತು ಬದುಕುತಿರೆ",
+   "ಕಾಲಕೂಟವೆ ಸಿಗದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಸಾಲಶೂಲದಿ ನರಳಿ ಹೆಣಗಾಡೊ ಬದಲಿನಲಿ\nಕಾಲು ಚಾಚಲು ಕಲಿಯೊ ಹಾಸಿಗೆಯ ಅಳತೆ\nಹಾಲು ಸಕ್ಕರೆ ತೆರದಿ ಹದವರಿತು ಬದುಕುತಿರೆ\nಕಾಲಕೂಟವೆ ಸಿಗದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Instead of groaning and struggling on the stake of debt,",
+   "learn to stretch your legs to the length of your bed;",
+   "if you live knowing the right measure, like milk and sugar,",
+   "you will never meet the deadly poison, O deluded one."
+  ],
+  "theme": "Moderation",
+  "bhavartha": "The Kannada proverb says: stretch your legs only as far as your mattress. Live within your means, in the right proportion, and you will avoid the poison of debt."
+ }
+}

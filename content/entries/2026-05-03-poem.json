@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-03-poem",
+ "type": "poem",
+ "date": "2026-05-03",
+ "time": "06:45",
+ "author": "Kusha N M",
+ "source": "2026-05-03T06:45|ನಾಡಿಮಿಡಿತವೆಬೇರೆಹೃದಯಬಡಿತವೆಬೇರೆನ",
+ "kn": {
+  "lines": [
+   "ನಾಡಿಮಿಡಿತವೆ ಬೇರೆ ಹೃದಯಬಡಿತವೆ ಬೇರೆ",
+   "ನೀಡಿಹವು ಕಾಯಕ್ಕೆ ತಂತಮ್ಮ ಕೊಡುಗೆ",
+   "ನಾಡಿಮಿಡಿತವೆ ಬಾಳು ಎದೆಯ ಬಡಿತವೆ ಜೀವ",
+   "ಬಾಡೆ ಬಿಡದಿರು ಬದುಕ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಾಡಿಮಿಡಿತವೆ ಬೇರೆ ಹೃದಯಬಡಿತವೆ ಬೇರೆ\nನೀಡಿಹವು ಕಾಯಕ್ಕೆ ತಂತಮ್ಮ ಕೊಡುಗೆ\nನಾಡಿಮಿಡಿತವೆ ಬಾಳು ಎದೆಯ ಬಡಿತವೆ ಜೀವ\nಬಾಡೆ ಬಿಡದಿರು ಬದುಕ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "The pulse is one thing, the heartbeat another;",
+   "each makes its own contribution to the body;",
+   "the pulse is living, the heartbeat is life;",
+   "don’t let life wither, O deluded one."
+  ],
+  "theme": "Vitality",
+  "bhavartha": "The pulse and the heartbeat each sustain the body in their own way; one is the rhythm of living, the other life itself. Keep both alive, and don’t let your spirit wilt."
+ }
+}

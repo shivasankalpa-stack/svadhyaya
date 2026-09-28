@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-07-poem",
+ "type": "poem",
+ "date": "2026-01-07",
+ "time": "05:24",
+ "author": "Kusha N M",
+ "source": "2026-01-07T05:24|ಮರೆಮಾಚಿಸತ್ಯವನುಸುಳ್ಳನ್ನೇಹೇಳುತಿರ",
+ "kn": {
+  "lines": [
+   "ಮರೆಮಾಚಿ ಸತ್ಯವನು ಸುಳ್ಳನ್ನೇ ಹೇಳುತಿರೆ",
+   "ತೆರೆಸರಿಯೆ ಸುಳ್ಳಪೊರೆ ಕಳಚಲೇಬೇಕು",
+   "ಪೊರೆವ ಸತ್ಯವ ತೊರೆದು ಭ್ರಮೆಯ ಬಂಗಲೆ ಕಟ್ಟೆ",
+   "ಮರಣಿಸುವೆ ಕಷ್ಟದಲೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಮರೆಮಾಚಿ ಸತ್ಯವನು ಸುಳ್ಳನ್ನೇ ಹೇಳುತಿರೆ\nತೆರೆಸರಿಯೆ ಸುಳ್ಳಪೊರೆ ಕಳಚಲೇಬೇಕು\nಪೊರೆವ ಸತ್ಯವ ತೊರೆದು ಭ್ರಮೆಯ ಬಂಗಲೆ ಕಟ್ಟೆ\nಮರಣಿಸುವೆ ಕಷ್ಟದಲೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If you hide the truth and keep telling lies,",
+   "when the curtain lifts, the skin of lies must fall;",
+   "abandoning the truth that protects, you build a mansion of illusion,",
+   "and die in hardship, O deluded one."
+  ],
+  "theme": "Truth",
+  "bhavartha": "Lies are always exposed in the end. Truth protects us; a life built on illusion ends in suffering."
+ }
+}

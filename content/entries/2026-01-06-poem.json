@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-06-poem",
+ "type": "poem",
+ "date": "2026-01-06",
+ "time": "06:18",
+ "author": "Kusha N M",
+ "source": "2026-01-06T06:18|ಸುಳ್ಳುಸಕ್ಕರೆಯಾಗಿಸತ್ಯಕಹಿಯಿರಲಾಗಮ",
+ "kn": {
+  "lines": [
+   "ಸುಳ್ಳು ಸಕ್ಕರೆಯಾಗಿ ಸತ್ಯ ಕಹಿಯಿರಲಾಗ",
+   "ಮುಳ್ಳುಹಾಸಾಗುವುದು ಜೀವನದ ದಾರಿ",
+   "ಪೊಳ್ಳುನಟನೆಯ ಬದುಕು ತೊಡಕಾಗಿ ಪರಿಣಮಿಸೆ",
+   "ಕಳ್ಳತನ ತೊರೆಯೊನೀ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಸುಳ್ಳು ಸಕ್ಕರೆಯಾಗಿ ಸತ್ಯ ಕಹಿಯಿರಲಾಗ\nಮುಳ್ಳುಹಾಸಾಗುವುದು ಜೀವನದ ದಾರಿ\nಪೊಳ್ಳುನಟನೆಯ ಬದುಕು ತೊಡಕಾಗಿ ಪರಿಣಮಿಸೆ\nಕಳ್ಳತನ ತೊರೆಯೊನೀ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When lies are sugar and truth is bitter,",
+   "the road of life becomes a bed of thorns;",
+   "as a hollow, play-acted life turns into a tangle,",
+   "give up the thieving, O deluded one."
+  ],
+  "theme": "Honesty",
+  "bhavartha": "Sweet lies make the road thorny in the end. A life of pretence becomes a trap. Let go of deceit."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-07-09-poem",
+ "type": "poem",
+ "date": "2026-07-09",
+ "time": "06:12",
+ "author": "Kusha N M",
+ "source": "2026-07-09T06:12|ಕೆಲಸದಲಿತೋರುವುದುಕೆಲಜನರಸಾಮರ್ಥ್ಯಹ",
+ "kn": {
+  "lines": [
+   "ಕೆಲಸದಲಿ ತೋರುವುದು ಕೆಲಜನರ ಸಾಮರ್ಥ್ಯ",
+   "ಹಲುಬುವರು ಹಲವುಜನ ಸ್ವಂತ ಬಲವಿರದೆ",
+   "ಸುಲಭವಹು ಇತರಲಿಹ ಗುಣದೋಷವೆಣಿಸುದಕೆ",
+   "ಗೆಲುನೀನು ನಿರ್ಬಲತೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕೆಲಸದಲಿ ತೋರುವುದು ಕೆಲಜನರ ಸಾಮರ್ಥ್ಯ\nಹಲುಬುವರು ಹಲವುಜನ ಸ್ವಂತ ಬಲವಿರದೆ\nಸುಲಭವಹು ಇತರಲಿಹ ಗುಣದೋಷವೆಣಿಸುದಕೆ\nಗೆಲುನೀನು ನಿರ್ಬಲತೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Some people’s ability shows in their work;",
+   "many people complain, having no strength of their own;",
+   "it is easy to count up the virtues and faults in others;",
+   "conquer your own weakness, O deluded one."
+  ],
+  "theme": "Self-improvement",
+  "bhavartha": "Some prove themselves through work; others only complain. Judging others is easy. The real task is overcoming our own weaknesses."
+ }
+}

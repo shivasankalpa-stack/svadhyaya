@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-02-poem",
+ "type": "poem",
+ "date": "2025-12-02",
+ "time": "07:30",
+ "author": "Kusha N M",
+ "source": "2025-12-02T07:30|ಹುಟ್ಟಿನೊಡನೆಯೆಸಾವಜೊತೆಗೊಯ್ದುತಂದಿ",
+ "kn": {
+  "lines": [
+   "ಹುಟ್ಟಿನೊಡನೆಯೆ ಸಾವ ಜೊತೆಗೊಯ್ದು ತಂದಿಹೆವು",
+   "ದಿಟ್ಟನಡಿಗೆಯು ಬೇಕು ನೆಟ್ಟಗುರಿಯೊಡನೆ",
+   "ಪುಟ್ಟ ಮನಸಲಿ ಎಂದು ಗಟ್ಟಿತನ ತುಂಬಿರಲು",
+   "ಹುಟ್ಟೆಂದು ಸಾರ್ಥಕವು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹುಟ್ಟಿನೊಡನೆಯೆ ಸಾವ ಜೊತೆಗೊಯ್ದು ತಂದಿಹೆವು\nದಿಟ್ಟನಡಿಗೆಯು ಬೇಕು ನೆಟ್ಟಗುರಿಯೊಡನೆ\nಪುಟ್ಟ ಮನಸಲಿ ಎಂದು ಗಟ್ಟಿತನ ತುಂಬಿರಲು\nಹುಟ್ಟೆಂದು ಸಾರ್ಥಕವು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "We came into this world carrying death with our birth;",
+   "we need a bold stride and a firmly planted goal;",
+   "if we fill even a small mind with firmness,",
+   "then birth is truly fulfilled, O deluded one."
+  ],
+  "theme": "Purpose",
+  "bhavartha": "Death is born with us. Given that, what matters is walking boldly toward a clear goal with a resolute mind; that is what makes a life worthwhile."
+ }
+}

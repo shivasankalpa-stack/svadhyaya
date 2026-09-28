@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-04-poem",
+ "type": "poem",
+ "date": "2026-06-04",
+ "time": "05:18",
+ "author": "Kusha N M",
+ "source": "2026-06-04T05:18|ಮರಣದಲಿಜತೆನಿಲರುಹುಟ್ಟಿನಲಿಜೊತೆಯಿರ",
+ "kn": {
+  "lines": [
+   "ಮರಣದಲಿ ಜತೆನಿಲರು ಹುಟ್ಟಿನಲಿ ಜೊತೆಯಿರದೆ",
+   "ಹರವಿರುವ ಬದುಕಿನಲಿ ಮಾನವನು ಒಂಟಿ",
+   "ನಿರತವಿಹ ಸಂಗದಲಿ ನೋವುನಲಿವನು ಸಹಿಸೆ",
+   "ಮರೆಯುವನು ಒಂಟಿತನ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಮರಣದಲಿ ಜತೆನಿಲರು ಹುಟ್ಟಿನಲಿ ಜೊತೆಯಿರದೆ\nಹರವಿರುವ ಬದುಕಿನಲಿ ಮಾನವನು ಒಂಟಿ\nನಿರತವಿಹ ಸಂಗದಲಿ ನೋವುನಲಿವನು ಸಹಿಸೆ\nಮರೆಯುವನು ಒಂಟಿತನ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "None stand with us in death; none were with us at birth;",
+   "in the wide sprawl of life, a person is alone;",
+   "bearing pain and joy in constant company,",
+   "he forgets his loneliness, O deluded one."
+  ],
+  "theme": "Companionship",
+  "bhavartha": "We are born and die alone. In between, good company that shares our joys and sorrows lets us forget that loneliness."
+ }
+}

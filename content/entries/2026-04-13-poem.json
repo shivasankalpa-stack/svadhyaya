@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-13-poem",
+ "type": "poem",
+ "date": "2026-04-13",
+ "time": "05:19",
+ "author": "Kusha N M",
+ "source": "2026-04-13T05:19|ಮೂಳೆಯಿಲ್ಲದರಸನೆಗಂಕುಶವಹಾಕಿಬಿಡುಕೀ",
+ "kn": {
+  "lines": [
+   "ಮೂಳೆಯಿಲ್ಲದ ರಸನೆಗಂಕುಶವ ಹಾಕಿಬಿಡು",
+   "ಕೀಳು ಮಾತುಗಳಾಡೆ ನಾಶ ನಿಶ್ಚಿತವು",
+   "ಏಳುಬೀಳುಗಳಿಗೆಲ್ಲಾ ನಿನನುಡಿಯೆ ಆಧಾರ",
+   "ಬಾಳು ಹಿತ ಮಿತದಲ್ಲಿ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಮೂಳೆಯಿಲ್ಲದ ರಸನೆಗಂಕುಶವ ಹಾಕಿಬಿಡು\nಕೀಳು ಮಾತುಗಳಾಡೆ ನಾಶ ನಿಶ್ಚಿತವು\nಏಳುಬೀಳುಗಳಿಗೆಲ್ಲಾ ನಿನನುಡಿಯೆ ಆಧಾರ\nಬಾಳು ಹಿತ ಮಿತದಲ್ಲಿ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Put a goad on the boneless tongue;",
+   "if you speak low words, ruin is certain;",
+   "your words are the ground of all your rises and falls;",
+   "live with kindness and measure, O deluded one."
+  ],
+  "theme": "Speech",
+  "bhavartha": "The tongue has no bone, yet it can break everything. Coarse speech brings ruin; our words decide our fortunes. Speak kindly and sparingly."
+ }
+}

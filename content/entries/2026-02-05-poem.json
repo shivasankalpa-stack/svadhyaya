@@ -1,0 +1,28 @@
+{
+ "id": "2026-02-05-poem",
+ "type": "poem",
+ "date": "2026-02-05",
+ "time": "05:48",
+ "author": "Kusha N M",
+ "source": "2026-02-05T05:48|ಮುಂದೆಬರೊಘಟನೆಗಳಊಹಿಪುದುಕಠಿಣವಹುಹಿ",
+ "kn": {
+  "lines": [
+   "ಮುಂದೆಬರೊ ಘಟನೆಗಳ ಊಹಿಪುದು ಕಠಿಣವಹು",
+   "ಹಿಂದಾದ ವಿಷಯಗಳೆ ಮನವ ಹಿಡಿಯುವವು",
+   "ಸಂದಿರುವ ಬಾಳುವೆಯ ಅಳೆದು ತೂಗುತ ನಡೆಯೆ",
+   "ಬಂದ ಋಣ ತೀರಿಸುವೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಮುಂದೆಬರೊ ಘಟನೆಗಳ ಊಹಿಪುದು ಕಠಿಣವಹು\nಹಿಂದಾದ ವಿಷಯಗಳೆ ಮನವ ಹಿಡಿಯುವವು\nಸಂದಿರುವ ಬಾಳುವೆಯ ಅಳೆದು ತೂಗುತ ನಡೆಯೆ\nಬಂದ ಋಣ ತೀರಿಸುವೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "It is hard to guess what the future holds;",
+   "it is past events that grip the mind;",
+   "if you walk weighing and measuring the life you have lived,",
+   "you will repay the debts you came with, O deluded one."
+  ],
+  "theme": "Reflection",
+  "bhavartha": "We cannot know the future, and the past holds us back. Reflect honestly on the life lived so far, and fulfil the obligations (ṛṇa) we were born with."
+ }
+}

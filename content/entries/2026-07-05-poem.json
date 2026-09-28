@@ -1,0 +1,28 @@
+{
+ "id": "2026-07-05-poem",
+ "type": "poem",
+ "date": "2026-07-05",
+ "time": "05:34",
+ "author": "Kusha N M",
+ "source": "2026-07-05T05:34|ಕೋಪವಿರುವೆಡೆಯಲ್ಲಿಮೌನವೇಲೇಸಹುದುಸೋ",
+ "kn": {
+  "lines": [
+   "ಕೋಪವಿರುವೆಡೆಯಲ್ಲಿ ಮೌನವೇ ಲೇಸಹುದು",
+   "ಸೋಪಾನವಹುದದುವೆ ಶಾಂತಿ ಸ್ಥಾಪನೆಗೆ",
+   "ಜೋಪಾನಪಡಿಸೆ ಮನ ಭಾವನೆಯ ಹಿಡಿದಿರಿಸಿ",
+   "ಛಾಪಿಸುವೆ ಸುಖಬದುಕ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕೋಪವಿರುವೆಡೆಯಲ್ಲಿ ಮೌನವೇ ಲೇಸಹುದು\nಸೋಪಾನವಹುದದುವೆ ಶಾಂತಿ ಸ್ಥಾಪನೆಗೆ\nಜೋಪಾನಪಡಿಸೆ ಮನ ಭಾವನೆಯ ಹಿಡಿದಿರಿಸಿ\nಛಾಪಿಸುವೆ ಸುಖಬದುಕ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Where there is anger, silence is best;",
+   "it becomes the stair to establishing peace;",
+   "if you guard the mind and hold back your feelings,",
+   "you will print a happy life, O deluded one."
+  ],
+  "theme": "Silence",
+  "bhavartha": "In the face of anger, silence is best; it is the first step toward peace. Protect your mind, hold your emotions in check, and life becomes happy."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-01-poem",
+ "type": "poem",
+ "date": "2026-04-01",
+ "time": "06:43",
+ "author": "Kusha N M",
+ "source": "2026-04-01T06:43|ಆತುರದಸಂಕಲ್ಪಅವನತಿಯತಂದೀತುಮಾತುಗಳಸ",
+ "kn": {
+  "lines": [
+   "ಆತುರದ ಸಂಕಲ್ಪ ಅವನತಿಯ ತಂದೀತು",
+   "ಮಾತುಗಳ ಸಮಯದಲಿ ಮನ ಹಿಡಿತವಿರಲಿ",
+   "ಸೋತ ನೋವಲಿ ಶಪಥ ಗೆಲಿದ ನಲಿವಲಿ ವಚನ",
+   "ಪಾತಾಳಕೊಯ್ಯುವುದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಆತುರದ ಸಂಕಲ್ಪ ಅವನತಿಯ ತಂದೀತು\nಮಾತುಗಳ ಸಮಯದಲಿ ಮನ ಹಿಡಿತವಿರಲಿ\nಸೋತ ನೋವಲಿ ಶಪಥ ಗೆಲಿದ ನಲಿವಲಿ ವಚನ\nಪಾತಾಳಕೊಯ್ಯುವುದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "A hasty vow may bring downfall;",
+   "keep your mind in check when words fly;",
+   "an oath in the pain of defeat, a promise in the joy of victory,",
+   "will drag you to the netherworld, O deluded one."
+  ],
+  "theme": "Restraint",
+  "bhavartha": "Don’t make vows in haste. Oaths sworn in the bitterness of defeat or promises made in the flush of success can ruin us. Guard your words when emotions run high."
+ }
+}

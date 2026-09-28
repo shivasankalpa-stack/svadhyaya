@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-30-poem",
+ "type": "poem",
+ "date": "2026-05-30",
+ "time": "08:09",
+ "author": "Kusha N M",
+ "source": "2026-05-30T08:09|ಸತ್ತುಹೋದವರಾರುಎತ್ತಹೋಹರೊತಿಳಿಯೆಹೊ",
+ "kn": {
+  "lines": [
+   "ಸತ್ತುಹೋದವರಾರು ಎತ್ತಹೋಹರೊ ತಿಳಿಯೆ",
+   "ಹೊತ್ತುಹೋಗುವರೇನು ಧನಕನಕ ವಸ್ತು",
+   "ಕಿತ್ತುತಿನ್ನುವ ಕೊರತೆ ಹೊತ್ತು ಮೆರೆಸುವ ಒರತೆ",
+   "ಸತ್ತವರ ಕಾಡಿಸದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಸತ್ತುಹೋದವರಾರು ಎತ್ತಹೋಹರೊ ತಿಳಿಯೆ\nಹೊತ್ತುಹೋಗುವರೇನು ಧನಕನಕ ವಸ್ತು\nಕಿತ್ತುತಿನ್ನುವ ಕೊರತೆ ಹೊತ್ತು ಮೆರೆಸುವ ಒರತೆ\nಸತ್ತವರ ಕಾಡಿಸದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Who knows where the dead go?",
+   "do they carry off money, gold and things?",
+   "the lack that gnaws and the spring that makes you strut",
+   "do not trouble the dead, O deluded one."
+  ],
+  "theme": "Detachment",
+  "bhavartha": "No one knows where the dead go, and they take nothing with them. The wants that eat at us and the riches we show off mean nothing at the end."
+ }
+}

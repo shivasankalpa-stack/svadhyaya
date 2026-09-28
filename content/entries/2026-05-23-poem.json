@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-23-poem",
+ "type": "poem",
+ "date": "2026-05-23",
+ "time": "07:23",
+ "author": "Kusha N M",
+ "source": "2026-05-23T07:23|ಮೆಚ್ಚದಿರುಅನ್ಯರನುನಿನ್ನತನವಡವಿಟ್ಟ",
+ "kn": {
+  "lines": [
+   "ಮೆಚ್ಚದಿರು ಅನ್ಯರನು ನಿನ್ನತನವಡವಿಟ್ಟು",
+   "ಹೆಚ್ಚುಜನ ನಿನಮೆಟ್ಟಿ ಮೇಲಕೇರುವರು",
+   "ಬಿಚ್ಚುಮನ ನಿನದೆಂದು ಹೊಗಳುತಲೆ ತುಳಿಯುತಿರೆ",
+   "ಮೆಚ್ಚುವನೆ ನಿನ್ನಾತ್ಮ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಮೆಚ್ಚದಿರು ಅನ್ಯರನು ನಿನ್ನತನವಡವಿಟ್ಟು\nಹೆಚ್ಚುಜನ ನಿನಮೆಟ್ಟಿ ಮೇಲಕೇರುವರು\nಬಿಚ್ಚುಮನ ನಿನದೆಂದು ಹೊಗಳುತಲೆ ತುಳಿಯುತಿರೆ\nಮೆಚ್ಚುವನೆ ನಿನ್ನಾತ್ಮ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Don’t admire others by pawning your own self;",
+   "most people will tread on you and climb higher;",
+   "praising your open heart while trampling you down,",
+   "will your own soul admire you then, O deluded one?"
+  ],
+  "theme": "Self-worth",
+  "bhavartha": "Don’t give up your dignity to win others’ approval. Many will flatter and use you. Would your own soul respect you then?"
+ }
+}

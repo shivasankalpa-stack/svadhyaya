@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-23-poem",
+ "type": "poem",
+ "date": "2026-04-23",
+ "time": "05:34",
+ "author": "Kusha N M",
+ "source": "2026-04-23T05:34|ಹೆತ್ತೊಡಲುತುತ್ತಿಟ್ಟಮನವನೋಯಿಸಬೇಡಹ",
+ "kn": {
+  "lines": [
+   "ಹೆತ್ತೊಡಲು ತುತ್ತಿಟ್ಟ ಮನವ ನೋಯಿಸಬೇಡ",
+   "ಹೊತ್ತಭುಜ ಮರೆಯದಿರು ಜಗವ ತೋರಿಹುದ",
+   "ಗೊತ್ತುಗುರಿ ನಿನಗೀವ ಗುರುವ ತೊರೆಯಲುಬೇಡ",
+   "ಕಿತ್ತು ಎಸೆ ಅವಗುಣವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹೆತ್ತೊಡಲು ತುತ್ತಿಟ್ಟ ಮನವ ನೋಯಿಸಬೇಡ\nಹೊತ್ತಭುಜ ಮರೆಯದಿರು ಜಗವ ತೋರಿಹುದ\nಗೊತ್ತುಗುರಿ ನಿನಗೀವ ಗುರುವ ತೊರೆಯಲುಬೇಡ\nಕಿತ್ತು ಎಸೆ ಅವಗುಣವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Do not hurt the heart of the womb that bore you and fed you;",
+   "do not forget the shoulders that carried you and showed you the world;",
+   "do not abandon the guru who gives you aim and direction;",
+   "pluck out and throw away your faults, O deluded one."
+  ],
+  "theme": "Gratitude",
+  "bhavartha": "Never wound the mother who bore us, forget the father who carried us, or abandon the teacher who gave us direction. Root out whatever faults would lead us to do so."
+ }
+}

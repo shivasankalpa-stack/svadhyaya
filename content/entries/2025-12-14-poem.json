@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-14-poem",
+ "type": "poem",
+ "date": "2025-12-14",
+ "time": "05:25",
+ "author": "Kusha N M",
+ "source": "2025-12-14T05:25|ಗೆಲ್ಲುತಲೆಹಿಗ್ಗದಿರುಸೋಲುತಲೆಕುಗ್ಗ",
+ "kn": {
+  "lines": [
+   "ಗೆಲ್ಲುತಲೆ ಹಿಗ್ಗದಿರು ಸೋಲುತಲೆ ಕುಗ್ಗದಿರು",
+   "ಮೆಲ್ಲನೇ ಬೆಳೆಸುತಿರು ಸಮಚಿತ್ತತನವ",
+   "ತಲ್ಲಣಿಸಿ ಮರುಗೆ ಜನರೇಳುಬೀಳುಗಳಿಂದ",
+   "ಸಲ್ಲುತಿರು ಎಚ್ಚರಿಸಿ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಗೆಲ್ಲುತಲೆ ಹಿಗ್ಗದಿರು ಸೋಲುತಲೆ ಕುಗ್ಗದಿರು\nಮೆಲ್ಲನೇ ಬೆಳೆಸುತಿರು ಸಮಚಿತ್ತತನವ\nತಲ್ಲಣಿಸಿ ಮರುಗೆ ಜನರೇಳುಬೀಳುಗಳಿಂದ\nಸಲ್ಲುತಿರು ಎಚ್ಚರಿಸಿ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Do not swell when you win, nor shrink when you lose;",
+   "slowly keep growing an even mind;",
+   "when people fret and grieve over their ups and downs,",
+   "be there for them, and gently wake them, O deluded one."
+  ],
+  "theme": "Equanimity",
+  "bhavartha": "Success and failure should not sway us. Cultivate a balanced mind, and when others are shaken by life’s ups and downs, stand by them and help them see clearly."
+ }
+}

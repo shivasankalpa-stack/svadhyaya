@@ -1,0 +1,29 @@
+{
+ "id": "2026-09-26-poem",
+ "type": "poem",
+ "date": "2026-09-26",
+ "time": "05:30",
+ "author": "Kusha N M",
+ "source": "2026-09-26T05:30|ಇತಿಹಾಸವರಿಯದವಭವಿತವ್ಯನಿರ್ಮಿಸನುಮಿ",
+ "kn": {
+  "lines": [
+   "ಇತಿಹಾಸವರಿಯದವ ಭವಿತವ್ಯ ನಿರ್ಮಿಸನು",
+   "ಮಿತಿಮೀರಿ ವರ್ತಿಸುತ ಗುರಿಯ ಮರೆಯುವನು",
+   "ಮತಿಯಿಂದ ಗತಿಯರಿತು ಯೋಜಿಸಿರೆ ನಡೆನುಡಿಯ",
+   "ಗತ ತೇಜ ಮರಳುವುದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಇತಿಹಾಸವರಿಯದವ ಭವಿತವ್ಯ ನಿರ್ಮಿಸನು\nಮಿತಿಮೀರಿ ವರ್ತಿಸುತ ಗುರಿಯ ಮರೆಯುವನು\nಮತಿಯಿಂದ ಗತಿಯರಿತು ಯೋಜಿಸಿರೆ ನಡೆನುಡಿಯ\nಗತ ತೇಜ ಮರಳುವುದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "One who does not know history cannot build the future;",
+   "crossing every limit, he forgets his goal;",
+   "but read the course of things with wisdom, and plan your words and deeds —",
+   "and the glory that was lost will return, O deluded one."
+  ],
+  "note": "The Kannada plays on mati (wisdom) and gati (course, direction).",
+  "theme": "History",
+  "bhavartha": "Those who do not learn from the past cannot shape the future; they overreach and lose their way. Understand how things came to be, plan your words and deeds with care, and lost greatness can return."
+ }
+}

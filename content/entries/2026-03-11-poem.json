@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-11-poem",
+ "type": "poem",
+ "date": "2026-03-11",
+ "time": "04:32",
+ "author": "Kusha N M",
+ "source": "2026-03-11T04:32|ತನನೋವೆಹಿರಿದೆಂದುಭಾವಿಸುವಮಾನವನುಅನ",
+ "kn": {
+  "lines": [
+   "ತನನೋವೆ ಹಿರಿದೆಂದು ಭಾವಿಸುವ ಮಾನವನು",
+   "ಅನವರತ ಪರರಿಂದ ಕರುಣೆ ಬಯಸುವನು",
+   "ಅನುಭವಕೆ ಬರುತಲಿರೆ ಅನ್ಯಜನ ಕಷ್ಟಗಳು",
+   "ಮನಮಿಡಿದು ಮರುಗುವನು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ತನನೋವೆ ಹಿರಿದೆಂದು ಭಾವಿಸುವ ಮಾನವನು\nಅನವರತ ಪರರಿಂದ ಕರುಣೆ ಬಯಸುವನು\nಅನುಭವಕೆ ಬರುತಲಿರೆ ಅನ್ಯಜನ ಕಷ್ಟಗಳು\nಮನಮಿಡಿದು ಮರುಗುವನು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "A man who thinks his own pain is the greatest",
+   "keeps looking to others for pity;",
+   "when he comes to experience the hardships of other people,",
+   "his heart is moved and he grieves for them, O deluded one."
+  ],
+  "theme": "Compassion",
+  "bhavartha": "We tend to think our own suffering is the worst and want sympathy. Only when we truly see others’ pain does real compassion awaken."
+ }
+}

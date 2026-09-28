@@ -1,0 +1,28 @@
+{
+ "id": "2026-09-23-poem",
+ "type": "poem",
+ "date": "2026-09-23",
+ "time": "07:21",
+ "author": "Kusha N M",
+ "source": "2026-09-23T07:21|ಸಮಯಕಳೆಯುತಲಿಹುದುಅಂತ್ಯವೆಳೆಯುತಲಿಹ",
+ "kn": {
+  "lines": [
+   "ಸಮಯ ಕಳೆಯುತಲಿಹುದು ಅಂತ್ಯವೆಳೆಯುತಲಿಹುದು",
+   "ತಮಕಳೆಯೆ ನಿನಗುರಿಯು ಸ್ಪಷ್ಟವಾಗುವುದು",
+   "ನೆಮ್ಮದಿಯ ಜೀವನಕೆ ಹಮ್ಮುಬಿಮ್ಮಗಳ ಬಿಡು",
+   "ಸಮರಸದ ಬದುಕ ನಡೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಸಮಯ ಕಳೆಯುತಲಿಹುದು ಅಂತ್ಯವೆಳೆಯುತಲಿಹುದು\nತಮಕಳೆಯೆ ನಿನಗುರಿಯು ಸ್ಪಷ್ಟವಾಗುವುದು\nನೆಮ್ಮದಿಯ ಜೀವನಕೆ ಹಮ್ಮುಬಿಮ್ಮಗಳ ಬಿಡು\nಸಮರಸದ ಬದುಕ ನಡೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Time keeps slipping by, the end keeps drawing near;",
+   "dispel your darkness, and your goal will become clear;",
+   "for a peaceful life, let go of pride and pretension —",
+   "walk the path of harmony, O deluded one."
+  ],
+  "theme": "Harmony",
+  "bhavartha": "Time is running out for all of us. Clear the darkness in your mind and your purpose will become plain. Peace comes from letting go of pride and show, and living in harmony with others."
+ }
+}

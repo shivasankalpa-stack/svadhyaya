@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-03-poem",
+ "type": "poem",
+ "date": "2026-03-03",
+ "time": "05:14",
+ "author": "Kusha N M",
+ "source": "2026-03-03T05:14|ಅತಿಸಣ್ಣಕೊರತೆಗಳುದೊಡ್ಡಜನಗಳಲಿಹವುಮ",
+ "kn": {
+  "lines": [
+   "ಅತಿಸಣ್ಣ ಕೊರತೆಗಳು ದೊಡ್ಡ ಜನಗಳಲಿಹವು",
+   "ಮತಿಗೆಟ್ಟು ವರ್ತಿಪರು ಸುತ್ತಲರಿವಿರದೆ",
+   "ಗತಿಗಾಣೆ ಕೊನೆಗವರು ತಮ್ಮನಡೆ ತಾವಹಿಸೆ",
+   "ಚಿತೆಯೆಡೆಗೆ ಅವರನಡೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಅತಿಸಣ್ಣ ಕೊರತೆಗಳು ದೊಡ್ಡ ಜನಗಳಲಿಹವು\nಮತಿಗೆಟ್ಟು ವರ್ತಿಪರು ಸುತ್ತಲರಿವಿರದೆ\nಗತಿಗಾಣೆ ಕೊನೆಗವರು ತಮ್ಮನಡೆ ತಾವಹಿಸೆ\nಚಿತೆಯೆಡೆಗೆ ಅವರನಡೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Great people have their very small failings;",
+   "they lose their judgement and act without knowing their surroundings;",
+   "when their course is seen through at last, as they own their deeds,",
+   "their path heads toward the pyre, O deluded one."
+  ],
+  "theme": "Blind spots",
+  "bhavartha": "Even great people have small flaws that can undo them when they stop paying attention to the world around them. In the end they must answer for their actions."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-20-poem",
+ "type": "poem",
+ "date": "2026-03-20",
+ "time": "08:16",
+ "author": "Kusha N M",
+ "source": "2026-03-20T08:16|ಕರ್ತವ್ಯಪಾಲನೆಯೆಧರ್ಮವೆಂದೆನಿಸುವುದ",
+ "kn": {
+  "lines": [
+   "ಕರ್ತವ್ಯ ಪಾಲನೆಯೆ ಧರ್ಮವೆಂದೆನಿಸುವುದು",
+   "ಕರ್ತನಾಗಿಹೆ ನೀನು ಧರ್ಮಸಾಧನೆಗೆ",
+   "ಅರ್ಥವಾಗಲು ನಿನಗೆ ನಿನಜನ್ಮ ಕಾರಣವು",
+   "ವರ್ತಿಸುವೆ ಸತ್ಯದಲಿ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕರ್ತವ್ಯ ಪಾಲನೆಯೆ ಧರ್ಮವೆಂದೆನಿಸುವುದು\nಕರ್ತನಾಗಿಹೆ ನೀನು ಧರ್ಮಸಾಧನೆಗೆ\nಅರ್ಥವಾಗಲು ನಿನಗೆ ನಿನಜನ್ಮ ಕಾರಣವು\nವರ್ತಿಸುವೆ ಸತ್ಯದಲಿ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Keeping to one’s duty is what counts as dharma;",
+   "you are the doer, for the achievement of dharma;",
+   "so that you may understand the reason for your birth,",
+   "you will act in truth, O deluded one."
+  ],
+  "theme": "Duty",
+  "bhavartha": "Dharma is, first of all, doing one’s duty. We are the agents through whom dharma is fulfilled, and acting truthfully is how we come to understand why we were born."
+ }
+}

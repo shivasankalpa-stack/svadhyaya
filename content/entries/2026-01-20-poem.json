@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-20-poem",
+ "type": "poem",
+ "date": "2026-01-20",
+ "time": "06:58",
+ "author": "Kusha N M",
+ "source": "2026-01-20T06:58|ಪಂಡಿತನುನೀನೆನುವಮಾಯೆಯಲಿಬದುಕುತಿರೆ",
+ "kn": {
+  "lines": [
+   "ಪಂಡಿತನು ನೀನೆನುವ ಮಾಯೆಯಲಿ ಬದುಕುತಿರೆ",
+   "ಖಂಡಿಸುವ ಸಾಮರ್ಥ್ಯವಿನ್ನೊಬ್ಬಗಿಹುದು",
+   "ಮಂಡಿಸುವ ನಿನಶೈಲಿ ಏಕಮುಖವಾಗಿರಲು",
+   "ದಂಡನೆಗೆ ಅರ್ಹವಹು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಪಂಡಿತನು ನೀನೆನುವ ಮಾಯೆಯಲಿ ಬದುಕುತಿರೆ\nಖಂಡಿಸುವ ಸಾಮರ್ಥ್ಯವಿನ್ನೊಬ್ಬಗಿಹುದು\nಮಂಡಿಸುವ ನಿನಶೈಲಿ ಏಕಮುಖವಾಗಿರಲು\nದಂಡನೆಗೆ ಅರ್ಹವಹು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If you live in the illusion that you are a scholar,",
+   "remember someone else has the power to refute you;",
+   "when your way of presenting things is one-sided,",
+   "it deserves to be punished, O deluded one."
+  ],
+  "theme": "Humility",
+  "bhavartha": "Believing ourselves learned is a trap; there is always someone who can prove us wrong. One-sided argument invites a fall."
+ }
+}

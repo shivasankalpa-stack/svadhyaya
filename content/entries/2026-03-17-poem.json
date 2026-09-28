@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-17-poem",
+ "type": "poem",
+ "date": "2026-03-17",
+ "time": "10:19",
+ "author": "Kusha N M",
+ "source": "2026-03-17T10:19|ವೇದವಿದ್ದರೆಯೇನುಶಾಸ್ತ್ರಗಳಿರಲೇನುಆ",
+ "kn": {
+  "lines": [
+   "ವೇದವಿದ್ದರೆಯೇನು ಶಾಸ್ತ್ರಗಳಿರಲೇನು",
+   "ಆದೇಶ ನೀಡುವಾ ಸ್ಥಾನವಿರಲೇನು",
+   "ನಾದ ನಾಟ್ಯವು ನಟನೆ ಸ್ಮೃತಿಯಿದ್ದರೇನು",
+   "ಮಾದರಿಯೆ ಇಲ್ಲದಿರೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ವೇದವಿದ್ದರೆಯೇನು ಶಾಸ್ತ್ರಗಳಿರಲೇನು\nಆದೇಶ ನೀಡುವಾ ಸ್ಥಾನವಿರಲೇನು\nನಾದ ನಾಟ್ಯವು ನಟನೆ ಸ್ಮೃತಿಯಿದ್ದರೇನು\nಮಾದರಿಯೆ ಇಲ್ಲದಿರೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "What if you have the Veda? What if you have the śāstras?",
+   "what if you hold a position to give orders?",
+   "what if you have music, dance, acting and learning by heart,",
+   "if there is no example in you, O deluded one?"
+  ],
+  "theme": "Example",
+  "bhavartha": "Knowledge, authority and talent count for little if we are not ourselves a good example. Living well teaches more than anything we know."
+ }
+}

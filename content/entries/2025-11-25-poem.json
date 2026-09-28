@@ -1,0 +1,28 @@
+{
+ "id": "2025-11-25-poem",
+ "type": "poem",
+ "date": "2025-11-25",
+ "time": "07:29",
+ "author": "Kusha N M",
+ "source": "2025-11-25T07:29|ದೀನತೆಯಹೊಂದದಿರುಮೇಲರಿಮೆತೋರದಿರುಮಾ",
+ "kn": {
+  "lines": [
+   "ದೀನತೆಯ ಹೊಂದದಿರು ಮೇಲರಿಮೆ ತೋರದಿರು",
+   "ಮಾನಾಪಮಾನಗಳ ಸಮನಾಗಿ ನೋಡು",
+   "ನೀನೆಂದು ನಿಜದಲ್ಲಿ ಸಮಚಿತ್ತನಾಗುವೆಯೊ",
+   "ಹೀನತೆಯ ತೊಡೆಯುವೆಯೊ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ದೀನತೆಯ ಹೊಂದದಿರು ಮೇಲರಿಮೆ ತೋರದಿರು\nಮಾನಾಪಮಾನಗಳ ಸಮನಾಗಿ ನೋಡು\nನೀನೆಂದು ನಿಜದಲ್ಲಿ ಸಮಚಿತ್ತನಾಗುವೆಯೊ\nಹೀನತೆಯ ತೊಡೆಯುವೆಯೊ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Do not sink into self-pity, nor show superiority;",
+   "look on honour and dishonour alike;",
+   "when will you truly become even-minded?",
+   "when will you wipe away your meanness, O deluded one?"
+  ],
+  "theme": "Equanimity",
+  "bhavartha": "Avoid both self-pity and arrogance, and meet praise and insult with the same calm. That evenness of mind is what frees us from pettiness."
+ }
+}

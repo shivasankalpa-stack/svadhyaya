@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-03-poem",
+ "type": "poem",
+ "date": "2026-06-03",
+ "time": "06:36",
+ "author": "Kusha N M",
+ "source": "2026-06-03T06:36|ಉಚ್ಚನೀಚತೆಭೇದಕಂದಕಸೃಷ್ಟಿಸಿರೆನಿಚ್",
+ "kn": {
+  "lines": [
+   "ಉಚ್ಚನೀಚತೆ ಭೇದ ಕಂದಕ ಸೃಷ್ಟಿಸಿರೆ",
+   "ನಿಚ್ಚಳವು ಜಗಕೆಂದು ಅವನತಿಯ ದಾರಿ",
+   "ಹುಚ್ಚು ಕೆಲವರಿಗಿಹುದು ಮೇಲರಿಮೆ ಕೀಳರಿಮೆ",
+   "ಹಚ್ಚು ಸಮರಸದೀಪ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಉಚ್ಚನೀಚತೆ ಭೇದ ಕಂದಕ ಸೃಷ್ಟಿಸಿರೆ\nನಿಚ್ಚಳವು ಜಗಕೆಂದು ಅವನತಿಯ ದಾರಿ\nಹುಚ್ಚು ಕೆಲವರಿಗಿಹುದು ಮೇಲರಿಮೆ ಕೀಳರಿಮೆ\nಹಚ್ಚು ಸಮರಸದೀಪ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If distinctions of high and low create a chasm,",
+   "it is clearly the road to the world’s ruin;",
+   "some have a madness of superiority or inferiority;",
+   "light the lamp of harmony, O deluded one."
+  ],
+  "theme": "Equality",
+  "bhavartha": "Divisions of high and low split society and lead to decline. Both superiority and inferiority are forms of madness. Light the lamp of harmony instead."
+ }
+}

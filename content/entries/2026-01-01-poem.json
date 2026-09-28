@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-01-poem",
+ "type": "poem",
+ "date": "2026-01-01",
+ "time": "05:20",
+ "author": "Kusha N M",
+ "source": "2026-01-01T05:20|ದೇಹನಶ್ವರವಿರಲುಮಮಕಾರನಿನಗೇಕೆಮೋಹವಿ",
+ "kn": {
+  "lines": [
+   "ದೇಹ ನಶ್ವರವಿರಲು ಮಮಕಾರ ನಿನಗೇಕೆ",
+   "ಮೋಹವಿರೆ ಕತ್ತಲಲಿ ಬದುಕುವೆಯೊ ನೀನು",
+   "ನೇಹದಿಂದಲಿ ಕಾಣೆ ಜಗವೆಂದು ಸುಂದರವು",
+   "ಗೇಹವನೆ ಸಿದ್ಧವಿಡು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ದೇಹ ನಶ್ವರವಿರಲು ಮಮಕಾರ ನಿನಗೇಕೆ\nಮೋಹವಿರೆ ಕತ್ತಲಲಿ ಬದುಕುವೆಯೊ ನೀನು\nನೇಹದಿಂದಲಿ ಕಾಣೆ ಜಗವೆಂದು ಸುಂದರವು\nಗೇಹವನೆ ಸಿದ್ಧವಿಡು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When the body is perishable, why this attachment?",
+   "if you cling to it, you will live in darkness;",
+   "seen with affection, the world is always beautiful;",
+   "keep your true home ready, O deluded one."
+  ],
+  "theme": "Impermanence",
+  "bhavartha": "The body will not last, so clinging to it keeps us in darkness. Look at the world with love, and prepare for the lasting home beyond it."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-31-poem",
+ "type": "poem",
+ "date": "2026-03-31",
+ "time": "06:30",
+ "author": "Kusha N M",
+ "source": "2026-03-31T06:30|ಜ್ಞಾನಿಯೆಂದೆನ್ನುವರುತನ್ನತಾನರಿವವಗ",
+ "kn": {
+  "lines": [
+   "ಜ್ಞಾನಿಯೆಂದೆನ್ನುವರು ತನ್ನತಾನರಿವವಗೆ",
+   "ಹಾನಿಮಾಡದೆನಡೆವಾತ್ಮ ಗೌರವಕೆ",
+   "ಗ್ಲಾನಿಯಾಗಿಹ ಚಿತ್ತ ತನ್ನತನ ಹುಡುಕುತಿರೆ",
+   "ಮ್ಲಾನವನು ತೊರೆದುನಡೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಜ್ಞಾನಿಯೆಂದೆನ್ನುವರು ತನ್ನತಾನರಿವವಗೆ\nಹಾನಿಮಾಡದೆನಡೆವಾತ್ಮ ಗೌರವಕೆ\nಗ್ಲಾನಿಯಾಗಿಹ ಚಿತ್ತ ತನ್ನತನ ಹುಡುಕುತಿರೆ\nಮ್ಲಾನವನು ತೊರೆದುನಡೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "They call one wise who knows himself,",
+   "who walks without harming his own self-respect;",
+   "when a weary mind keeps searching for its true self,",
+   "walk on, leaving gloom behind, O deluded one."
+  ],
+  "theme": "Self-knowledge",
+  "bhavartha": "Wisdom is knowing yourself and keeping your dignity. When a tired mind is searching for who it is, leave despondency behind and keep going."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-09-poem",
+ "type": "poem",
+ "date": "2025-12-09",
+ "time": "07:16",
+ "author": "Kusha N M",
+ "source": "2025-12-09T07:16|ನಿಂದಿಸುವಜನನಿನ್ನಗುರುವೆಂದುಪರಿಗಣಿ",
+ "kn": {
+  "lines": [
+   "ನಿಂದಿಸುವ ಜನ ನಿನ್ನ ಗುರುವೆಂದು ಪರಿಗಣಿಸು",
+   "ಮುಂದೆ ನಿನ ಗುರಿಗವರೆ ಶಕ್ತಿ ತುಂಬುವರು",
+   "ಹಿಂದಾಡೊ ಜನಗಳನು ಲೆಕ್ಕಕ್ಕೆ ಇರಿಸದೆಯೆ",
+   "ಮುಂದಕ್ಕೆ ಹೆಜ್ಜೆಯಿಡು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಿಂದಿಸುವ ಜನ ನಿನ್ನ ಗುರುವೆಂದು ಪರಿಗಣಿಸು\nಮುಂದೆ ನಿನ ಗುರಿಗವರೆ ಶಕ್ತಿ ತುಂಬುವರು\nಹಿಂದಾಡೊ ಜನಗಳನು ಲೆಕ್ಕಕ್ಕೆ ಇರಿಸದೆಯೆ\nಮುಂದಕ್ಕೆ ಹೆಜ್ಜೆಯಿಡು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Count those who criticise you as your teachers;",
+   "they are the ones who will strengthen you toward your goal;",
+   "pay no heed to those who talk behind your back,",
+   "and keep stepping forward, O deluded one."
+  ],
+  "theme": "Criticism",
+  "bhavartha": "Honest critics sharpen us and help us reach our goals. Backbiters are not worth attention; keep moving forward."
+ }
+}

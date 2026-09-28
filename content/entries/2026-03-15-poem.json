@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-15-poem",
+ "type": "poem",
+ "date": "2026-03-15",
+ "time": "06:10",
+ "author": "Kusha N M",
+ "source": "2026-03-15T06:10|ಗಹ್ವರದಜೀವನದಿಕತ್ತಲೆಯುತುಂಬಿಹುದುವ",
+ "kn": {
+  "lines": [
+   "ಗಹ್ವರದ ಜೀವನದಿ ಕತ್ತಲೆಯು ತುಂಬಿಹುದು",
+   "ವಿಹ್ವಲತೆಯಿಂದಿರದೆ ಬೆಳಕನ್ನು ಹುಡುಕು",
+   "ಜಿಹ್ವೆ ನುಡಿಯುವ ಮಾತು ಬೆಳಕಿಂಡಿ ತೋರುತಿರೆ",
+   "ಯಹ್ವಿಯನೆ ಗೆಲ್ಲುವೆಯೊ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಗಹ್ವರದ ಜೀವನದಿ ಕತ್ತಲೆಯು ತುಂಬಿಹುದು\nವಿಹ್ವಲತೆಯಿಂದಿರದೆ ಬೆಳಕನ್ನು ಹುಡುಕು\nಜಿಹ್ವೆ ನುಡಿಯುವ ಮಾತು ಬೆಳಕಿಂಡಿ ತೋರುತಿರೆ\nಯಹ್ವಿಯನೆ ಗೆಲ್ಲುವೆಯೊ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "A life in a cavern is full of darkness;",
+   "without panic, search for the light;",
+   "when the words your tongue speaks open a window of light,",
+   "you will win over the great world, O deluded one."
+  ],
+  "theme": "Speech",
+  "bhavartha": "Life can feel like a dark cave. Instead of panicking, look for light. Wise, kind words are themselves a window of light, and they win the world over."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-22-poem",
+ "type": "poem",
+ "date": "2026-04-22",
+ "time": "07:05",
+ "author": "Kusha N M",
+ "source": "2026-04-22T07:05|ಸ್ವಂತಶಕ್ತಿಯುಇರದೆಅವಲಂಬಿಯಾಗಿರಲುಇ",
+ "kn": {
+  "lines": [
+   "ಸ್ವಂತ ಶಕ್ತಿಯು ಇರದೆ ಅವಲಂಬಿಯಾಗಿರಲು",
+   "ಇಂತೆಂದು ಪರರನ್ನು ಅಳೆಯದಿರು ನೀನು",
+   "ಎಂಥ ಶಕ್ತಿಯೆ ಇದ್ದು ಸೈರಣೆಯೆ ಇಲ್ಲದಿರೆ",
+   "ನಿಂತನೆಲ ಕುಸಿಯುವುದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಸ್ವಂತ ಶಕ್ತಿಯು ಇರದೆ ಅವಲಂಬಿಯಾಗಿರಲು\nಇಂತೆಂದು ಪರರನ್ನು ಅಳೆಯದಿರು ನೀನು\nಎಂಥ ಶಕ್ತಿಯೆ ಇದ್ದು ಸೈರಣೆಯೆ ಇಲ್ಲದಿರೆ\nನಿಂತನೆಲ ಕುಸಿಯುವುದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When you have no strength of your own and depend on others,",
+   "do not measure other people like this;",
+   "whatever strength you may have, if there is no patience,",
+   "the ground you stand on will cave in, O deluded one."
+  ],
+  "theme": "Patience",
+  "bhavartha": "Don’t judge others when you yourself depend on them. Strength without patience collapses beneath us."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-23-poem",
+ "type": "poem",
+ "date": "2025-12-23",
+ "time": "07:08",
+ "author": "Kusha N M",
+ "source": "2025-12-23T07:08|ಚಿಂತೆಯಿರುವವಗೆಂದುಚಿತೆಪಡೆವಸಾಧ್ಯತ",
+ "kn": {
+  "lines": [
+   "ಚಿಂತೆಯಿರುವವಗೆಂದು ಚಿತೆಪಡೆವ ಸಾಧ್ಯತೆಯು",
+   "ಚಿಂತನೆಯೆ ಅದರಿಂದ ಹೊರಬರುವ ದಾರಿ",
+   "ಮಂಥಿಸುತ ವಿಷಯಗಳ ಉತ್ತರವ ಹುಡುಕುತಿರೆ",
+   "ಕಂತೆ ಚಿಂತೆಯ ಕಳೆವೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಚಿಂತೆಯಿರುವವಗೆಂದು ಚಿತೆಪಡೆವ ಸಾಧ್ಯತೆಯು\nಚಿಂತನೆಯೆ ಅದರಿಂದ ಹೊರಬರುವ ದಾರಿ\nಮಂಥಿಸುತ ವಿಷಯಗಳ ಉತ್ತರವ ಹುಡುಕುತಿರೆ\nಕಂತೆ ಚಿಂತೆಯ ಕಳೆವೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "One who carries worry may find his funeral pyre;",
+   "reflection is the way out of it;",
+   "if you churn things over and keep looking for answers,",
+   "you will shed your bundle of worries, O deluded one."
+  ],
+  "theme": "Reflection",
+  "bhavartha": "The Kannada plays on chinte (worry), chite (funeral pyre) and chintane (reflection). Worry consumes us like a pyre; clear thinking is the way out, and seeking answers dissolves the worry."
+ }
+}

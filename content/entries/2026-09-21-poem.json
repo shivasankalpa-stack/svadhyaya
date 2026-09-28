@@ -1,0 +1,29 @@
+{
+ "id": "2026-09-21-poem",
+ "type": "poem",
+ "date": "2026-09-21",
+ "time": "16:02",
+ "author": "Kusha N M",
+ "source": "2026-09-21T16:02|ಚಿಂತನೆಗೆಒಡ್ಡುತಿರುವಿಷಯಗೊಂದಲಗಳನು",
+ "kn": {
+  "lines": [
+   "ಚಿಂತನೆಗೆ ಒಡ್ಡುತಿರು ವಿಷಯ ಗೊಂದಲಗಳನು",
+   "ಅಂತೆಕಂತೆಯ ಸುತ್ತ ಸುಳಿಯದಿರು ನೀನು",
+   "ಮಂಥಿಸಿರೆ ವಿಷಯಗಳ ರತ್ನಗಳೇ ಸಿಕ್ಕಾವು",
+   "ಚಿಂತೆಯೊಗೆದಭ್ಯಸಿಸು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಚಿಂತನೆಗೆ ಒಡ್ಡುತಿರು ವಿಷಯ ಗೊಂದಲಗಳನು\nಅಂತೆಕಂತೆಯ ಸುತ್ತ ಸುಳಿಯದಿರು ನೀನು\nಮಂಥಿಸಿರೆ ವಿಷಯಗಳ ರತ್ನಗಳೇ ಸಿಕ್ಕಾವು\nಚಿಂತೆಯೊಗೆದಭ್ಯಸಿಸು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Keep laying your doubts and confusions before reflection;",
+   "do not go circling round rumour and hearsay;",
+   "churn a subject well, and gems may yet appear —",
+   "so cast off worry and study on, O deluded one."
+  ],
+  "note": "‘Churning’ recalls the churning of the ocean, which brought up precious gems.",
+  "theme": "Inquiry",
+  "bhavartha": "Bring your doubts into the open and think them through, instead of living on rumour. Understanding comes from churning a question patiently, as the ocean was churned for its treasures. Put worry aside and keep studying."
+ }
+}

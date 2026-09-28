@@ -1,0 +1,28 @@
+{
+ "id": "2026-07-03-poem",
+ "type": "poem",
+ "date": "2026-07-03",
+ "time": "05:09",
+ "author": "Kusha N M",
+ "source": "2026-07-03T05:09|ಬಣ್ಣಬದಲಿಸಬೇಡತೊಂಡೆಯಂದದಿನೀನುಸಣ್ಣ",
+ "kn": {
+  "lines": [
+   "ಬಣ್ಣಬದಲಿಸಬೇಡ ತೊಂಡೆಯಂದದಿ ನೀನು",
+   "ಸಣ್ಣತನ ಮಾನವಗೆ ಶೋಭೆಯನು ತರದು",
+   "ಮಣ್ಣುಧನ ಮುಖ್ಯದಲಿ ಮನಸುಗಳ ತಿರುಗಿಸಿರೆ",
+   "ಹುಣ್ಣದುವೆ ಗುಣಪಡಿಸು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಬಣ್ಣಬದಲಿಸಬೇಡ ತೊಂಡೆಯಂದದಿ ನೀನು\nಸಣ್ಣತನ ಮಾನವಗೆ ಶೋಭೆಯನು ತರದು\nಮಣ್ಣುಧನ ಮುಖ್ಯದಲಿ ಮನಸುಗಳ ತಿರುಗಿಸಿರೆ\nಹುಣ್ಣದುವೆ ಗುಣಪಡಿಸು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Don’t change your colour like the ivy gourd;",
+   "pettiness brings no grace to a person;",
+   "if you turn people’s minds with land and money as the main thing,",
+   "that is a wound: heal it, O deluded one."
+  ],
+  "theme": "Constancy",
+  "bhavartha": "Don’t be fickle, changing colour like the tondekai gourd as it ripens. Small-mindedness is unbecoming. Making land and money the measure of everything wounds relationships; heal that."
+ }
+}

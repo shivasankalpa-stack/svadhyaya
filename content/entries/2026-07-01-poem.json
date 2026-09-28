@@ -1,0 +1,28 @@
+{
+ "id": "2026-07-01-poem",
+ "type": "poem",
+ "date": "2026-07-01",
+ "time": "05:52",
+ "author": "Kusha N M",
+ "source": "2026-07-01T05:52|ಗೌರವವಕೊಟ್ಟುಪಡೆಗುಣಗಳಿಸಿಹಂಚುತಿರು",
+ "kn": {
+  "lines": [
+   "ಗೌರವವ ಕೊಟ್ಟುಪಡೆ ಗುಣಗಳಿಸಿ ಹಂಚುತಿರು",
+   "ಮಾರದಿರು ಹಿರಿಯರಿಟ್ಟಾತ್ಮದಭಿಮಾನ",
+   "ತೋರುತಿರೆ ನಿರ್ಲಕ್ಷ್ಯ ಘನತೆವೆತ್ತಾರ್ಯರೆಡೆ",
+   "ಜಾರುವೆಯೊ ಕಂದಕಕೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಗೌರವವ ಕೊಟ್ಟುಪಡೆ ಗುಣಗಳಿಸಿ ಹಂಚುತಿರು\nಮಾರದಿರು ಹಿರಿಯರಿಟ್ಟಾತ್ಮದಭಿಮಾನ\nತೋರುತಿರೆ ನಿರ್ಲಕ್ಷ್ಯ ಘನತೆವೆತ್ತಾರ್ಯರೆಡೆ\nಜಾರುವೆಯೊ ಕಂದಕಕೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Give respect and receive it; earn virtues and keep sharing them;",
+   "do not sell the self-respect your elders gave you;",
+   "if you show neglect toward the noble and dignified,",
+   "you will slide into a ditch, O deluded one."
+  ],
+  "theme": "Respect",
+  "bhavartha": "Respect is earned by giving it. Share your virtues, guard the self-respect handed down by your elders, and never disregard the noble, or you will fall."
+ }
+}

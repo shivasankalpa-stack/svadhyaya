@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-02-poem",
+ "type": "poem",
+ "date": "2026-04-02",
+ "time": "05:14",
+ "author": "Kusha N M",
+ "source": "2026-04-02T05:14|ಹೀನಮನಸನುಹೊಂದಿವಿಷಯಸುಖಬಯಸುವವದಾನದ",
+ "kn": {
+  "lines": [
+   "ಹೀನಮನಸನು ಹೊಂದಿ ವಿಷಯಸುಖ ಬಯಸುವವ",
+   "ದಾನದಿಂದಲೆ ನಷ್ಟವಾಯಿತೆನ್ನುವವ",
+   "ತಾನೆ ತಿಳಿದವನೆಂದು ದರ್ಪದಿಂ ನಡೆವವನು",
+   "ಜ್ಞಾನಬಲಹೀನನವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹೀನಮನಸನು ಹೊಂದಿ ವಿಷಯಸುಖ ಬಯಸುವವ\nದಾನದಿಂದಲೆ ನಷ್ಟವಾಯಿತೆನ್ನುವವ\nತಾನೆ ತಿಳಿದವನೆಂದು ದರ್ಪದಿಂ ನಡೆವವನು\nಜ್ಞಾನಬಲಹೀನನವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "One who has a mean mind and craves sensual pleasure,",
+   "who says he lost out by giving to charity,",
+   "who walks with arrogance, thinking he alone knows —",
+   "he is weak in knowledge, O deluded one."
+  ],
+  "theme": "Folly",
+  "bhavartha": "A mean spirit, craving for pleasure, regret over giving, and arrogance about one’s own learning are all marks of someone lacking real wisdom."
+ }
+}

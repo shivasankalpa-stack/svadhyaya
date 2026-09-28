@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-05-poem",
+ "type": "poem",
+ "date": "2026-03-05",
+ "time": "05:22",
+ "author": "Kusha N M",
+ "source": "2026-03-05T05:22|ಬೆಟ್ಟವನುಏರಿದೊಡೆನೋವುಬಳಲಿಕೆದೂರತೊ",
+ "kn": {
+  "lines": [
+   "ಬೆಟ್ಟವನು ಏರಿದೊಡೆ ನೋವು ಬಳಲಿಕೆ ದೂರ",
+   "ತೊಟ್ಟ ಗುರಿಯನು ದಾಟೆ ಮನಸುಬಲು ಹಗುರ",
+   "ಬಿಟ್ಟು ಸುಖಗಳನೆಲ್ಲ ಮುಟ್ಟೆ ಲಕ್ಷ್ಯವ ದುಡಿಯೆ",
+   "ಸೊಟ್ಟ ದಾರಿಯು ನೇರ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಬೆಟ್ಟವನು ಏರಿದೊಡೆ ನೋವು ಬಳಲಿಕೆ ದೂರ\nತೊಟ್ಟ ಗುರಿಯನು ದಾಟೆ ಮನಸುಬಲು ಹಗುರ\nಬಿಟ್ಟು ಸುಖಗಳನೆಲ್ಲ ಮುಟ್ಟೆ ಲಕ್ಷ್ಯವ ದುಡಿಯೆ\nಸೊಟ್ಟ ದಾರಿಯು ನೇರ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Once you climb the hill, pain and weariness are gone;",
+   "once you pass the goal you set, the mind is very light;",
+   "if you leave all comforts and work to reach your aim,",
+   "even a crooked road runs straight, O deluded one."
+  ],
+  "theme": "Striving",
+  "bhavartha": "The fatigue of the climb vanishes at the top. Give up ease for the sake of your aim, and even the most winding road seems direct."
+ }
+}

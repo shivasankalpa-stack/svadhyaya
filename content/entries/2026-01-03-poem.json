@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-03-poem",
+ "type": "poem",
+ "date": "2026-01-03",
+ "time": "06:12",
+ "author": "Kusha N M",
+ "source": "2026-01-03T06:12|ಯೌವನದಮನವೊಂದುಹುಚ್ಚುಕುದುರೆಯರೀತಿತ",
+ "kn": {
+  "lines": [
+   "ಯೌವನದ ಮನವೊಂದು ಹುಚ್ಚುಕುದುರೆಯ ರೀತಿ",
+   "ತಾವಿಡದೆ ನೆಟ್ಟಗುರಿ ಅಲೆದಾಡುತಿಹುದು",
+   "ಸಾವಿರದ ದಾರಿಯಿವೆ ಹುಚ್ಚುಕುದುರೆಯ ಕಟ್ಟೆ",
+   "ಭಾವಗಳ ಸಾವರಿಸು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಯೌವನದ ಮನವೊಂದು ಹುಚ್ಚುಕುದುರೆಯ ರೀತಿ\nತಾವಿಡದೆ ನೆಟ್ಟಗುರಿ ಅಲೆದಾಡುತಿಹುದು\nಸಾವಿರದ ದಾರಿಯಿವೆ ಹುಚ್ಚುಕುದುರೆಯ ಕಟ್ಟೆ\nಭಾವಗಳ ಸಾವರಿಸು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "The mind in youth is like a wild horse,",
+   "roaming without rest, without a fixed goal;",
+   "there are a thousand ways to tie up that wild horse;",
+   "gather your emotions in hand, O deluded one."
+  ],
+  "theme": "Discipline",
+  "bhavartha": "A young mind runs like an untamed horse. There are many ways to rein it in; the key is to master our emotions."
+ }
+}

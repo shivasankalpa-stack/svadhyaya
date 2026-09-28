@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-02-poem",
+ "type": "poem",
+ "date": "2026-06-02",
+ "time": "07:50",
+ "author": "Kusha N M",
+ "source": "2026-06-02T07:50|ಮುಂದಿಡುವಹೆಜ್ಜೆಯಲಿಜಯವುಕುಳಿತಿರಬಹ",
+ "kn": {
+  "lines": [
+   "ಮುಂದಿಡುವ ಹೆಜ್ಜೆಯಲಿ ಜಯವು ಕುಳಿತಿರಬಹುದು",
+   "ಹಿಂದಿಡದೆ ಮುನ್ನುಗ್ಗೆ ಯಶವು ನಿಶ್ಚಿತವು",
+   "ನಂದೆ ಬಿಡದಿರೆ ನೀನು ಗೆಲುವೆನೆಂಬುವ ಛಲವ",
+   "ಮುಂದೆ ನಿನದೇ ಜಗವು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಮುಂದಿಡುವ ಹೆಜ್ಜೆಯಲಿ ಜಯವು ಕುಳಿತಿರಬಹುದು\nಹಿಂದಿಡದೆ ಮುನ್ನುಗ್ಗೆ ಯಶವು ನಿಶ್ಚಿತವು\nನಂದೆ ಬಿಡದಿರೆ ನೀನು ಗೆಲುವೆನೆಂಬುವ ಛಲವ\nಮುಂದೆ ನಿನದೇ ಜಗವು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Victory may be sitting in the step you take next;",
+   "if you charge forward without stepping back, success is certain;",
+   "if you never let die the grit that says ‘I will win’,",
+   "the world ahead is yours, O deluded one."
+  ],
+  "theme": "Determination",
+  "bhavartha": "The next step may be the one that brings success. Keep moving forward and never let your determination die."
+ }
+}

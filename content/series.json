@@ -1,0 +1,263 @@
+[
+ {
+  "key": "daily-mantras",
+  "start": "2025-11-01",
+  "kn": "ದಿನದ ಮಂತ್ರಗಳು",
+  "en": "Mantras of the Day",
+  "ref": "Assorted Ṛgveda and other mantras",
+  "listen": [
+   {
+    "label": "The Ṛgveda, sūkta by sūkta",
+    "url": "https://vedicheritage.gov.in/samhitas/rigveda/"
+   }
+  ],
+  "about": "Single mantras from across the Ṛgveda and beyond, one a day, from the months before Sri Hari began working through whole hymns."
+ },
+ {
+  "key": "subandhu",
+  "start": "2026-01-06",
+  "kn": "ಸುಬಂಧು ಸೂಕ್ತಗಳು",
+  "en": "The Subandhu Hymns",
+  "ref": "Ṛgveda 10.57–60",
+  "listen": [
+   {
+    "label": "Ṛgveda 10.57",
+    "url": "https://vedicheritage.gov.in/?p=6079"
+   },
+   {
+    "label": "Ṛgveda 10.58",
+    "url": "https://vedicheritage.gov.in/?p=6081"
+   }
+  ],
+  "about": "Hymns to call back the mind of Subandhu, a priest who lay near death. His brothers, the seers Bandhu, Śrutabandhu and Viprabandhu, plead for his mind to return from wherever it has wandered."
+ },
+ {
+  "key": "purusha",
+  "start": "2026-01-26",
+  "kn": "ಪುರುಷ ಸೂಕ್ತ",
+  "en": "Puruṣa Sūkta",
+  "ref": "Ṛgveda 10.90",
+  "verses": 16,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.90",
+    "url": "https://vedicheritage.gov.in/?p=6146"
+   }
+  ],
+  "about": "The hymn of the cosmic Person, from whose sacrifice the world, the Vedas and the order of society are said to arise."
+ },
+ {
+  "key": "shri",
+  "start": "2026-02-11",
+  "kn": "ಶ್ರೀ ಸೂಕ್ತ",
+  "en": "Śrī Sūkta",
+  "ref": "Ṛgveda Khila",
+  "verses": 16,
+  "listen": [
+   {
+    "label": "Śrī Sūkta (YouTube)",
+    "url": "https://www.youtube.com/watch?v=FT2yD-tXgdQ"
+   }
+  ],
+  "about": "A hymn to Śrī, goddess of prosperity and radiance, kept among the supplementary (khila) hymns of the Ṛgveda."
+ },
+ {
+  "key": "manyu",
+  "start": "2026-02-27",
+  "kn": "ಮನ್ಯು ಸೂಕ್ತ",
+  "en": "Manyu Sūkta",
+  "ref": "Ṛgveda 10.83–84",
+  "verses": 14,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.83",
+    "url": "https://vedicheritage.gov.in/?p=6132"
+   },
+   {
+    "label": "Ṛgveda 10.84",
+    "url": "https://vedicheritage.gov.in/?p=6134"
+   }
+  ],
+  "about": "Two hymns to Manyu, spirited resolve or righteous anger, invoked as a god who brings victory."
+ },
+ {
+  "key": "apratiratha",
+  "start": "2026-03-13",
+  "kn": "ಅಪ್ರತಿರಥ ಕವಚ",
+  "en": "Apratiratha Kavaca",
+  "ref": "Ṛgveda 10.103",
+  "verses": 13,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.103",
+    "url": "https://vedicheritage.gov.in/?p=6169"
+   }
+  ],
+  "about": "A hymn to Indra as the warrior without rival, recited for protection. Hence its name, the Apratiratha ‘armour’."
+ },
+ {
+  "key": "devi",
+  "start": "2026-03-28",
+  "kn": "ಶ್ರೀ ದೇವೀ ಸೂಕ್ತ",
+  "en": "Devī Sūkta",
+  "ref": "Ṛgveda 10.125",
+  "verses": 8,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.125",
+    "url": "https://vedicheritage.gov.in/?p=6214"
+   }
+  ],
+  "about": "Speech herself speaks in the first person: “I move with the Rudras and the Vasus…”. The seer is Vāk, daughter of Ambhṛṇa."
+ },
+ {
+  "key": "natamamho",
+  "start": "2026-04-06",
+  "kn": "ನತಮಂಹೋ ಸೂಕ್ತ",
+  "en": "Na tam aṃho Sūkta",
+  "ref": "Ṛgveda 10.126",
+  "verses": 8,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.126",
+    "url": "https://vedicheritage.gov.in/?p=6218"
+   }
+  ],
+  "about": "A prayer that neither distress nor wrongdoing may reach the one whom Mitra, Varuṇa and Aryaman protect."
+ },
+ {
+  "key": "a-no-bhadra",
+  "start": "2026-04-14",
+  "kn": "ಆ ನೋ ಭದ್ರಾ ಸೂಕ್ತ",
+  "en": "Ā no bhadrāḥ Sūkta",
+  "ref": "Ṛgveda 1.89",
+  "verses": 10,
+  "listen": [
+   {
+    "label": "Ṛgveda 1.89",
+    "url": "https://vedicheritage.gov.in/?p=4385"
+   }
+  ],
+  "about": "“May auspicious thoughts come to us from every side.” A prayer to all the gods for blessing and a full span of life."
+ },
+ {
+  "key": "ratri",
+  "start": "2026-04-24",
+  "kn": "ರಾತ್ರೀ ಸೂಕ್ತ",
+  "en": "Rātrī Sūkta",
+  "ref": "Ṛgveda 10.127",
+  "verses": 8,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.127",
+    "url": "https://vedicheritage.gov.in/?p=6222"
+   }
+  ],
+  "about": "A hymn to Night, the goddess who shines with the stars and keeps the wolf and the thief away."
+ },
+ {
+  "key": "ayam-gauh",
+  "start": "2026-05-02",
+  "kn": "ಆಯಂ ಗೌಃ ಸೂಕ್ತ",
+  "en": "Āyaṃ gauḥ Sūkta",
+  "ref": "Ṛgveda 10.189",
+  "verses": 3,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.189",
+    "url": "https://vedicheritage.gov.in/?p=6339"
+   }
+  ],
+  "about": "Three verses to the dappled one, the Sun, moving between earth and sky."
+ },
+ {
+  "key": "asyavamiya",
+  "start": "2026-05-05",
+  "kn": "ಅಸ್ಯವಾಮೀಯ ಸೂಕ್ತ",
+  "en": "Asya Vāmīya Sūkta",
+  "ref": "Ṛgveda 1.164",
+  "verses": 52,
+  "listen": [
+   {
+    "label": "Ṛgveda 1.164",
+    "url": "https://vedicheritage.gov.in/?p=4152"
+   }
+  ],
+  "about": "The great riddle hymn of Dīrghatamas, with its one-wheeled chariot, its seven horses, and the line “Truth is one; the wise call it by many names”."
+ },
+ {
+  "key": "agni",
+  "start": "2026-06-27",
+  "kn": "ಅಗ್ನಿ ಸೂಕ್ತ",
+  "en": "Agni Sūkta",
+  "ref": "Ṛgveda 10.80",
+  "verses": 7,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.80",
+    "url": "https://vedicheritage.gov.in/?p=6126"
+   }
+  ],
+  "about": "A hymn in praise of Agni, the fire who brings wealth, strength and renown."
+ },
+ {
+  "key": "shamvati",
+  "start": "2026-07-04",
+  "kn": "ಶಂವತೀ ಸೂಕ್ತ",
+  "en": "Śaṃvatī Sūkta",
+  "ref": "Ṛgveda 7.35",
+  "verses": 15,
+  "listen": [
+   {
+    "label": "Ṛgveda 7.35",
+    "url": "https://vedicheritage.gov.in/?p=5253"
+   }
+  ],
+  "about": "Nearly every line begins śaṃ naḥ, “may it bring us peace”: a litany of well-being asked of every god and every power of nature."
+ },
+ {
+  "key": "imam-stomam",
+  "start": "2026-07-19",
+  "kn": "ಇಮಂ ಸ್ತೋಮ ಸೂಕ್ತ",
+  "en": "Imaṃ stomam Sūkta",
+  "ref": "Ṛgveda 1.94",
+  "verses": 16,
+  "listen": [
+   {
+    "label": "Ṛgveda 1.94",
+    "url": "https://vedicheritage.gov.in/?p=4395"
+   }
+  ],
+  "about": "Kutsa’s hymn to Agni Jātavedas, with its refrain: “O Agni, in your friendship may we come to no harm.”"
+ },
+ {
+  "key": "surya",
+  "start": "2026-08-04",
+  "kn": "ಸೂರ್ಯಾ ಸೂಕ್ತ",
+  "en": "Sūryā Sūkta",
+  "ref": "Ṛgveda 10.85",
+  "verses": 47,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.85",
+    "url": "https://vedicheritage.gov.in/?p=6136"
+   }
+  ],
+  "about": "The wedding of Sūryā, daughter of the Sun, to Soma: the Ṛgveda’s great marriage hymn, still recited at weddings today."
+ },
+ {
+  "key": "oshadhi",
+  "start": "2026-09-20",
+  "kn": "ಓಷಧೀ ಸೂಕ್ತ",
+  "en": "Oṣadhī Sūkta",
+  "ref": "Ṛgveda 10.97",
+  "verses": 23,
+  "listen": [
+   {
+    "label": "Ṛgveda 10.97",
+    "url": "https://vedicheritage.gov.in/?p=6160"
+   }
+  ],
+  "about": "A hymn to the healing plants, spoken by the physician-seer Bhiṣag Ātharvaṇa. The plants are addressed as mothers and goddesses, born three ages before the gods."
+ }
+]

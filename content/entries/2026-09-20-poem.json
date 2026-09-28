@@ -1,0 +1,29 @@
+{
+ "id": "2026-09-20-poem",
+ "type": "poem",
+ "date": "2026-09-20",
+ "time": "05:57",
+ "author": "Kusha N M",
+ "source": "2026-09-20T05:57|ಕುಳಿತುಹೊಂಚುತಕಾಲಸಂಚುಗಳರೂಪಿಸಿಹತಳ",
+ "kn": {
+  "lines": [
+   "ಕುಳಿತು ಹೊಂಚುತ ಕಾಲ ಸಂಚುಗಳ ರೂಪಿಸಿಹ",
+   "ತಳೆದಿಹನು ಸಮದೃಷ್ಟಿ ಭೇದವಿಲ್ಲದೆಯೆ",
+   "ಸೆಳೆಯುತಲೆ ಜೀವಿಗಳ ಅನುಕಂಪ ತೋರದೆಲೆ",
+   "ಕಳೆಬೆಳೆಯ ನಿರ್ಧರಿಪ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕುಳಿತು ಹೊಂಚುತ ಕಾಲ ಸಂಚುಗಳ ರೂಪಿಸಿಹ\nತಳೆದಿಹನು ಸಮದೃಷ್ಟಿ ಭೇದವಿಲ್ಲದೆಯೆ\nಸೆಳೆಯುತಲೆ ಜೀವಿಗಳ ಅನುಕಂಪ ತೋರದೆಲೆ\nಕಳೆಬೆಳೆಯ ನಿರ್ಧರಿಪ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Crouched in wait, Time weaves his quiet schemes;",
+   "he looks on all alike, and makes no distinction;",
+   "drawing living beings in, he shows no pity —",
+   "he alone decides what is weed and what is crop, O deluded one."
+  ],
+  "note": "Kāla (Time) here is also Death, the great reaper; kaḷe–beḷe is ‘weeds and crop’.",
+  "theme": "Time",
+  "bhavartha": "Time is the great reaper. He waits patiently, treats every living thing alike and takes whom he will without pity. It is he, not we, who decides what is weed and what is crop."
+ }
+}

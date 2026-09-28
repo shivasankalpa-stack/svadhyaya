@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-07-poem",
+ "type": "poem",
+ "date": "2026-03-07",
+ "time": "05:43",
+ "author": "Kusha N M",
+ "source": "2026-03-07T05:43|ನಗ್ನವಾಗುತಲಿಹರುತಜ್ಞತಾವೆನ್ನುವರುಭ",
+ "kn": {
+  "lines": [
+   "ನಗ್ನವಾಗುತಲಿಹರು ತಜ್ಞ ತಾವೆನ್ನುವರು",
+   "ಭಗ್ನವಾಗಲು ಜನರ ಮೂಢ ನಂಬಿಕೆಯು",
+   "ಲಗ್ನವಾಗಲು ಬುದ್ಧಿಶಕ್ತಿಯೊಡೆ ಕೌಶಲ್ಯ",
+   "ಮಗ್ನತೆಯ ರೂಢಿಸಿಕೊ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಗ್ನವಾಗುತಲಿಹರು ತಜ್ಞ ತಾವೆನ್ನುವರು\nಭಗ್ನವಾಗಲು ಜನರ ಮೂಢ ನಂಬಿಕೆಯು\nಲಗ್ನವಾಗಲು ಬುದ್ಧಿಶಕ್ತಿಯೊಡೆ ಕೌಶಲ್ಯ\nಮಗ್ನತೆಯ ರೂಢಿಸಿಕೊ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "They call themselves experts and end up exposed,",
+   "so that people’s blind beliefs might be broken;",
+   "for intellect to be wedded to skill,",
+   "cultivate absorption, O deluded one."
+  ],
+  "theme": "Skill",
+  "bhavartha": "Self-styled experts are eventually exposed, and that helps break superstition. Real expertise comes when intelligence is joined to skill through deep, absorbed practice."
+ }
+}

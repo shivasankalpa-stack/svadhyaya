@@ -1,0 +1,28 @@
+{
+ "id": "2026-02-19-poem",
+ "type": "poem",
+ "date": "2026-02-19",
+ "time": "05:45",
+ "author": "Kusha N M",
+ "source": "2026-02-19T05:45|ಅಂಧಕಾರದೆಕರದಿಬೆಳಕಿರದೆನಡೆವಂತೆಬಂಧ",
+ "kn": {
+  "lines": [
+   "ಅಂಧಕಾರದೆ ಕರದಿ ಬೆಳಕಿರದೆ ನಡೆವಂತೆ",
+   "ಬಂಧಗಳಿಗಂಟುತಲೆ ಬಿದ್ದು ಏಳುವೆಯೊ",
+   "ಸಂಧಿಸದೆ ಜ್ಞಾನವನು ಆಲಸ್ಯ ಮನೆಮಾಡೆ",
+   "ಮಂದನಡೆ ತಮವದುವೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಅಂಧಕಾರದೆ ಕರದಿ ಬೆಳಕಿರದೆ ನಡೆವಂತೆ\nಬಂಧಗಳಿಗಂಟುತಲೆ ಬಿದ್ದು ಏಳುವೆಯೊ\nಸಂಧಿಸದೆ ಜ್ಞಾನವನು ಆಲಸ್ಯ ಮನೆಮಾಡೆ\nಮಂದನಡೆ ತಮವದುವೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Like walking in darkness without a lamp in hand,",
+   "tangled in bonds, you fall and rise again;",
+   "when you do not meet knowledge and sloth makes its home,",
+   "that sluggish walk is tamas, O deluded one."
+  ],
+  "theme": "Tamas",
+  "bhavartha": "Life without knowledge is like groping in the dark: we trip over attachments again and again. Laziness that shuts out learning is tamas, the quality of inertia."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-21-poem",
+ "type": "poem",
+ "date": "2026-03-21",
+ "time": "04:53",
+ "author": "Kusha N M",
+ "source": "2026-03-21T04:53|ಹಣಗಳಿಕೆಗುರಿಯಾಗೆಜೀವನದಿಬಹುಜನಕೆಗು",
+ "kn": {
+  "lines": [
+   "ಹಣಗಳಿಕೆ ಗುರಿಯಾಗೆ ಜೀವನದಿ ಬಹುಜನಕೆ",
+   "ಗುಣ ನಡತೆ ಋಣಗಳನು ಮರೆತು ನಡೆಯುವರು",
+   "ಮಣಭಾರ ತಪ್ಪುಗಳ ತಿದ್ದದೆಯೆ ಸರಿಯೆನಲು",
+   "ಹೆಣವಾಗಿ ಬದುಕುವರು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹಣಗಳಿಕೆ ಗುರಿಯಾಗೆ ಜೀವನದಿ ಬಹುಜನಕೆ\nಗುಣ ನಡತೆ ಋಣಗಳನು ಮರೆತು ನಡೆಯುವರು\nಮಣಭಾರ ತಪ್ಪುಗಳ ತಿದ್ದದೆಯೆ ಸರಿಯೆನಲು\nಹೆಣವಾಗಿ ಬದುಕುವರು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When earning money is the goal of life for many,",
+   "they walk on forgetting virtue, conduct and their debts;",
+   "claiming a heavy load of mistakes is right without correcting them,",
+   "they live on as corpses, O deluded one."
+  ],
+  "theme": "Values",
+  "bhavartha": "When money becomes everything, people forget character and the debts they owe to others. Justifying mistakes instead of correcting them leaves a person alive only in name."
+ }
+}

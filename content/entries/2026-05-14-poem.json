@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-14-poem",
+ "type": "poem",
+ "date": "2026-05-14",
+ "time": "05:33",
+ "author": "Kusha N M",
+ "source": "2026-05-14T05:33|ತಿಳಿದಿಲ್ಲನಮಗೆಂದುಹಿಂದುಮುಂದಿನಜನು",
+ "kn": {
+  "lines": [
+   "ತಿಳಿದಿಲ್ಲ ನಮಗೆಂದು ಹಿಂದುಮುಂದಿನ ಜನುಮ",
+   "ಗಳಿಕೆಯಲಿ ಪಡೆದಿಹೆವು ನಾವಿರುವ ಹುಟ್ಟು",
+   "ಅಳಿಯುವುದು ಉಳಿಯುವುದು ಜೀವಚಕ್ರದ ಸತ್ಯ",
+   "ತಿಳಿದುನಡೆ ಜೀವನವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ತಿಳಿದಿಲ್ಲ ನಮಗೆಂದು ಹಿಂದುಮುಂದಿನ ಜನುಮ\nಗಳಿಕೆಯಲಿ ಪಡೆದಿಹೆವು ನಾವಿರುವ ಹುಟ್ಟು\nಅಳಿಯುವುದು ಉಳಿಯುವುದು ಜೀವಚಕ್ರದ ಸತ್ಯ\nತಿಳಿದುನಡೆ ಜೀವನವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "We do not know our past and future births;",
+   "we have received the birth we have as an earning;",
+   "perishing and remaining is the truth of the wheel of life;",
+   "know this and walk through life, O deluded one."
+  ],
+  "theme": "Life cycle",
+  "bhavartha": "We know nothing of past or future lives; this life is what we have earned. Coming and going is the nature of existence. Understanding this, live wisely."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-07-13-poem",
+ "type": "poem",
+ "date": "2026-07-13",
+ "time": "09:28",
+ "author": "Kusha N M",
+ "source": "2026-07-13T09:28|ಬಲ್ಲಜನಕಂಡೊಡನೆನೀಮೊದಲುಮಾತಾಡುಗೆಲ್",
+ "kn": {
+  "lines": [
+   "ಬಲ್ಲಜನ ಕಂಡೊಡನೆ ನೀಮೊದಲು ಮಾತಾಡು",
+   "ಗೆಲ್ಲುವುದು ಹಿತನುಡಿಯು ಸರ್ವ ರಂಗದಲು",
+   "ಮೆಲ್ಲನುಡಿ ನಗುಮೊಗದಿ ದೃಢನಿಲುವಿರಲಾಗ",
+   "ಸಲ್ಲುವೆಯೊ ಸರ್ವರಲು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಬಲ್ಲಜನ ಕಂಡೊಡನೆ ನೀಮೊದಲು ಮಾತಾಡು\nಗೆಲ್ಲುವುದು ಹಿತನುಡಿಯು ಸರ್ವ ರಂಗದಲು\nಮೆಲ್ಲನುಡಿ ನಗುಮೊಗದಿ ದೃಢನಿಲುವಿರಲಾಗ\nಸಲ್ಲುವೆಯೊ ಸರ್ವರಲು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When you see a learned person, speak to him first;",
+   "kind words win in every arena;",
+   "with gentle speech, a smiling face and a firm stand,",
+   "you will be welcome among all, O deluded one."
+  ],
+  "theme": "Courtesy",
+  "bhavartha": "Greet the knowledgeable first and humbly. Kind words, a smile and firm principles win acceptance everywhere."
+ }
+}

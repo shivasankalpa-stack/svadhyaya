@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-19-poem",
+ "type": "poem",
+ "date": "2026-06-19",
+ "time": "05:28",
+ "author": "Kusha N M",
+ "source": "2026-06-19T05:28|ಹಳ್ಳವಿರುವೆಡೆನೀರುರಭಸದಲಿಸೇರುವುದು",
+ "kn": {
+  "lines": [
+   "ಹಳ್ಳವಿರುವೆಡೆ ನೀರು ರಭಸದಲಿ ಸೇರುವುದು",
+   "ಪೊಳ್ಳು ವಿಷಯವು ಬೇಗ ಮನವ ತುಂಬುವುದು",
+   "ಒಳ್ಳೆ ಸಂಗತಿಯರಿಯೆ ಸರಿಸು ಸುಳ್ಳಿನ ಪರದೆ",
+   "ಗುಳ್ಳೆಯಂದದಿ ಸುಳ್ಳು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹಳ್ಳವಿರುವೆಡೆ ನೀರು ರಭಸದಲಿ ಸೇರುವುದು\nಪೊಳ್ಳು ವಿಷಯವು ಬೇಗ ಮನವ ತುಂಬುವುದು\nಒಳ್ಳೆ ಸಂಗತಿಯರಿಯೆ ಸರಿಸು ಸುಳ್ಳಿನ ಪರದೆ\nಗುಳ್ಳೆಯಂದದಿ ಸುಳ್ಳು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Water rushes to wherever there is a hollow;",
+   "empty matters quickly fill the mind;",
+   "to know the good, pull aside the curtain of lies;",
+   "lies are like a bubble, O deluded one."
+  ],
+  "theme": "Truth",
+  "bhavartha": "As water fills a hollow, trivial and false things fill an empty mind. Draw back the curtain of falsehood; lies burst like bubbles."
+ }
+}

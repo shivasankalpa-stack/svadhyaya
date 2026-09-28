@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-12-poem",
+ "type": "poem",
+ "date": "2026-06-12",
+ "time": "07:10",
+ "author": "Kusha N M",
+ "source": "2026-06-12T07:10|ಕುರುಡಾಗಿಮಾಡುವವುಧನಕನಕದಾಸೆಗಳುಹರಡ",
+ "kn": {
+  "lines": [
+   "ಕುರುಡಾಗಿ ಮಾಡುವವು ಧನಕನಕದಾಸೆಗಳು",
+   "ಹರಡುವವು ಮಾಯೆಯನು ಬಲೆಯನ್ನು ಬೀಸಿ",
+   "ಕರಗದಿಹ ಮನಕೊಟ್ಟು ಬುದ್ಧಿಕ್ಷೀಣವ ಮಾಡೆ",
+   "ಮರುಗುವೆಯೊ ಕೊನೆಯಲ್ಲಿ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕುರುಡಾಗಿ ಮಾಡುವವು ಧನಕನಕದಾಸೆಗಳು\nಹರಡುವವು ಮಾಯೆಯನು ಬಲೆಯನ್ನು ಬೀಸಿ\nಕರಗದಿಹ ಮನಕೊಟ್ಟು ಬುದ್ಧಿಕ್ಷೀಣವ ಮಾಡೆ\nಮರುಗುವೆಯೊ ಕೊನೆಯಲ್ಲಿ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Desires for money and gold make you blind;",
+   "they spread illusion, casting their net;",
+   "giving you an unyielding mind and wasting your intellect,",
+   "they leave you grieving at the end, O deluded one."
+  ],
+  "theme": "Greed",
+  "bhavartha": "Greed blinds us, casts a net of illusion, hardens the heart and dulls the mind. It ends in regret."
+ }
+}

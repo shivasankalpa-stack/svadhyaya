@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-10-poem",
+ "type": "poem",
+ "date": "2026-06-10",
+ "time": "07:09",
+ "author": "Kusha N M",
+ "source": "2026-06-10T07:09|ಪಡುತಿರಲುಹೊಟ್ಟೆಯುರಿಯನ್ಯರೇಳಿಗೆಕಂ",
+ "kn": {
+  "lines": [
+   "ಪಡುತಿರಲು ಹೊಟ್ಟೆಯುರಿಯನ್ಯರೇಳಿಗೆ ಕಂಡು",
+   "ಕಡೆಗೊಮ್ಮೆ ಬೇಯುವೆಯೊ ಪರಿತಾಪದಿಂದ",
+   "ನಡೆಯುತಿರೆ ನಿನ್ನಂತೇ ಎಲ್ಲರನು ಕಾಣುತಲೆ",
+   "ಸುಡುತಾಪ ನಿನಗಿರದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಪಡುತಿರಲು ಹೊಟ್ಟೆಯುರಿಯನ್ಯರೇಳಿಗೆ ಕಂಡು\nಕಡೆಗೊಮ್ಮೆ ಬೇಯುವೆಯೊ ಪರಿತಾಪದಿಂದ\nನಡೆಯುತಿರೆ ನಿನ್ನಂತೇ ಎಲ್ಲರನು ಕಾಣುತಲೆ\nಸುಡುತಾಪ ನಿನಗಿರದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If you burn with envy seeing others rise,",
+   "one day you will be cooked in your own remorse;",
+   "if you walk seeing everyone as yourself,",
+   "no scorching heat will be yours, O deluded one."
+  ],
+  "theme": "Envy",
+  "bhavartha": "Envy burns the envious. Seeing others as ourselves frees us from that fire."
+ }
+}

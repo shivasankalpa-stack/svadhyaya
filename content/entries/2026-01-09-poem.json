@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-09-poem",
+ "type": "poem",
+ "date": "2026-01-09",
+ "time": "07:26",
+ "author": "Kusha N M",
+ "source": "2026-01-09T07:26|ಹಾಡುವಾತನರಾಗತಾಳಲಯವಿಲ್ಲದಿರೆಮೋಡಿಮ",
+ "kn": {
+  "lines": [
+   "ಹಾಡುವಾತನ ರಾಗ ತಾಳ ಲಯವಿಲ್ಲದಿರೆ",
+   "ಮೋಡಿಮಾಡಲು ಅವಗೆ ಸಾಧ್ಯವಾಗುವುದೇ",
+   "ನಾಡಿಮಿಡಿತವನರಿತು ಅದರಂತೆ ನಡೆಯುತಿರೆ",
+   "ಕೂಡಿಪರು ದನಿಗಳನು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹಾಡುವಾತನ ರಾಗ ತಾಳ ಲಯವಿಲ್ಲದಿರೆ\nಮೋಡಿಮಾಡಲು ಅವಗೆ ಸಾಧ್ಯವಾಗುವುದೇ\nನಾಡಿಮಿಡಿತವನರಿತು ಅದರಂತೆ ನಡೆಯುತಿರೆ\nಕೂಡಿಪರು ದನಿಗಳನು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If a singer has no rāga, tāḷa or laya,",
+   "can he ever cast a spell?",
+   "if you know the pulse and act in step with it,",
+   "people will join their voices with yours, O deluded one."
+  ],
+  "theme": "Harmony",
+  "bhavartha": "A song without melody, beat and tempo moves no one. In life too, sense the rhythm of people and situations and act in tune with it, and others will join you."
+ }
+}

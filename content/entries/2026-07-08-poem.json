@@ -1,0 +1,28 @@
+{
+ "id": "2026-07-08-poem",
+ "type": "poem",
+ "date": "2026-07-08",
+ "time": "05:29",
+ "author": "Kusha N M",
+ "source": "2026-07-08T05:29|ಕೀಳಾಗಿಎಣಿಸದಿರುಯಾರನ್ನೂಜೀವನದಿಮೇಲ",
+ "kn": {
+  "lines": [
+   "ಕೀಳಾಗಿ ಎಣಿಸದಿರು ಯಾರನ್ನೂ ಜೀವನದಿ",
+   "ಮೇಲಾಗಿ ನೀನೊಬ್ಬ ಸರ್ವಜ್ಞನೇನು",
+   "ಬೀಳುಗಳೆದರೆ ಜನರ ಹಾಳಾಗಿ ಹೋಗುವೆಯೊ",
+   "ಮೇಲರಿಮೆ ಹರಿದು ಒಗೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕೀಳಾಗಿ ಎಣಿಸದಿರು ಯಾರನ್ನೂ ಜೀವನದಿ\nಮೇಲಾಗಿ ನೀನೊಬ್ಬ ಸರ್ವಜ್ಞನೇನು\nಬೀಳುಗಳೆದರೆ ಜನರ ಹಾಳಾಗಿ ಹೋಗುವೆಯೊ\nಮೇಲರಿಮೆ ಹರಿದು ಒಗೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Don’t look down on anyone in life;",
+   "besides, are you all-knowing?",
+   "if you count people’s failings, you will come to ruin;",
+   "tear up your superiority and throw it away, O deluded one."
+  ],
+  "theme": "Humility",
+  "bhavartha": "No one is beneath us, and none of us knows everything. Counting others’ falls leads to our own. Throw away the sense of superiority."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-04-poem",
+ "type": "poem",
+ "date": "2026-05-04",
+ "time": "06:59",
+ "author": "Kusha N M",
+ "source": "2026-05-04T06:59|ಕರುಬದಿರುಸುತ್ತಲಿನಜನರಏಳಿಗೆಕಂಡುಕೊ",
+ "kn": {
+  "lines": [
+   "ಕರುಬದಿರು ಸುತ್ತಲಿನ ಜನರ ಏಳಿಗೆ ಕಂಡು",
+   "ಕೊರಗದಿರು ಆಸುಖವು ನಿನಗಿಲ್ಲವೆಂದು",
+   "ಮರುಗುವೆಯೊ ವಿಧಿವಿಧಿಪ ದಾರಿಯಲಿ ನಡೆಯದಿರೆ",
+   "ಮರೆತುನಡೆ ಹಲುಬುವಿಕೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕರುಬದಿರು ಸುತ್ತಲಿನ ಜನರ ಏಳಿಗೆ ಕಂಡು\nಕೊರಗದಿರು ಆಸುಖವು ನಿನಗಿಲ್ಲವೆಂದು\nಮರುಗುವೆಯೊ ವಿಧಿವಿಧಿಪ ದಾರಿಯಲಿ ನಡೆಯದಿರೆ\nಮರೆತುನಡೆ ಹಲುಬುವಿಕೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Don’t be jealous when you see people around you prosper;",
+   "don’t pine because you don’t have that happiness;",
+   "you will grieve if you don’t walk the path fate lays down;",
+   "forget your whining and walk on, O deluded one."
+  ],
+  "theme": "Contentment",
+  "bhavartha": "Envy and self-pity only bring grief. Accept the path destiny has given you, stop complaining, and move forward."
+ }
+}

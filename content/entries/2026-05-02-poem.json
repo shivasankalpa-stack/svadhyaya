@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-02-poem",
+ "type": "poem",
+ "date": "2026-05-02",
+ "time": "06:40",
+ "author": "Kusha N M",
+ "source": "2026-05-02T06:40|ಜಾತಜೀವಿಯಗುರಿಯುಸುಖಬದುಕಹೊಂದುವುದು",
+ "kn": {
+  "lines": [
+   "ಜಾತಜೀವಿಯ ಗುರಿಯು ಸುಖಬದುಕ ಹೊಂದುವುದು",
+   "ಚಾತಕದ ರೀತಿಯಲೆ ದಾರಿ ಕಾಯುವನು",
+   "ಜೀತಮಾಡುವನವನು ಜೀವನಕೆ ಸುಖಪಡಲು",
+   "ಕಾತರದಿ ಕಾಯುವನು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಜಾತಜೀವಿಯ ಗುರಿಯು ಸುಖಬದುಕ ಹೊಂದುವುದು\nಚಾತಕದ ರೀತಿಯಲೆ ದಾರಿ ಕಾಯುವನು\nಜೀತಮಾಡುವನವನು ಜೀವನಕೆ ಸುಖಪಡಲು\nಕಾತರದಿ ಕಾಯುವನು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "The aim of every creature that is born is a happy life;",
+   "like the cātaka bird, he waits for the way;",
+   "he labours like a bonded servant to be happy in life,",
+   "and waits eagerly, O deluded one."
+  ],
+  "theme": "Longing",
+  "bhavartha": "Every being longs for happiness. Like the cātaka bird that waits only for raindrops, we wait and toil for it, often at great cost."
+ }
+}

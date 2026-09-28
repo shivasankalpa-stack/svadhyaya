@@ -1,0 +1,29 @@
+{
+ "id": "2026-04-18-poem",
+ "type": "poem",
+ "date": "2026-04-18",
+ "time": "06:41",
+ "author": "Kusha N M",
+ "source": "2026-04-18T06:41|ಜ್ಞಾನಿಸಾಧಕಗುರುವುಹಿರಿಯಜೀವಗಳೆದುರ",
+ "kn": {
+  "lines": [
+   "ಜ್ಞಾನಿ ಸಾಧಕ ಗುರುವು ಹಿರಿಯ ಜೀವಗಳೆದುರು",
+   "ನಾನೆಂಬ ಮಮಕಾರದಿಂದ ಬೀಗದಿರು",
+   "ಮಾನಿಸುತ ಸಾಧನೆಯ ಗೌರವಿಸೆ ಅನುಭವವ",
+   "ಭಾನಗಡಿಯಿರದೆಂದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": "ಭಾನಗಡಿ-ತೊಡಕು, ಗೊಂದಲ, ಜಟಿಲತೆ"
+ },
+ "raw": "ಜ್ಞಾನಿ ಸಾಧಕ ಗುರುವು ಹಿರಿಯ ಜೀವಗಳೆದುರು\nನಾನೆಂಬ ಮಮಕಾರದಿಂದ ಬೀಗದಿರು\nಮಾನಿಸುತ ಸಾಧನೆಯ ಗೌರವಿಸೆ ಅನುಭವವ\nಭಾನಗಡಿಯಿರದೆಂದು ಮೂಢಮನುಜ\n\nಭಾನಗಡಿ-ತೊಡಕು, ಗೊಂದಲ, ಜಟಿಲತೆ",
+ "en": {
+  "lines": [
+   "Before the wise, the seekers, the guru and the elders,",
+   "do not swagger with the attachment called ‘I’;",
+   "if you honour their practice and respect their experience,",
+   "there will be no tangles, O deluded one."
+  ],
+  "theme": "Reverence",
+  "bhavartha": "Drop the ego in the presence of the learned, the devoted, teachers and elders. Respecting their experience keeps life free of complications.",
+  "note": "Kusha’s own gloss: bhānagaḍi means complication, confusion, entanglement."
+ }
+}

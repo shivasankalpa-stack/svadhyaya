@@ -1,0 +1,28 @@
+{
+ "id": "2026-04-20-poem",
+ "type": "poem",
+ "date": "2026-04-20",
+ "time": "06:30",
+ "author": "Kusha N M",
+ "source": "2026-04-20T06:30|ಅತಿಯಾಗಿನಂಬದಿರುಅತಿವಿನಯತೋರುವರಜತೆ",
+ "kn": {
+  "lines": [
+   "ಅತಿಯಾಗಿ ನಂಬದಿರು ಅತಿವಿನಯ ತೋರುವರ",
+   "ಜತೆನಡೆದೆ ನಿನ ತಪ್ಪು ದಾರಿಗೆಳೆಯುವರು",
+   "ಮಿತಿಯಿರಲಿ ನಂಬಿಕೆಗೆ ಪರಿಕಿಸುತ ಸಾಗುತಿರು",
+   "ಜತನದಿಂದೆಚ್ಚರಿರು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಅತಿಯಾಗಿ ನಂಬದಿರು ಅತಿವಿನಯ ತೋರುವರ\nಜತೆನಡೆದೆ ನಿನ ತಪ್ಪು ದಾರಿಗೆಳೆಯುವರು\nಮಿತಿಯಿರಲಿ ನಂಬಿಕೆಗೆ ಪರಿಕಿಸುತ ಸಾಗುತಿರು\nಜತನದಿಂದೆಚ್ಚರಿರು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Don’t trust too much those who show excessive humility;",
+   "walking with you, they may drag you onto the wrong path;",
+   "let there be a limit to trust; keep testing as you go;",
+   "stay carefully alert, O deluded one."
+  ],
+  "theme": "Caution",
+  "bhavartha": "Overdone humility can hide ulterior motives. Trust, but within limits, and keep testing it as you go."
+ }
+}

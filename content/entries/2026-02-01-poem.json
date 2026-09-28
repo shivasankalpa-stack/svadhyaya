@@ -1,0 +1,28 @@
+{
+ "id": "2026-02-01-poem",
+ "type": "poem",
+ "date": "2026-02-01",
+ "time": "06:20",
+ "author": "Kusha N M",
+ "source": "2026-02-01T06:20|ನಿನ್ನನೀನೇನೆಂದುತಿಳಿದಿರುವೆಮಾನವನೆ",
+ "kn": {
+  "lines": [
+   "ನಿನ್ನನೀನೇನೆಂದು ತಿಳಿದಿರುವೆ ಮಾನವನೆ",
+   "ನಿನ್ನ ಸೀಮಿತ ಪರಿಧಿ ಅರಿತಿರುವೆಯೇನು",
+   "ನಿನ್ನ ನಾಲಿಗೆಯೊಡನೆ ನಡೆನುಡಿಯು ಹಿಡಿತವಿರೆ",
+   "ನಿನ್ನ ಜಗ ಸುಂದರವು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಿನ್ನನೀನೇನೆಂದು ತಿಳಿದಿರುವೆ ಮಾನವನೆ\nನಿನ್ನ ಸೀಮಿತ ಪರಿಧಿ ಅರಿತಿರುವೆಯೇನು\nನಿನ್ನ ನಾಲಿಗೆಯೊಡನೆ ನಡೆನುಡಿಯು ಹಿಡಿತವಿರೆ\nನಿನ್ನ ಜಗ ಸುಂದರವು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "What do you take yourself to be, O man?",
+   "do you know your own limited reach?",
+   "when your words and deeds are held in check along with your tongue,",
+   "your world becomes beautiful, O deluded one."
+  ],
+  "theme": "Self-knowledge",
+  "bhavartha": "We tend to overestimate ourselves. Know your limits, rein in your tongue and your conduct, and life around you becomes beautiful."
+ }
+}

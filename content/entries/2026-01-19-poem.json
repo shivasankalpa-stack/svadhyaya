@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-19-poem",
+ "type": "poem",
+ "date": "2026-01-19",
+ "time": "05:26",
+ "author": "Kusha N M",
+ "source": "2026-01-19T05:26|ನಿರ್ಗತಿಕನಾಗದಿರುಗುಣನಡತೆವಿಷಯದಲಿದ",
+ "kn": {
+  "lines": [
+   "ನಿರ್ಗತಿಕನಾಗದಿರು ಗುಣ ನಡತೆ ವಿಷಯದಲಿ",
+   "ದುರ್ಗತಿಯ ತಡೆವುದಕೆ ಸಜ್ಜನಿಕೆ ಬೆಳೆಸು",
+   "ದುರ್ಗಮನು ನೀನಾಗೆ ದೋಷಗಳು ಎಡತಾಕೆ",
+   "ಭರ್ಗನಂತುಜ್ಜಗಿಪೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಿರ್ಗತಿಕನಾಗದಿರು ಗುಣ ನಡತೆ ವಿಷಯದಲಿ\nದುರ್ಗತಿಯ ತಡೆವುದಕೆ ಸಜ್ಜನಿಕೆ ಬೆಳೆಸು\nದುರ್ಗಮನು ನೀನಾಗೆ ದೋಷಗಳು ಎಡತಾಕೆ\nಭರ್ಗನಂತುಜ್ಜಗಿಪೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Don’t be destitute in virtue and conduct;",
+   "cultivate goodness to ward off misfortune;",
+   "when you become unassailable, and faults knock at your door,",
+   "you will blaze like Bharga, the radiant one, O deluded one."
+  ],
+  "theme": "Virtue",
+  "bhavartha": "Poverty of character is the real destitution. Build up goodness until you are a fortress that faults cannot enter, and you will shine like the divine light (Bharga) of the Gāyatrī."
+ }
+}

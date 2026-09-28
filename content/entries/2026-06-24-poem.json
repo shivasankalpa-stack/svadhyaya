@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-24-poem",
+ "type": "poem",
+ "date": "2026-06-24",
+ "time": "05:30",
+ "author": "Kusha N M",
+ "source": "2026-06-24T05:30|ಉಪಯೋಗವೇನಿಹುದುಜಾತಿಮತಮುಖ್ಯವೆನೆಉಪ",
+ "kn": {
+  "lines": [
+   "ಉಪಯೋಗವೇನಿಹುದು ಜಾತಿಮತ ಮುಖ್ಯವೆನೆ",
+   "ಉಪಲಬ್ಧ ಸತ್ಯಗಳು ಜಗಳದಲಿ ಲುಪ್ತ",
+   "ಉಪಭೋಗಿಯರಿತೊಡನೆ ಧರ್ಮವೊಂದಿಹುದೆಂದು",
+   "ಅಪಕಾರ ನಶಿಸುವುದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಉಪಯೋಗವೇನಿಹುದು ಜಾತಿಮತ ಮುಖ್ಯವೆನೆ\nಉಪಲಬ್ಧ ಸತ್ಯಗಳು ಜಗಳದಲಿ ಲುಪ್ತ\nಉಪಭೋಗಿಯರಿತೊಡನೆ ಧರ್ಮವೊಂದಿಹುದೆಂದು\nಅಪಕಾರ ನಶಿಸುವುದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "What use is there if caste and creed are made the main thing?",
+   "the truths we have are lost in quarrels;",
+   "once the one who enjoys life knows that dharma is one,",
+   "harm perishes, O deluded one."
+  ],
+  "theme": "Unity",
+  "bhavartha": "Putting caste and creed first leads only to quarrels in which truth is lost. Once we understand that dharma is one, harm and hostility fade."
+ }
+}

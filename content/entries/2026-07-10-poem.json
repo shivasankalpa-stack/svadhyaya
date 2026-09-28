@@ -1,0 +1,28 @@
+{
+ "id": "2026-07-10-poem",
+ "type": "poem",
+ "date": "2026-07-10",
+ "time": "06:43",
+ "author": "Kusha N M",
+ "source": "2026-07-10T06:43|ನೆರೆಕೆಯಿಲ್ಲದಕಜ್ಜಶುಭಫಲವತಂದಾವುಸರ",
+ "kn": {
+  "lines": [
+   "ನೆರೆಕೆಯಿಲ್ಲದ ಕಜ್ಜ ಶುಭಫಲವ ತಂದಾವು",
+   "ಸರಿಯದಿರು ಹಿಂದೆಗೆದು ಇಟ್ಟ ಹೆಜ್ಜೆಯನು",
+   "ಪರರ ಪೀಡನೆಯಿರದೆ ಸ್ವಾರ್ಥವೇ ಇಲ್ಲದಿರೆ",
+   "ಪರಮಸುಖ ನಿನ್ನದಹು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನೆರೆಕೆಯಿಲ್ಲದ ಕಜ್ಜ ಶುಭಫಲವ ತಂದಾವು\nಸರಿಯದಿರು ಹಿಂದೆಗೆದು ಇಟ್ಟ ಹೆಜ್ಜೆಯನು\nಪರರ ಪೀಡನೆಯಿರದೆ ಸ್ವಾರ್ಥವೇ ಇಲ್ಲದಿರೆ\nಪರಮಸುಖ ನಿನ್ನದಹು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Work done without help may still bring good fruit;",
+   "don’t step back from a step you have taken;",
+   "without harming others, without selfishness,",
+   "supreme happiness is yours, O deluded one."
+  ],
+  "theme": "Perseverance",
+  "bhavartha": "Even work done alone can succeed. Having set out, don’t retreat. Work that harms no one and is free of selfishness brings the deepest happiness."
+ }
+}

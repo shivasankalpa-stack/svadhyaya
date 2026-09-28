@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-02-poem",
+ "type": "poem",
+ "date": "2026-01-02",
+ "time": "06:39",
+ "author": "Kusha N M",
+ "source": "2026-01-02T06:39|ಗುಣಶುದ್ಧಿಸನ್ನಡತೆಮಾನವನಿಗಿಲ್ಲದಿರ",
+ "kn": {
+  "lines": [
+   "ಗುಣಶುದ್ಧಿ ಸನ್ನಡತೆ ಮಾನವನಿಗಿಲ್ಲದಿರೆ",
+   "ಹಣಗಳಿಕೆ ಜೀವನವ ಶುದ್ಧಿ ಮಾಡುವುದೇ?",
+   "ಮಣಭಾರ ದುರ್ಗುಣವ ಹೊತ್ತುನೀ ನಡೆಯುತಿರೆ",
+   "ಹೆಣವಾಗಿ ಬದುಕಿರುವೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಗುಣಶುದ್ಧಿ ಸನ್ನಡತೆ ಮಾನವನಿಗಿಲ್ಲದಿರೆ\nಹಣಗಳಿಕೆ ಜೀವನವ ಶುದ್ಧಿ ಮಾಡುವುದೇ?\nಮಣಭಾರ ದುರ್ಗುಣವ ಹೊತ್ತುನೀ ನಡೆಯುತಿರೆ\nಹೆಣವಾಗಿ ಬದುಕಿರುವೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If a person lacks purity of nature and good conduct,",
+   "can earning money make his life pure?",
+   "if you walk bearing a load of bad qualities,",
+   "you are a corpse that is living, O deluded one."
+  ],
+  "theme": "Character",
+  "bhavartha": "Money cannot cleanse a life lacking character. Carrying a heavy load of vices, one is alive only in name."
+ }
+}

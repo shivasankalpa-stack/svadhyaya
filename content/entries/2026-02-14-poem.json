@@ -1,0 +1,28 @@
+{
+ "id": "2026-02-14-poem",
+ "type": "poem",
+ "date": "2026-02-14",
+ "time": "07:31",
+ "author": "Kusha N M",
+ "source": "2026-02-14T07:31|ಚಿಂತೆಚಿತೆಗಳಲಿಹುದುಒಂದುವರ್ಣದಭೇದಜ",
+ "kn": {
+  "lines": [
+   "ಚಿಂತೆಚಿತೆಗಳಲಿಹುದು ಒಂದು ವರ್ಣದ ಭೇದ",
+   "ಜೊತೆಯಲ್ಲೆ ಹುಟ್ಟಿ ಕೊನೆ ಕ್ಷಣದಲ್ಲಿ ಅಂತ್ಯ",
+   "ಸಂತೆ ಜೀವನದಲ್ಲಿ ಕಂತೆ ಕೊರಗನು ಹೊತ್ತು",
+   "ಅಂತಿಮದ ಗುರಿ ಸಾವು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಚಿಂತೆಚಿತೆಗಳಲಿಹುದು ಒಂದು ವರ್ಣದ ಭೇದ\nಜೊತೆಯಲ್ಲೆ ಹುಟ್ಟಿ ಕೊನೆ ಕ್ಷಣದಲ್ಲಿ ಅಂತ್ಯ\nಸಂತೆ ಜೀವನದಲ್ಲಿ ಕಂತೆ ಕೊರಗನು ಹೊತ್ತು\nಅಂತಿಮದ ಗುರಿ ಸಾವು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Between worry and the funeral pyre there is the difference of one letter;",
+   "born together, they end together at the final moment;",
+   "in the marketplace of life, carrying a bundle of sorrows,",
+   "our last goal is death, O deluded one."
+  ],
+  "theme": "Worry",
+  "bhavartha": "In Kannada, chinte (worry) and chite (pyre) differ by a single letter. Worry is born with us and stays until the end. Why carry a bundle of sorrow through life’s bazaar when death is where it all ends?"
+ }
+}

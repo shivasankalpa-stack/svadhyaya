@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-11-poem",
+ "type": "poem",
+ "date": "2025-12-11",
+ "time": "05:20",
+ "author": "Kusha N M",
+ "source": "2025-12-11T05:20|ನಂದಿಸದೆಬೆಳಗುತಿರುಮನದೊಳಿಹಜ್ಯೋತಿಯ",
+ "kn": {
+  "lines": [
+   "ನಂದಿಸದೆ ಬೆಳಗುತಿರು ಮನದೊಳಿಹ ಜ್ಯೋತಿಯನು",
+   "ಕುಂದದೆಯೆ ಮುನ್ನಡೆಯೆ ತೋರುವುದು ದಾರಿ",
+   "ಬಂದೆರುಗೊ ಕತ್ತಲೆಯ ಅರಿವಿನಿಂದೋಡಿಸಿರೆ",
+   "ಸಂದುವುದು ಗೌರವವು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಂದಿಸದೆ ಬೆಳಗುತಿರು ಮನದೊಳಿಹ ಜ್ಯೋತಿಯನು\nಕುಂದದೆಯೆ ಮುನ್ನಡೆಯೆ ತೋರುವುದು ದಾರಿ\nಬಂದೆರುಗೊ ಕತ್ತಲೆಯ ಅರಿವಿನಿಂದೋಡಿಸಿರೆ\nಸಂದುವುದು ಗೌರವವು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Keep the lamp within your mind burning; do not let it go out;",
+   "it will light the way if you press on without faltering;",
+   "if knowledge drives off the darkness that comes to cling to you,",
+   "honour will be yours, O deluded one."
+  ],
+  "theme": "Knowledge",
+  "bhavartha": "The inner lamp of understanding must be kept alight. It shows the way forward and chases away the darkness of ignorance, and respect follows."
+ }
+}

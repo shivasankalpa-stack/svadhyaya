@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-10-poem",
+ "type": "poem",
+ "date": "2026-01-10",
+ "time": "05:32",
+ "author": "Kusha N M",
+ "source": "2026-01-10T05:32|ನೆಮ್ಮದಿಯಜೀವನಕೆಹೋರಾಡುತಿರಬೇಕುಸುಮ",
+ "kn": {
+  "lines": [
+   "ನೆಮ್ಮದಿಯ ಜೀವನಕೆ ಹೋರಾಡುತಿರಬೇಕು",
+   "ಸುಮ್ಮನೆಯೆ ಕೂತಿರಲು ಅನ್ನ ಹುಟ್ಟುವುದೆ",
+   "ಬಿಮ್ಮನೇ ಯೋಚಿಸುತ ಬಿಗುಮಾನ ಬದಿಗಿರಿಸೆ",
+   "ಹೊಮ್ಮುವವು ದಾರಿಗಳು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನೆಮ್ಮದಿಯ ಜೀವನಕೆ ಹೋರಾಡುತಿರಬೇಕು\nಸುಮ್ಮನೆಯೆ ಕೂತಿರಲು ಅನ್ನ ಹುಟ್ಟುವುದೆ\nಬಿಮ್ಮನೇ ಯೋಚಿಸುತ ಬಿಗುಮಾನ ಬದಿಗಿರಿಸೆ\nಹೊಮ್ಮುವವು ದಾರಿಗಳು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "For a peaceful life you must keep striving;",
+   "will food grow if you just sit idle?",
+   "if you think hard and set pride aside,",
+   "paths will open up, O deluded one."
+  ],
+  "theme": "Effort",
+  "bhavartha": "Peace does not come from idleness; it has to be worked for. Think clearly, drop your pride, and a way forward will appear."
+ }
+}

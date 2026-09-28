@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-29-poem",
+ "type": "poem",
+ "date": "2026-03-29",
+ "time": "07:12",
+ "author": "Kusha N M",
+ "source": "2026-03-29T07:12|ಎಲ್ಲತಿಳಿದಿದೆಯೆಂದುಮೆರೆಯದಿರುಮಾನವ",
+ "kn": {
+  "lines": [
+   "ಎಲ್ಲ ತಿಳಿದಿದೆಯೆಂದು ಮೆರೆಯದಿರು ಮಾನವನೆ",
+   "ಬಲ್ಲಜನ ನಿನ್ನರಿವ ಮೀರಿಸುವರಿಹರು",
+   "ಸಲ್ಲಿಸಿರೆ ಗೌರವವ ಜ್ಞಾನದನುಭವಗಳಿಗೆ",
+   "ಗೆಲ್ಲುವೆಯೊ ಎಲ್ಲೆಡೆಯು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಎಲ್ಲ ತಿಳಿದಿದೆಯೆಂದು ಮೆರೆಯದಿರು ಮಾನವನೆ\nಬಲ್ಲಜನ ನಿನ್ನರಿವ ಮೀರಿಸುವರಿಹರು\nಸಲ್ಲಿಸಿರೆ ಗೌರವವ ಜ್ಞಾನದನುಭವಗಳಿಗೆ\nಗೆಲ್ಲುವೆಯೊ ಎಲ್ಲೆಡೆಯು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "O man, do not strut about thinking you know everything;",
+   "there are people who know more than you;",
+   "if you pay respect to knowledge and experience,",
+   "you will win everywhere, O deluded one."
+  ],
+  "theme": "Humility",
+  "bhavartha": "No one knows it all; someone always knows more. Respect knowledge and experience, and you will be welcome everywhere."
+ }
+}

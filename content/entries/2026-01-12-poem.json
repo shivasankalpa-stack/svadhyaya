@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-12-poem",
+ "type": "poem",
+ "date": "2026-01-12",
+ "time": "06:42",
+ "author": "Kusha N M",
+ "source": "2026-01-12T06:42|ಆರೈಸುಹಿರಿಕಿರಿಯಜೀವಗಳಸಂತತವುಹಾರೈಸ",
+ "kn": {
+  "lines": [
+   "ಆರೈಸು ಹಿರಿಕಿರಿಯ ಜೀವಗಳ ಸಂತತವು",
+   "ಹಾರೈಸಿ ಹರಸುವರು ನಿನ್ನ ಏಳಿಗೆಗೆ",
+   "ಕೋರೈಸಿ ಸೆಳೆಯುತಿರೆ ಅನಗತ್ಯ ವಿಷಯಗಳು",
+   "ಮಾರೈದು ದೂರವಿರು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಆರೈಸು ಹಿರಿಕಿರಿಯ ಜೀವಗಳ ಸಂತತವು\nಹಾರೈಸಿ ಹರಸುವರು ನಿನ್ನ ಏಳಿಗೆಗೆ\nಕೋರೈಸಿ ಸೆಳೆಯುತಿರೆ ಅನಗತ್ಯ ವಿಷಯಗಳು\nಮಾರೈದು ದೂರವಿರು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Always care for the lives around you, old and young;",
+   "they will wish you well and bless your rise;",
+   "when needless things dazzle and pull you in,",
+   "stay a good five miles away, O deluded one."
+  ],
+  "theme": "Care",
+  "bhavartha": "Look after the elderly and the young, and their blessings will help you grow. Keep well clear of glittering distractions."
+ }
+}

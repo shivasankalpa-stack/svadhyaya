@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-17-poem",
+ "type": "poem",
+ "date": "2026-05-17",
+ "time": "05:10",
+ "author": "Kusha N M",
+ "source": "2026-05-17T05:10|ಕೆಲಸದಲಿಮೊದಲಸಲತಪ್ಪಿದರೆಕ್ಷಮೆಯಿಹು",
+ "kn": {
+  "lines": [
+   "ಕೆಲಸದಲಿ ಮೊದಲಸಲ ತಪ್ಪಿದರೆ ಕ್ಷಮೆಯಿಹುದು",
+   "ಹಲವುಸಲ ತಪ್ಪಿರಲು ಅಪರಾಧವಹುದು",
+   "ಬಲವದುವೆ ನಿನತಪ್ಪು ನೀನರಿತು ತಿದ್ದುತಿರೆ",
+   "ಗೆಲುದನಿಯು ತುಂಬುವುದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕೆಲಸದಲಿ ಮೊದಲಸಲ ತಪ್ಪಿದರೆ ಕ್ಷಮೆಯಿಹುದು\nಹಲವುಸಲ ತಪ್ಪಿರಲು ಅಪರಾಧವಹುದು\nಬಲವದುವೆ ನಿನತಪ್ಪು ನೀನರಿತು ತಿದ್ದುತಿರೆ\nಗೆಲುದನಿಯು ತುಂಬುವುದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "A mistake at work the first time can be forgiven;",
+   "made many times over, it becomes an offence;",
+   "it is a strength if you recognise and correct your mistake;",
+   "the voice of victory will fill you, O deluded one."
+  ],
+  "theme": "Learning",
+  "bhavartha": "A first mistake is forgivable; repeating it is not. Recognising and correcting our errors is itself a strength that leads to success."
+ }
+}

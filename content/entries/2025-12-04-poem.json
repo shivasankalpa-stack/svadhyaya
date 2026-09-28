@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-04-poem",
+ "type": "poem",
+ "date": "2025-12-04",
+ "time": "05:40",
+ "author": "Kusha N M",
+ "source": "2025-12-04T05:40|ಚಾಟಿಬೀಸುವವಿಧಿಗೆಜೀವನವುಬುಗುರಿಯಹು",
+ "kn": {
+  "lines": [
+   "ಚಾಟಿ ಬೀಸುವ ವಿಧಿಗೆ ಜೀವನವು ಬುಗುರಿಯಹು",
+   "ದಾಟಿದರೆ ಪರಿಧಿಯನು ವಿಧಿಸುವುದು ಶಿಕ್ಷೆ",
+   "ಮೀಟುತಿರೆ ಸದ್ಗುಣವ ಜೀವನವನೆತ್ತರಿಸೆ",
+   "ಮೇಟಿಯಹು ಜೀವನಕೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಚಾಟಿ ಬೀಸುವ ವಿಧಿಗೆ ಜೀವನವು ಬುಗುರಿಯಹು\nದಾಟಿದರೆ ಪರಿಧಿಯನು ವಿಧಿಸುವುದು ಶಿಕ್ಷೆ\nಮೀಟುತಿರೆ ಸದ್ಗುಣವ ಜೀವನವನೆತ್ತರಿಸೆ\nಮೇಟಿಯಹು ಜೀವನಕೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Life is a spinning top for fate that cracks the whip;",
+   "cross the line, and fate hands out punishment;",
+   "but keep plucking the strings of virtue to raise your life,",
+   "and virtue becomes life’s central pillar, O deluded one."
+  ],
+  "theme": "Virtue",
+  "bhavartha": "We are spun about by fate, and it punishes those who overstep. Yet steady goodness lifts a life and becomes the post it turns around."
+ }
+}

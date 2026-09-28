@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-20-poem",
+ "type": "poem",
+ "date": "2026-05-20",
+ "time": "07:12",
+ "author": "Kusha N M",
+ "source": "2026-05-20T07:12|ಓರೆಕೋರೆಯುಮರೆಯುಸಾಧನೆಯುಬೆನ್ನಿಗಿರ",
+ "kn": {
+  "lines": [
+   "ಓರೆಕೋರೆಯು ಮರೆಯು ಸಾಧನೆಯು ಬೆನ್ನಿಗಿರೆ",
+   "ತೋರಿಕೆಯ ಅಧ್ಯಯನ ನಿನಗೆಂದು ಶತ್ರು",
+   "ಆರಿಸಿರೆ ವಿಧಿನ್ಯಾಸ ಅನುಕ್ರಮವನುಸರಿಸೆ",
+   "ಸಾರಿಹೇಳುವೆ ಜ್ಞಾನ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಓರೆಕೋರೆಯು ಮರೆಯು ಸಾಧನೆಯು ಬೆನ್ನಿಗಿರೆ \nತೋರಿಕೆಯ ಅಧ್ಯಯನ ನಿನಗೆಂದು ಶತ್ರು\nಆರಿಸಿರೆ ವಿಧಿನ್ಯಾಸ ಅನುಕ್ರಮವನುಸರಿಸೆ\nಸಾರಿಹೇಳುವೆ ಜ್ಞಾನ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Crookedness and bias are hidden when achievement is behind you;",
+   "show-off study is your enemy forever;",
+   "if you choose the proper method and follow the right sequence,",
+   "you will proclaim knowledge, O deluded one."
+  ],
+  "theme": "Method",
+  "bhavartha": "Real achievement covers small flaws; superficial study is a lifelong enemy. Learn methodically and in proper order, and you will be able to teach what you know."
+ }
+}

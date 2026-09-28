@@ -1,0 +1,28 @@
+{
+ "id": "2025-12-13-poem",
+ "type": "poem",
+ "date": "2025-12-13",
+ "time": "05:28",
+ "author": "Kusha N M",
+ "source": "2025-12-13T05:28|ಎಲ್ಲರಲಿಒಂದಾಗುಎಲ್ಲರೊಡೆಒಡನಾಡುಬಲ್",
+ "kn": {
+  "lines": [
+   "ಎಲ್ಲರಲಿ ಒಂದಾಗು ಎಲ್ಲರೊಡೆ ಒಡನಾಡು",
+   "ಬಲ್ಲ ಜನ ಸಂಗದಲಿ ಅನುಭವವ ಪಡೆಯೊ",
+   "ಮೆಲ್ಲುತಿರು ಸಿಹಿಕಹಿಯ ಸಮನಾಗಿ ಸ್ವೀಕರಿಸಿ",
+   "ಗೆಲ್ಲುವೆಯೊ ಜೀವನವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಎಲ್ಲರಲಿ ಒಂದಾಗು ಎಲ್ಲರೊಡೆ ಒಡನಾಡು\nಬಲ್ಲ ಜನ ಸಂಗದಲಿ ಅನುಭವವ ಪಡೆಯೊ\nಮೆಲ್ಲುತಿರು ಸಿಹಿಕಹಿಯ ಸಮನಾಗಿ ಸ್ವೀಕರಿಸಿ\nಗೆಲ್ಲುವೆಯೊ ಜೀವನವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Be one with everyone, mix with all;",
+   "gain experience in the company of those who know;",
+   "keep chewing the sweet and the bitter, taking both alike,",
+   "and you will win at life, O deluded one."
+  ],
+  "theme": "Openness",
+  "bhavartha": "Live among people, learn from the wise, and accept life’s sweet and bitter moments with the same steadiness. That is how a life is won."
+ }
+}

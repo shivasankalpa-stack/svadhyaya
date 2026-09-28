@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-17-poem",
+ "type": "poem",
+ "date": "2026-01-17",
+ "time": "06:30",
+ "author": "Kusha N M",
+ "source": "2026-01-17T06:30|ದೀವಟಿಕೆಯಾಗಿನಡೆದಾರಿಕಾಣದಜನಕೆಕಾವಳ",
+ "kn": {
+  "lines": [
+   "ದೀವಟಿಕೆಯಾಗಿ ನಡೆ ದಾರಿಕಾಣದ ಜನಕೆ",
+   "ಕಾವಳದ ತಂಪಂತೆ ಕಂಗೆಟ್ಟ ಮನಕೆ",
+   "ಕೇವಲದ ಮಾತಾಡಿ ಮನವ ನೋಯಿಸದಂತೆ",
+   "ಸಾವರಿಸಿ ನಡೆಯುತಿರು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ದೀವಟಿಕೆಯಾಗಿ ನಡೆ ದಾರಿಕಾಣದ ಜನಕೆ\nಕಾವಳದ ತಂಪಂತೆ ಕಂಗೆಟ್ಟ ಮನಕೆ\nಕೇವಲದ ಮಾತಾಡಿ ಮನವ ನೋಯಿಸದಂತೆ\nಸಾವರಿಸಿ ನಡೆಯುತಿರು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Walk as a torch for those who cannot see the path,",
+   "as the cool of a grove to a troubled mind;",
+   "speaking only what is needed, without hurting hearts,",
+   "walk on with care, O deluded one."
+  ],
+  "theme": "Kindness",
+  "bhavartha": "Be a light for the lost and a comfort for the distressed. Speak gently and sparingly, so that no one is hurt by your words."
+ }
+}

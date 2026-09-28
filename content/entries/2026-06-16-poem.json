@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-16-poem",
+ "type": "poem",
+ "date": "2026-06-16",
+ "time": "06:25",
+ "author": "Kusha N M",
+ "source": "2026-06-16T06:25|ಹಸಿದವಗೆಅನ್ನವಿಡುದಣಿದವಗೆನೀರುಣಿಸು",
+ "kn": {
+  "lines": [
+   "ಹಸಿದವಗೆ ಅನ್ನವಿಡು ದಣಿದವಗೆ ನೀರುಣಿಸು",
+   "ಬಿಸಿಲಿನಲಿ ಬಳಲುವಗೆ ನೆರಳನ್ನು ನೀಡು",
+   "ಪಸರೆ ನಿರ್ಮಮ ಸೇವೆ ಪಂಚಯಜ್ಞದ ಫಲವು",
+   "ಹಸನಾಗಿ ಒಲಿಯುವುದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಹಸಿದವಗೆ ಅನ್ನವಿಡು ದಣಿದವಗೆ ನೀರುಣಿಸು\nಬಿಸಿಲಿನಲಿ ಬಳಲುವಗೆ ನೆರಳನ್ನು ನೀಡು\nಪಸರೆ ನಿರ್ಮಮ ಸೇವೆ ಪಂಚಯಜ್ಞದ ಫಲವು\nಹಸನಾಗಿ ಒಲಿಯುವುದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Give food to the hungry, water to the weary,",
+   "shade to the one worn out in the sun;",
+   "when selfless service spreads, the fruit of the five sacrifices",
+   "comes to you gracefully, O deluded one."
+  ],
+  "theme": "Service",
+  "bhavartha": "Feed the hungry, refresh the tired, shelter those in need. Such selfless service carries the merit of the five daily sacrifices (pañca-mahāyajña)."
+ }
+}

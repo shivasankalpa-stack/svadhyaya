@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-11-poem",
+ "type": "poem",
+ "date": "2026-01-11",
+ "time": "05:37",
+ "author": "Kusha N M",
+ "source": "2026-01-11T05:37|ಜೇನುಹೀರುವಕೀಟದೊಡನಾಟಹುವೊಡನೆಜ್ಞಾನ",
+ "kn": {
+  "lines": [
+   "ಜೇನು ಹೀರುವ ಕೀಟದೊಡನಾಟ ಹುವೊಡನೆ",
+   "ಜ್ಞಾನಿಗಳ ಸಂಗವಹು ಬೆಳಕನ್ನು ಪಡೆಯೆ",
+   "ದೀನಹೀನತೆ ಸರಿಸಿ ಸಜ್ಜನರ ಸಂಗ ಪಡೆ",
+   "ಆನುತಿರು ಸಜ್ಜನಿಕೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಜೇನು ಹೀರುವ ಕೀಟದೊಡನಾಟ ಹುವೊಡನೆ\nಜ್ಞಾನಿಗಳ ಸಂಗವಹು ಬೆಳಕನ್ನು ಪಡೆಯೆ\nದೀನಹೀನತೆ ಸರಿಸಿ ಸಜ್ಜನರ ಸಂಗ ಪಡೆ\nಆನುತಿರು ಸಜ್ಜನಿಕೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "The bee that sips honey keeps company with flowers;",
+   "to gain light, keep company with the wise;",
+   "push aside meanness and misery, seek the company of the good,",
+   "and keep leaning on goodness, O deluded one."
+  ],
+  "theme": "Company",
+  "bhavartha": "As the bee finds honey among flowers, we find light among wise people. Leave pettiness behind and stay close to the good."
+ }
+}

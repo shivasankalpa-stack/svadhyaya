@@ -1,0 +1,95 @@
+{
+ "name_kn": "ಸ್ವಾಧ್ಯಾಯ",
+ "name_en": "Svādhyāya",
+ "tagline_en": "A Veda mantra, a four-line verse and the fine points of dharma, in Kannada with English alongside.",
+ "motto_kn": "ಸ್ವಾಧ್ಯಾಯಾನ್ಮಾ ಪ್ರಮದಃ",
+ "motto_tl": "svādhyāyān mā pramadaḥ",
+ "motto_en": "Never neglect your daily study.",
+ "motto_src": "Taittirīya Upaniṣad 1.11",
+ "editor": "Karthik Satchitanand",
+ "authors": {
+  "sri-hari": {
+   "en": "Sri Hari",
+   "kn": "ಶ್ರೀ ಹರಿ",
+   "initial": "ಹ",
+   "photo": null,
+   "role_en": "Explains one Veda mantra every morning",
+   "role_kn": "ಪ್ರತಿದಿನ ಒಂದು ವೇದಮಂತ್ರದ ಅರ್ಥ"
+  },
+  "kusha": {
+   "en": "Kusha N M",
+   "kn": "ಕುಶ ಎನ್ ಎಂ",
+   "initial": "ಕು",
+   "photo": null,
+   "role_en": "Writes four lines a day to the deluded one",
+   "role_kn": "ಪ್ರತಿದಿನ ನಾಲ್ಕು ಸಾಲಿನ ಪದ್ಯ"
+  },
+  "manjunatha": {
+   "en": "Manjunatha Shastri",
+   "kn": "ಮಂಜುನಾಥ ಶಾಸ್ತ್ರಿ",
+   "initial": "ಮಂ",
+   "photo": null,
+   "role_en": "Gathers the fine points of dharma and practice",
+   "role_kn": "ಧರ್ಮಶಾಸ್ತ್ರದ ಸೂಕ್ಷ್ಮ ವಿಷಯಗಳು"
+  }
+ },
+ "collections": [
+  {
+   "key": "mantra",
+   "types": [
+    "mantra",
+    "note"
+   ],
+   "kn": "ಮಂತ್ರಾರ್ಥ",
+   "en": "Mantrārtha",
+   "sub_en": "One Veda mantra a morning, word by word, then as a whole",
+   "sub_kn": "ದಿನಕ್ಕೊಂದು ವೇದಮಂತ್ರ, ಪ್ರತಿಪದಾರ್ಥ ಮತ್ತು ಭಾವಾರ್ಥ",
+   "author": "sri-hari",
+   "material": "palm",
+   "cadence_en": "Daily, before dawn",
+   "page": "mantras.html",
+   "image": "assets/img/vidya-ganapati.png",
+   "image_en": "Śrī Vidyā Gaṇapati",
+   "image_kn": "ಶ್ರೀ ವಿದ್ಯಾಗಣಪತಿ",
+   "image_shape": "round"
+  },
+  {
+   "key": "poem",
+   "types": [
+    "poem"
+   ],
+   "kn": "ಮೂಢ ಮನುಜ",
+   "en": "Mūḍha Manuja",
+   "sub_en": "Four lines each morning, addressed to the deluded one",
+   "sub_kn": "ಮೂಢಮನುಜನಿಗೆ ದಿನಕ್ಕೊಂದು ಚೌಪದಿ",
+   "author": "kusha",
+   "material": "paper",
+   "cadence_en": "Daily, around sunrise",
+   "page": "verses.html",
+   "image": "assets/img/saraswati.jpg",
+   "image_en": "Śrī Sarasvatī",
+   "image_kn": "ಶ್ರೀ ಸರಸ್ವತೀ",
+   "image_shape": "arch"
+  },
+  {
+   "key": "dharma",
+   "types": [
+    "dharma"
+   ],
+   "kn": "ಧರ್ಮಸೂಕ್ಷ್ಮ",
+   "en": "Dharma Sūkṣma",
+   "sub_en": "Fine points of ritual and practice, from the dharmaśāstra",
+   "sub_kn": "ಆಚಾರ ಮತ್ತು ಧರ್ಮಶಾಸ್ತ್ರದ ಸೂಕ್ಷ್ಮ ವಿಷಯಗಳು",
+   "author": "manjunatha",
+   "material": "copper",
+   "cadence_en": "From time to time",
+   "page": "dharma.html",
+   "image": "assets/img/veda-vyasa.jpg",
+   "image_en": "Śrī Veda Vyāsa",
+   "image_kn": "ಶ್ರೀ ವೇದವ್ಯಾಸ",
+   "image_shape": "arch"
+  }
+ ],
+ "deity_image": "assets/img/rajashyamala.jpg",
+ "editor_email": "ksatchit.arunachala@gmail.com"
+}

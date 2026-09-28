@@ -1,0 +1,28 @@
+{
+ "id": "2026-01-18-poem",
+ "type": "poem",
+ "date": "2026-01-18",
+ "time": "06:46",
+ "author": "Kusha N M",
+ "source": "2026-01-18T06:46|ನಿನತನವಸಾಬೀತುಮಾಡುದಕೆಬಾಳುತಿರೆಜನಗ",
+ "kn": {
+  "lines": [
+   "ನಿನತನವ ಸಾಬೀತು ಮಾಡುದಕೆ ಬಾಳುತಿರೆ",
+   "ಜನಗಳಿಗೆ ನೀನೊಂದು ಆಟಿಕೆಯ ವಸ್ತು",
+   "ಜನುಮವಿದೆ ನಿನಗೊಂದು ನಿನಗಾಗೆ ಜೀವಿಸಲು",
+   "ಮನವಿಟ್ಟು ನಡೆಯದಕೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಿನತನವ ಸಾಬೀತು ಮಾಡುದಕೆ ಬಾಳುತಿರೆ\nಜನಗಳಿಗೆ ನೀನೊಂದು ಆಟಿಕೆಯ ವಸ್ತು\nಜನುಮವಿದೆ ನಿನಗೊಂದು ನಿನಗಾಗೆ ಜೀವಿಸಲು\nಮನವಿಟ್ಟು ನಡೆಯದಕೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If you live only to prove yourself,",
+   "you become a toy for other people;",
+   "you have one birth, to live for your own sake;",
+   "set your mind on that and walk on, O deluded one."
+  ],
+  "theme": "Authenticity",
+  "bhavartha": "A life spent proving ourselves to others makes us their plaything. Live true to your own purpose instead."
+ }
+}

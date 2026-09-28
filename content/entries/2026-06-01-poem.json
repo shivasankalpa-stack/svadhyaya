@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-01-poem",
+ "type": "poem",
+ "date": "2026-06-01",
+ "time": "08:03",
+ "author": "Kusha N M",
+ "source": "2026-06-01T08:03|ಆಂತರಿಕಮನದಬಲಹೂಹಾಸುಜೀವನಕೆಶಾಂತಮನಯ",
+ "kn": {
+  "lines": [
+   "ಆಂತರಿಕ ಮನದಬಲ ಹೂಹಾಸು ಜೀವನಕೆ",
+   "ಶಾಂತಮನ ಯೋಚನೆಯು ದಾರಿ ತೆರೆದಾವು",
+   "ಭ್ರಾಂತಿಯಿರೆ ಬದುಕೆಂದು ದಾರಿತಪ್ಪಿದ ಹಡಗು",
+   "ತ್ರಾತನಾಗೆಲೊ ಮನಕೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಆಂತರಿಕ ಮನದಬಲ ಹೂಹಾಸು ಜೀವನಕೆ\nಶಾಂತಮನ ಯೋಚನೆಯು ದಾರಿ ತೆರೆದಾವು\nಭ್ರಾಂತಿಯಿರೆ ಬದುಕೆಂದು ದಾರಿತಪ್ಪಿದ ಹಡಗು\nತ್ರಾತನಾಗೆಲೊ ಮನಕೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Inner strength of mind is a carpet of flowers for life;",
+   "thoughts of a calm mind will open the way;",
+   "with confusion, life is a ship that has lost its course;",
+   "be the rescuer of your own mind, O deluded one."
+  ],
+  "theme": "Inner strength",
+  "bhavartha": "Inner strength smooths life’s path, and calm thinking finds a way. Confusion leaves us adrift. Take charge of your own mind."
+ }
+}

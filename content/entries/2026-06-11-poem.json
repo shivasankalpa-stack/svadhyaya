@@ -1,0 +1,28 @@
+{
+ "id": "2026-06-11-poem",
+ "type": "poem",
+ "date": "2026-06-11",
+ "time": "05:55",
+ "author": "Kusha N M",
+ "source": "2026-06-11T05:55|ತಿಳಿದವೃದ್ಧನೆಆಗಿವಯಸಿನಲುಹಿರಿಯನಿರ",
+ "kn": {
+  "lines": [
+   "ತಿಳಿದ ವೃದ್ಧನೆ ಆಗಿ ವಯಸಿನಲು ಹಿರಿಯನಿರೆ",
+   "ಕಳೆಸಮಯ ಕಿರಿಯರಿಗೆ ಆದರ್ಶವಾಗಿ",
+   "ಉಳಿಸೆ ಮಾನವಧರ್ಮ ನಿರತ ತತ್ಪರನಾಗೆ",
+   "ಅಳಿಲುಸೇವೆಯೆ ನಿನದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ತಿಳಿದ ವೃದ್ಧನೆ ಆಗಿ ವಯಸಿನಲು ಹಿರಿಯನಿರೆ\nಕಳೆಸಮಯ ಕಿರಿಯರಿಗೆ ಆದರ್ಶವಾಗಿ\nಉಳಿಸೆ ಮಾನವಧರ್ಮ ನಿರತ ತತ್ಪರನಾಗೆ\nಅಳಿಲುಸೇವೆಯೆ ನಿನದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If you are old in years, be an elder who knows;",
+   "spend your time as an ideal for the young;",
+   "if you are ever ready to preserve the dharma of humanity,",
+   "even a squirrel’s service is yours, O deluded one."
+  ],
+  "theme": "Elderhood",
+  "bhavartha": "Age should bring wisdom. Spend later years as an example to the young and in service of humanity. Even a small contribution, like the squirrel’s help to Rāma, counts."
+ }
+}

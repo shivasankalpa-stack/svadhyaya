@@ -1,0 +1,28 @@
+{
+ "id": "2026-05-16-poem",
+ "type": "poem",
+ "date": "2026-05-16",
+ "time": "05:56",
+ "author": "Kusha N M",
+ "source": "2026-05-16T05:56|ಕುಕ್ಕಿತಿನ್ನುವರೆಲ್ಲತಪ್ಪುಕಂಡರೆನಿ",
+ "kn": {
+  "lines": [
+   "ಕುಕ್ಕಿ ತಿನ್ನುವರೆಲ್ಲ ತಪ್ಪು ಕಂಡರೆ ನಿನ್ನ",
+   "ಸಿಕ್ಕಿದೊಡೆ ಅಣಕಿಸುತ ಮೂಗು ಮುರಿಯುವರು",
+   "ಸೊಕ್ಕಿರದೆ ತಪ್ಪುಗಳು ಕಂಡೊಡನೆ ತಿದ್ದಿನಡೆ",
+   "ದಕ್ಕಿಸಿಕೊ ಜೀವನವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕುಕ್ಕಿ ತಿನ್ನುವರೆಲ್ಲ ತಪ್ಪು ಕಂಡರೆ ನಿನ್ನ\nಸಿಕ್ಕಿದೊಡೆ ಅಣಕಿಸುತ ಮೂಗು ಮುರಿಯುವರು\nಸೊಕ್ಕಿರದೆ ತಪ್ಪುಗಳು ಕಂಡೊಡನೆ ತಿದ್ದಿನಡೆ\nದಕ್ಕಿಸಿಕೊ ಜೀವನವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Everyone pecks at you when they see your mistakes;",
+   "when they catch you, they mock and turn up their noses;",
+   "without arrogance, correct your mistakes as soon as you see them,",
+   "and make life your own, O deluded one."
+  ],
+  "theme": "Correction",
+  "bhavartha": "People pounce on our mistakes. Without pride or defensiveness, correct them as soon as we see them, and life becomes truly ours."
+ }
+}

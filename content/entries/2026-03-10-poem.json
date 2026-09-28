@@ -1,0 +1,28 @@
+{
+ "id": "2026-03-10-poem",
+ "type": "poem",
+ "date": "2026-03-10",
+ "time": "04:26",
+ "author": "Kusha N M",
+ "source": "2026-03-10T04:26|ಗತಿಯಿಲ್ಲತಮಗೆಂದುನಂಬಿಸುತನಟಿಸುವರು",
+ "kn": {
+  "lines": [
+   "ಗತಿಯಿಲ್ಲ ತಮಗೆಂದು ನಂಬಿಸುತ ನಟಿಸುವರು",
+   "ಅತಿಯಾಗಿ ಇಡುಗಂಟು ಕೂಡಿಸುತಲಿಹರು",
+   "ಪತಿರಾಗುವರವರು ನಿಜಮುಖವು ಹೊರಹೊಮ್ಮೆ",
+   "ಮಿತಿಯಿರದೆ ಕನಲಿಪರು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಗತಿಯಿಲ್ಲ ತಮಗೆಂದು ನಂಬಿಸುತ ನಟಿಸುವರು\nಅತಿಯಾಗಿ ಇಡುಗಂಟು ಕೂಡಿಸುತಲಿಹರು\nಪತಿರಾಗುವರವರು ನಿಜಮುಖವು ಹೊರಹೊಮ್ಮೆ\nಮಿತಿಯಿರದೆ ಕನಲಿಪರು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "They act as if they have nothing and make you believe it,",
+   "while piling up huge savings;",
+   "they become chaff once their true face comes out,",
+   "and then they rage without limit, O deluded one."
+  ],
+  "theme": "Pretence",
+  "bhavartha": "Some people plead poverty while hoarding in secret. Once their real face is seen they lose all worth, and often turn bitter and angry."
+ }
+}
