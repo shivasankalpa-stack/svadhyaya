@@ -1,0 +1,2 @@
+# svadhyaya
+svādhyāyān mā pramadaḥ
