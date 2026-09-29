@@ -15,5 +15,14 @@
   "footnote": ""
  },
  "raw": "ಗೌರವಿಸು ವಿದ್ಯೆಯನು ಆದರಿಸು ಸಜ್ಜನರ\nದಾರಿದೀಪವೆ ಜ್ಞಾನ ಸಭ್ಯತೆಯ ಕಡೆಗೆ\nಆರೆ ಬಿಡದಿರೆ ನೀನು ಗುಣವಿದ್ಯೆ ಗ್ರಾಹ್ಯತನ\nತೋರುವುದು ಗುರಿಸನಿಹ ಮೂಢಮನುಜ",
- "en": null
+ "en": {
+  "lines": [
+   "Honour learning, welcome good people;",
+   "knowledge is the lamp on the road toward civility;",
+   "if you never let your virtue, learning and openness go out,",
+   "they will bring the goal near, O deluded one."
+  ],
+  "theme": "Learning",
+  "bhavartha": "Respect learning and good people. Knowledge lights the path to a refined life. Keep virtue, learning and receptiveness alive, and the goal comes near."
+ }
 }

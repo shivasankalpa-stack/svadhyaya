@@ -15,5 +15,14 @@
   "footnote": ""
  },
  "raw": "ಒಟ್ಟಿಗಿರೆ ಕುಲಜನರು ಅನ್ಯಜನ ನಡುಬರರು\nಗಟ್ಟಿ ಬಾಂಧವ್ಯವಿರೆ ಕುಲವು ಉಳಿಯುವುದು\nಮೆಟ್ಟಿನಡೆವರು ಜನರು ಒಡಕುಗಳು ಕಾಣುತಿರೆ\nಒಟ್ಟಿಗಿಟ್ಟಿರು ಕುಲವ ಮೂಢಮನುಜ",
- "en": null
+ "en": {
+  "lines": [
+   "When kinsfolk stand together, outsiders don’t come between;",
+   "when bonds are strong, the family survives;",
+   "people walk all over you when they see cracks;",
+   "keep the family together, O deluded one."
+  ],
+  "theme": "Family",
+  "bhavartha": "A united family keeps outsiders from driving wedges. Strong bonds preserve a family; visible rifts invite others to exploit them."
+ }
 }

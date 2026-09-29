@@ -85,5 +85,77 @@
   "vishesha": ""
  },
  "raw": "ಸಂಹಿತಾ ಪಾಠ:\nಚತ್ವಾರಿ ವಾಕ್ಪರಿಮಿತಾ ಪದಾನಿ ವಿರುಬ್ರಾರ್ಹ್ಮಣಾ ಯೇ ಮನೀಷಿಣ:/\nಗುಹಾ ತ್ರೀಣಿ ನಿಹಿತಾ ನೇಂಗಯಂತಿ ತುರೀಯಂ ವಾಚೋ ಮನುಷ್ಯಾ ವದಂತಿ//\n                           ಪ್ರತಿ ಪದಾರ್ಥ \nವಾಕ್ - ವಾಕ್ಕಿನ \nಪದಾನಿ - ವರ್ಗಗಳು \nಚತ್ವಾರಿ - ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ \nಪರಿಮಿತಾ - ನಿಯಮಿತವಾಗಿವೆ\nತಾನಿ - ಆ ವರ್ಗಗಳನ್ನು \nಯೇ - ಯಾರು \nಮನೀಷಿಣ:- ಮೇಧಾವಿಗಳಾಗಿರುವವರೋ ಅಂತಹ \nಬ್ರಾಹ್ಮಣಾ:- ವೇದವಿತ್ತುಗಳು \nವಿದು:- ತಿಳಿಯುತ್ತಾರೆ \n(ತೇಷಾಂ - ಆ ವರ್ಗಗಳಲ್ಲಿ)\nತ್ರೀಣಿ - ಮೂರು\nಗುಹಾ - ರಹಸ್ಯದಲ್ಲಿ \nನಿಹಿತಾ - ಇಡಲ್ಪಟ್ಟು \nನೇಂಗಯಂತಿ - ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುವುದಿಲ್ಲ \nಮನುಷ್ಯಾ:- ಮಾನವರೆಲ್ಲರೂ \nವಾಚ:ತುರೀಯಂ - ವಾಕ್ಕಿನ ನಾಲ್ಕನೆಯ ಪದವನ್ನು \nವದಂತಿ - ಉಚ್ಚರಿಸಿ ವ್ಯವಹರಿಸುತ್ತಾರೆ.\n                                ಭಾವಾರ್ಥ \nವಾಕ್ಕಿನ ವರ್ಗಗಳು ನಾಲ್ಕು ಭಾಗಗಳಾಗಿ ನಿಯಮಿತವಾಗಿವೆ.ಆ ವರ್ಗಗಳನ್ನು ಮೇಧಾವಿಗಳು  ವೇದವಿತ್ತುಗಳು ಮಾತ್ರ ಅರಿಯುತ್ತಾರೆ.ಅವುಗಳಲ್ಲಿ ಮೂರು ವರ್ಗಗಳು ರಹಸ್ಯದಲ್ಲಿಡಪಟ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ತಿಳಿಯುವುದಿಲ್ಲ.ಮಾನವರೆಲ್ಲರೂ ವಾಕ್ಕಿನ ನಾಲ್ಕನೆಯ ಪದವನ್ನು ಮಾತ್ರ ಉಚ್ಚರಿಸಿ ವ್ಯವಹರಿಸುತ್ತಾರೆ.",
- "en": null
+ "en": {
+  "gloss": [
+   [
+    "vāk",
+    "of speech"
+   ],
+   [
+    "padāni",
+    "the divisions"
+   ],
+   [
+    "catvāri",
+    "as four parts"
+   ],
+   [
+    "parimitā",
+    "are measured out"
+   ],
+   [
+    "tāni",
+    "those divisions"
+   ],
+   [
+    "ye",
+    "who"
+   ],
+   [
+    "manīṣiṇa",
+    "are wise — such"
+   ],
+   [
+    "brāhmaṇā",
+    "knowers of the Veda (brāhmaṇas)"
+   ],
+   [
+    "vidu",
+    "know"
+   ],
+   [
+    "(teṣāṃ",
+    "(of those divisions)"
+   ],
+   [
+    "trīṇi",
+    "three"
+   ],
+   [
+    "guhā",
+    "in secret"
+   ],
+   [
+    "nihitā",
+    "placed"
+   ],
+   [
+    "neṃgayaṃti",
+    "are not clearly known"
+   ],
+   [
+    "manuṣyā",
+    "all human beings"
+   ],
+   [
+    "vācaḥturīyaṃ",
+    "the fourth quarter of speech"
+   ],
+   [
+    "vadaṃti",
+    "utter and use."
+   ]
+  ],
+  "meaning": "The divisions of speech are measured out as four parts. Only wise knowers of the Veda know those divisions. Three of them are placed in secret and are not clearly known. All human beings utter and use only the fourth quarter of speech."
+ }
 }
