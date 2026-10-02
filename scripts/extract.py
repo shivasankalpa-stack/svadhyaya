@@ -15,12 +15,14 @@ OUT = ROOT / "content" / "entries"
 CFG = json.loads((ROOT / "scripts" / "rules.json").read_text(encoding="utf-8"))
 
 HDR = re.compile(r'^(\d{1,2}/\d{1,2}/\d{2,4}), (\d{1,2}:\d{2})[\s ]?([AaPp][Mm]) - (.*)$')
+# iPhone exports: "[9/26/26, 4:04:51 AM] Name: text"
+HDR_IOS = re.compile(r'^\[(\d{1,2}/\d{1,2}/\d{2,4}), (\d{1,2}:\d{2})(?::\d{2})?[\s ]?([AaPp][Mm])\] (.*)$')
 
 def parse_chat(path):
     msgs = []
     for line in Path(path).read_text(encoding="utf-8").split("\n"):
         line = line.replace("‎", "")
-        m = HDR.match(line)
+        m = HDR.match(line) or HDR_IOS.match(line)
         if m:
             d, t, ap, rest = m.groups()
             mo, dd, yy = d.split("/")

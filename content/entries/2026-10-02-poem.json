@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-02-poem",
+ "type": "poem",
+ "date": "2026-10-02",
+ "time": "06:49",
+ "author": "Kusha N M",
+ "source": "2026-10-02T06:49|ಕಾಣದಿಹದೇವನನುಎಲ್ಲೆಲ್ಲಿಹುಡುಕುವೆಯ",
+ "kn": {
+  "lines": [
+   "ಕಾಣದಿಹ ದೇವನನು ಎಲ್ಲೆಲ್ಲಿ ಹುಡುಕುವೆಯೊ",
+   "ದೋಣಿಯಂತಿಹ ಬದುಕಿಗವನೆ ನಾವಿಕನು",
+   "ಪ್ರಾಣದೀವಿಗೆಯಾಗಿ ನಿನ್ನೊಳಗೆ ಅವನಿರುವ",
+   "ತ್ರಾಣನಿನಗಾಗಿರುವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕಾಣದಿಹ ದೇವನನು ಎಲ್ಲೆಲ್ಲಿ ಹುಡುಕುವೆಯೊ\nದೋಣಿಯಂತಿಹ ಬದುಕಿಗವನೆ ನಾವಿಕನು\nಪ್ರಾಣದೀವಿಗೆಯಾಗಿ ನಿನ್ನೊಳಗೆ ಅವನಿರುವ\nತ್ರಾಣನಿನಗಾಗಿರುವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Where all do you search for the God you cannot see?",
+   "For life, which is like a boat, he alone is the boatman;",
+   "as the lamp of life he dwells within you,",
+   "he is there as your strength, O deluded one."
+  ],
+  "theme": "Within",
+  "bhavartha": "We look everywhere for a God we cannot see, yet he steers the boat of our life. He lives within us as the flame of life itself, and he is our strength."
+ }
+}
