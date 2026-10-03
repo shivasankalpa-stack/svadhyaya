@@ -44,6 +44,9 @@ def fingerprint(m):
     # stable id for a message across exports: timestamp + first 30 chars
     return m["dt"].strftime("%Y-%m-%dT%H:%M") + "|" + re.sub(r"\s+", "", m["text"])[:30]
 
+def loose(fp):
+    return fp[:10] + "|" + fp.split("|", 1)[-1]
+
 MARK = re.compile(r"ಭಾವಾರ್ಥ|ಪ್ರತಿ\s*ಪದಾರ್ಥ")
 POEM_END = re.compile(r"ಮೂಢ\s*ಮನುಜ\S*\s*[.!]*$")
 CONT = re.compile(r"^\s*(Part\s*\d|ಮುಂದುವರ)|\(ಮುಂದುವರೆದ\)|ಮುಂದುವರಿದ ಭಾಗ")
@@ -156,10 +159,12 @@ def main():
     existing = {}
     for f in OUT.glob("*.json"):
         e = json.loads(f.read_text(encoding="utf-8")); existing[e["source"]] = f
+        existing[loose(e["source"])] = f   # same day + same opening text (pasted posts have no exact time)
     created, pending = [], []
     counts = {}
     for m in picked:
         fp = fingerprint(m)
+        if fp not in existing and loose(fp) in existing: fp = loose(fp)
         if fp in existing:
             e = json.loads(existing[fp].read_text(encoding="utf-8"))
             if not e.get("en"): pending.append(existing[fp].name)
