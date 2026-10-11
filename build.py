@@ -401,7 +401,11 @@ def build():
             wm = next((e for e in days[wd] if e["type"] == "mantra"), None)
             wp = next((e for e in days[wd] if e["type"] == "poem"), None)
             ml = bi(*mantra_head(wm)) if wm else ""
-            pl = esc((wp.get("en") or {}).get("lines", [wp["kn"]["lines"][0]])[0]) if wp else ""
+            if wp:
+                pl = bi(esc(wp["kn"]["lines"][0]), esc((wp.get("en") or {}).get("lines", [wp["kn"]["lines"][0]])[0]))
+            else:  # no verse that day: show the day's other post, if any
+                wo = next((e for e in days[wd] if e["type"] in ("dharma", "note") and e["kn"].get("title")), None)
+                pl = bi(esc(wo["kn"]["title"]), esc((wo.get("en") or {}).get("title") or wo["kn"]["title"])) if wo else ""
             li += f'<li><a href="d/{wd}.html"><span class="w-date">{D(wd).strftime("%a %d %b")}</span><span class="w-m">{ml}</span><span class="w-p">{pl}</span></a></li>'
         body += f'<section class="week"><h2 class="sec-h">{bi("ಈ ವಾರ", "Earlier this week")}</h2><ul class="weeklist">{li}</ul></section>'
     write("index.html", page(SITE["name_en"], body, "", "index.html", cls="home"))
