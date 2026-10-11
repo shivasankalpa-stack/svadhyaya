@@ -4,7 +4,7 @@ svādhyāyān mā pramadaḥ
 
 ## The site
 
-Daily Veda mantra meanings (Sri Hari), *Mūḍha Manuja* verses (Kusha N M) and *Dharma Sūkṣma* notes (Manjunatha Shastri), in Kannada with English alongside.
+Daily Veda mantra meanings (Sri Hari), *Mūḍha Manuja* verses (Kusha N M) and *Dharma Sūkṣma* notes (Manjunatha Sharma), in Kannada with English alongside.
 
 - `content/entries/*.json`: one file per post (Kannada original + English `en` block)
 - `content/series.json`: sūkta series (date ranges, names, verse counts)

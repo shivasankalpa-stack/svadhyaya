@@ -448,7 +448,7 @@ def build():
     c = COLS[2]
     ds = sorted(dharmas, key=lambda e: e["date"], reverse=True)
     body = (crumb("collections.html", "ಸಂಗ್ರಹಗಳು", "Collections") + f'<div class="pagehead has-medal">{medallion(c, "")}<p class="eyebrow">{bi(esc(AUTH[c["author"]]["kn"]), esc(AUTH[c["author"]]["en"]))}</p><h1>{bi(esc(c["kn"]), esc(c["en"]))}</h1>'
-            '<p class="lede">The fine points: when exactly the oblation should fall, how many times to sound the conch, why a custom is kept and whether the śāstra requires it. Manjunatha Shastri shares these from the dharmaśāstra, the muhūrta texts and the practice of the Śṛṅgeri tradition. They arrive when a question calls for them, not on a schedule.</p>'
+            '<p class="lede">The fine points: when exactly the oblation should fall, how many times to sound the conch, why a custom is kept and whether the śāstra requires it. Manjunatha Sharma shares these from the dharmaśāstra, the muhūrta texts and the practice of the Śṛṅgeri tradition. They arrive when a question calls for them, not on a schedule.</p>'
             f'<p class="count">{len(ds)} plates</p></div><div class="plate-grid">' + "".join(render(x, "", "teaser") for x in ds) + "</div>")
     write("dharma.html", page(f"{c['en']} · {SITE['name_en']}", body, "", "collections.html"))
 
@@ -613,8 +613,8 @@ def about():
     {portrait("manjunatha", "", "lg")}
     <div class="person-body">
       <p class="eyebrow">{bi("ಧರ್ಮಸೂಕ್ಷ್ಮ", "Dharma Sūkṣma")} · on copper plate</p>
-      <h3><span lang="kn">ಮಂಜುನಾಥ ಶಾಸ್ತ್ರಿ</span> Manjunatha Shastri</h3>
-      <p>Manjunatha Shastri began the circle in December 2023, and he keeps it practical. When someone asks why the bell is rung at a certain point in the Rudrābhiṣeka, he recalls putting the same question to the Śṛṅgeri pontiff years ago, and the answer he got: there is no śāstric reason. When the timing of a ritual is in doubt, he works out the Abhijit muhūrta to the minute.</p>
+      <h3><span lang="kn">ಮಂಜುನಾಥ ಶರ್ಮ</span> Manjunatha Sharma</h3>
+      <p>Manjunatha Sharma began the circle in December 2023, and he keeps it practical. When someone asks why the bell is rung at a certain point in the Rudrābhiṣeka, he recalls putting the same question to the Śṛṅgeri pontiff years ago, and the answer he got: there is no śāstric reason. When the timing of a ritual is in doubt, he works out the Abhijit muhūrta to the minute.</p>
       <p>It was also his suggestion, in November 2025, that each mantra post should name its seer, its deity and its metre. Within a week Sri Hari’s posts did.</p>
       <p class="facts"><span><b>{n['dharma']}</b> plates so far</span><span>shared <b>as questions arise</b></span></p>
       <p><a href="dharma.html">Read the Dharma Sūkṣma →</a></p>
@@ -635,7 +635,7 @@ def about():
   <div class="mat-row">
     <div class="mat"><span class="mat-swatch s-palm"></span><h3>Palm leaf</h3><p>For centuries the Veda was carried in memory and copied onto dried palm leaves, strung together through two holes. Sri Hari’s mantras are set on leaves.</p></div>
     <div class="mat"><span class="mat-swatch s-paper"></span><h3>Handmade paper</h3><p>A poet’s notebook: rag paper with a rough edge and indigo ink. Kusha’s verses are set on paper.</p></div>
-    <div class="mat"><span class="mat-swatch s-copper"></span><h3>Copper plate</h3><p>Grants and rulings of dharma were engraved on copper plates and bound with a sealed ring. Manjunatha Shastri’s notes are set on copper.</p></div>
+    <div class="mat"><span class="mat-swatch s-copper"></span><h3>Copper plate</h3><p>Grants and rulings of dharma were engraved on copper plates and bound with a sealed ring. Manjunatha Sharma’s notes are set on copper.</p></div>
   </div>
 </section>
 
@@ -650,7 +650,7 @@ def about():
 <section class="prose-sec">
   <h2 class="sec-h">{bi("ಮೂಲ", "Where it began")}</h2>
   <div class="prose">
-    <p>All three write for <span lang="kn">ವೈದಿಕ ಮಿತ್ರರು</span> (Vaidika Mitraru, “friends of the Veda”), a WhatsApp circle of Vedic scholars, practitioners and seekers that Manjunatha Shastri started in December 2023. Most of what passes through it is the ordinary business of friends: invitations, festival greetings, arrangements for the next homa. This site keeps the part that is meant to last. New posts are added every morning at 8.</p>
+    <p>All three write for <span lang="kn">ವೈದಿಕ ಮಿತ್ರರು</span> (Vaidika Mitraru, “friends of the Veda”), a WhatsApp circle of Vedic scholars, practitioners and seekers that Manjunatha Sharma started in December 2023. Most of what passes through it is the ordinary business of friends: invitations, festival greetings, arrangements for the next homa. This site keeps the part that is meant to last. New posts are added every morning at 8.</p>
   </div>
 </section>"""
 
