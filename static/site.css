@@ -271,13 +271,29 @@ html[data-lang="both"] .shelf-sub .en-only-inline::before{content:none}
 .shelf-meta{margin-top:auto;padding-top:8px;font-size:.84rem;color:var(--muted)}
 .week{margin-bottom:10px}
 .weeklist{list-style:none;margin:0;padding:0;border-top:1px solid var(--hair)}
-.weeklist a{display:grid;grid-template-columns:7rem minmax(0,15rem) 1fr;gap:4px 18px;padding-block:10px;border-bottom:1px solid var(--hair);text-decoration:none;align-items:baseline}
+.weeklist a,.w-head{display:grid;grid-template-columns:6.5rem minmax(0,1fr) minmax(0,1.25fr) minmax(0,1fr);gap:4px 20px;padding-block:10px;border-bottom:1px solid var(--hair);text-decoration:none;align-items:baseline}
+.w-head{padding-block:6px 8px;font-family:var(--cap);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.w-head .w-cell{display:flex;align-items:center;gap:6px}
+.w-head .sw{display:inline-block;width:.7rem;height:.7rem;border-radius:2px;flex:none}
+.sw.s-palm{background:#C9A55A}.sw.s-paper{background:#E9E2D2;box-shadow:inset 0 0 0 1px var(--hair)}.sw.s-copper{background:#B8673A}
 .w-date{font-family:var(--cap);letter-spacing:.06em;font-size:.86rem;color:var(--muted);font-variant-numeric:tabular-nums}
-.w-m{font-size:.95rem}
-html[data-lang="both"] .w-m .kn-only-inline{display:none}
-html[data-lang="both"] .w-m .en-only-inline::before{content:none}
-.w-p{font-style:italic;color:var(--ink-2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-@media (max-width:640px){.weeklist a{grid-template-columns:6.2rem 1fr}.w-p{grid-column:1/-1}}
+.w-cell{min-width:0;font-size:.95rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.w-p{font-style:italic;color:var(--ink-2)}
+.w-o{color:var(--ink-2)}
+.w-none{color:var(--hair-strong,var(--muted));opacity:.6}
+.w-lab{display:none}
+html[data-lang="both"] .weeklist .kn-only-inline{display:none}
+html[data-lang="both"] .weeklist .en-only-inline::before{content:none}
+html[data-lang="both"] .weeklist a .w-p .kn-only-inline{display:inline}
+html[data-lang="both"] .weeklist a .w-p .en-only-inline{display:none}
+.w-head .w-p{font-style:normal}
+@media (max-width:760px){
+  .w-head{display:none}
+  .w-cell.empty{display:none}
+  .weeklist a{grid-template-columns:1fr;gap:3px}
+  .w-cell{white-space:normal;display:grid;grid-template-columns:7.5rem 1fr;gap:10px}
+  .w-lab{display:block;font-family:var(--cap);font-style:normal;font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding-top:.2em}
+}
 
 /* lists */
 .s-grid{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}

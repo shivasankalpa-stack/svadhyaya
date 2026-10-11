@@ -396,18 +396,28 @@ def build():
              + "".join(col_card(c, "") for c in COLS) + "</div></section>")
     week = [x for x in daily[-8:-1]][::-1]
     if week:
-        li = ""
+        C = {c["key"]: c for c in COLS}
+        dash = '<span class="w-none" aria-label="none">—</span>'
+        def cell(cls, label, inner):
+            return f'<span class="w-cell {cls}{"" if inner else " empty"}"><span class="w-lab">{label}</span>{inner or dash}</span>'
+        lab_m = bi(esc(C["mantra"]["kn"]), esc(C["mantra"]["en"]))
+        lab_p = bi(esc(C["poem"]["kn"]), esc(C["poem"]["en"]))
+        lab_o = bi("ಧರ್ಮಸೂಕ್ಷ್ಮ · ಇತರೆ", "Dharma Sūkṣma · other")
+        rows = ""
         for wd in week:
             wm = next((e for e in days[wd] if e["type"] == "mantra"), None)
             wp = next((e for e in days[wd] if e["type"] == "poem"), None)
+            wo = next((e for e in days[wd] if e["type"] in ("dharma", "note") and e["kn"].get("title")), None)
             ml = bi(*mantra_head(wm)) if wm else ""
-            if wp:
-                pl = bi(esc(wp["kn"]["lines"][0]), esc((wp.get("en") or {}).get("lines", [wp["kn"]["lines"][0]])[0]))
-            else:  # no verse that day: show the day's other post, if any
-                wo = next((e for e in days[wd] if e["type"] in ("dharma", "note") and e["kn"].get("title")), None)
-                pl = bi(esc(wo["kn"]["title"]), esc((wo.get("en") or {}).get("title") or wo["kn"]["title"])) if wo else ""
-            li += f'<li><a href="d/{wd}.html"><span class="w-date">{D(wd).strftime("%a %d %b")}</span><span class="w-m">{ml}</span><span class="w-p">{pl}</span></a></li>'
-        body += f'<section class="week"><h2 class="sec-h">{bi("ಈ ವಾರ", "Earlier this week")}</h2><ul class="weeklist">{li}</ul></section>'
+            pl = bi(esc(wp["kn"]["lines"][0]), esc((wp.get("en") or {}).get("lines", [wp["kn"]["lines"][0]])[0])) if wp else ""
+            ol = bi(esc(wo["kn"]["title"]), esc((wo.get("en") or {}).get("title") or wo["kn"]["title"])) if wo else ""
+            rows += (f'<li><a href="d/{wd}.html"><span class="w-date">{D(wd).strftime("%a %d %b")}</span>'
+                     + cell("w-m", lab_m, ml) + cell("w-p", lab_p, pl) + cell("w-o", lab_o, ol) + "</a></li>")
+        head = (f'<li class="w-head" aria-hidden="true"><span class="w-date"></span>'
+                f'<span class="w-cell w-m"><i class="sw s-palm"></i>{lab_m}</span>'
+                f'<span class="w-cell w-p"><i class="sw s-paper"></i>{lab_p}</span>'
+                f'<span class="w-cell w-o"><i class="sw s-copper"></i>{lab_o}</span></li>')
+        body += f'<section class="week"><h2 class="sec-h">{bi("ಈ ವಾರ", "Earlier this week")}</h2><ul class="weeklist">{head}{rows}</ul></section>'
     write("index.html", page(SITE["name_en"], body, "", "index.html", cls="home"))
 
     # --- collections
