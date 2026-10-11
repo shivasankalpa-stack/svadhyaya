@@ -569,3 +569,17 @@ html[data-lang="both"] .mv-text .en-only-inline::before{content:none}
 @media (max-width:640px){.medal{width:170px;margin-left:0}.arch{max-width:230px}}
 .email{word-break:break-all}
 html[data-lang="both"] .pagehead h1 .en-only-inline{margin-top:10px}.pagehead h1{line-height:1.3}
+/* bilingual blocks (About page) */
+html[data-lang="both"] .bp .en-only{margin-top:.5em;padding-top:.5em;border-top:1px dotted var(--hair)}
+html[data-lang="both"] svg .kn-only-inline{display:none}
+html[data-lang="both"] .viz figcaption .kn-only{display:none}
+html[data-lang="both"] .stats .kn-only-inline,html[data-lang="both"] .facts .kn-only-inline{display:none}
+html[data-lang="both"] .stats .en-only-inline::before,html[data-lang="both"] .facts .en-only-inline::before{content:none}
+html[data-lang="both"] .about-title-en .kn-only-inline{display:none}
+html[data-lang="both"] .about-title-en .en-only-inline::before{content:none}
+
+html[data-lang="kn"] .portrait.lg::after{content:"ಭಾವಚಿತ್ರ ಶೀಘ್ರದಲ್ಲಿ"}
+html[data-lang="both"] .person h3 .en-only-inline::before,html[data-lang="both"] .foot-motto .en-only-inline::before{content:none}
+html[data-lang="both"] .story h2 .en-only-inline,html[data-lang="both"] .story-date .en-only-inline{display:block;font-size:.62em;font-family:var(--cap);letter-spacing:.06em;color:var(--muted);margin-top:4px}
+html[data-lang="both"] .story h2 .en-only-inline::before,html[data-lang="both"] .story-date .en-only-inline::before{content:none}
+html[data-lang="both"] .story-date .en-only-inline{font-size:1em;margin-top:0}

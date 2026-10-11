@@ -120,8 +120,9 @@ def page(title, body, r="", active="", desc="", cls=""):
 {body}
 </main>
 <footer class="foot">
-  <div class="foot-motto"><span lang="kn">{SITE['motto_kn']}</span> <span class="muted">· {SITE['motto_en']}</span></div>
-  <p>Written in Kannada by {', '.join(f'<a href="{r}about.html#{k}">{esc(a["en"])}</a>' for k, a in AUTH.items())}. English renderings are AI-assisted drafts, reviewed by {esc(SITE['editor'])}; the Kannada is always the original.</p>
+  <div class="foot-motto"><span lang="kn">{SITE['motto_kn']}</span> <span class="muted en-only-inline">· {SITE['motto_en']}</span></div>
+  <p class="en-only">Written in Kannada by {', '.join(f'<a href="{r}about.html#{k}">{esc(a["en"])}</a>' for k, a in AUTH.items())}. English renderings are AI-assisted drafts, reviewed by {esc(SITE['editor'])}; the Kannada is always the original.</p>
+  <p class="kn-alone" lang="kn">ಕನ್ನಡದಲ್ಲಿ ಬರೆದವರು: {', '.join(f'<a href="{r}about.html#{k}">{esc(a["kn"])}</a>' for k, a in AUTH.items())}. ಇಂಗ್ಲಿಷ್ ಅನುವಾದಗಳು AI ಸಹಾಯದಿಂದ ಸಿದ್ಧವಾದ ಕರಡುಗಳು, ಕಾರ್ತಿಕ್ ಸಚ್ಚಿದಾನಂದ್ ಅವರಿಂದ ಪರಿಶೀಲಿತ; ಕನ್ನಡವೇ ಯಾವಾಗಲೂ ಮೂಲ.</p>
 </footer>
 </div>
 <script src="{r}assets/site.js"></script>
@@ -514,30 +515,37 @@ def about_charts():
     lo, hi = 120, 540  # 2:00 to 9:00
     W, L, R = 760, 120, 20
     x = lambda t: L + (t - lo) / (hi - lo) * (W - L - R)
-    rows = [("mantra", "Sri Hari", "mantras", "viz1"), ("poem", "Kusha N M", "verses", "viz2")]
+    rows = [("mantra", "Sri Hari", "mantras", "viz1", "ಶ್ರೀ ಹರಿ", "ಮಂತ್ರಗಳು"), ("poem", "Kusha N M", "verses", "viz2", "ಕುಶ ಎನ್ ಎಂ", "ಪದ್ಯಗಳು")]
     H = 70 + 84 * len(rows)
+    def tx(attrs, kn, en):  # bilingual SVG text: one <text> per language
+        cls = re.search(r'class="([^"]*)"', attrs).group(1)
+        rest = re.sub(r'class="[^"]*"\s*', '', attrs)
+        return f'<text class="{cls} kn-only-inline" {rest}>{kn}</text><text class="{cls} en-only-inline" {rest}>{en}</text>'
     g = [f'<rect class="dawn" x="{x(355):.1f}" y="24" width="{x(400) - x(355):.1f}" height="{H - 58}" rx="4"/>',
-         f'<text class="ax" x="{(x(355) + x(400)) / 2:.1f}" y="18" text-anchor="middle">sunrise in Karnataka</text>']
+         tx(f'class="ax" x="{(x(355) + x(400)) / 2:.1f}" y="18" text-anchor="middle"', "ಕರ್ನಾಟಕದಲ್ಲಿ ಸೂರ್ಯೋದಯ", "sunrise in Karnataka")]
     for hr in range(2, 10):
         t = hr * 60
         g.append(f'<line class="grid" x1="{x(t):.1f}" x2="{x(t):.1f}" y1="24" y2="{H - 34}"/>')
         g.append(f'<text class="ax" x="{x(t):.1f}" y="{H - 16}" text-anchor="middle">{hr}:00</text>')
     hidden = 0
-    for i, (typ, name, noun, cls) in enumerate(rows):
+    for i, (typ, name, noun, cls, name_kn, noun_kn) in enumerate(rows):
         es = [e for e in entries if e["type"] == typ]
         ts = sorted(mins(e) for e in es)
         med = ts[len(ts) // 2]
         cy = 74 + i * 84
-        g.append(f'<text class="rl" x="{L - 14}" y="{cy - 4}" text-anchor="end">{name}</text><text class="rs" x="{L - 14}" y="{cy + 14}" text-anchor="end">{len(es)} {noun}</text>')
+        g.append(tx(f'class="rl" x="{L - 14}" y="{cy - 4}" text-anchor="end"', name_kn, name) + tx(f'class="rs" x="{L - 14}" y="{cy + 14}" text-anchor="end"', f"{kn_num(len(es))} {noun_kn}", f"{len(es)} {noun}"))
         for j, e in enumerate(es):
             t = mins(e)
             if not lo <= t <= hi: hidden += 1; continue
             jit = ((j * 37) % 29 - 14) * 1.1
             g.append(f'<circle class="{cls}" cx="{x(t):.1f}" cy="{cy + jit:.1f}" r="3.2"><title>{name}, {en_short(D(e["date"]))}, {e["time"]}</title></circle>')
         g.append(f'<line class="med" x1="{x(med):.1f}" x2="{x(med):.1f}" y1="{cy - 34}" y2="{cy + 20}"/>'
-                 f'<text class="ml" x="{x(med) + 6:.1f}" y="{cy - 24}">usually {med // 60}:{med % 60:02d} am</text>')
-    f1 = (f'<figure class="viz"><figcaption><b>When the posts arrive.</b> Each dot is one post, placed by the time it reached the group. '
-          f'The mantras come before first light; the verses around sunrise.{f" ({hidden} posts outside 2–9 am are not shown.)" if hidden else ""}</figcaption>'
+                 + tx(f'class="ml" x="{x(med) + 6:.1f}" y="{cy - 24}"', f"ಸಾಮಾನ್ಯವಾಗಿ ಬೆಳಿಗ್ಗೆ {med // 60}:{med % 60:02d}", f"usually {med // 60}:{med % 60:02d} am"))
+    cap_en = (f'<b>When the posts arrive.</b> Each dot is one post, placed by the time it reached the group. '
+              f'The mantras come before first light; the verses around sunrise.{f" ({hidden} posts outside 2–9 am are not shown.)" if hidden else ""}')
+    cap_kn = (f'<b>ಬರಹಗಳು ಬರುವ ಹೊತ್ತು.</b> ಪ್ರತಿ ಚುಕ್ಕೆ ಒಂದು ಬರಹ; ಅದು ಬಳಗಕ್ಕೆ ತಲುಪಿದ ಸಮಯಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಇರಿಸಲಾಗಿದೆ. '
+              f'ಮಂತ್ರಗಳು ಬೆಳಕು ಹರಿಯುವ ಮೊದಲೇ; ಪದ್ಯಗಳು ಸೂರ್ಯೋದಯದ ಹೊತ್ತಿಗೆ.{f" (ಬೆಳಿಗ್ಗೆ ೨–೯ರ ಹೊರಗಿನ {kn_num(hidden)} ಬರಹಗಳನ್ನು ತೋರಿಸಿಲ್ಲ.)" if hidden else ""}')
+    f1 = (f'<figure class="viz"><figcaption><span class="kn-only" lang="kn">{cap_kn}</span><span class="en-only">{cap_en}</span></figcaption>'
           f'<div class="viz-scroll"><svg viewBox="0 0 {W} {H}" role="img" aria-label="Posting times: Sri Hari usually around 4:20 am, Kusha around 6 am">{"".join(g)}</svg></div></figure>')
     # hymn timeline
     ser = [s for s in series if any(e.get("series") == s["key"] and e["type"] == "mantra" for e in entries)]
@@ -555,46 +563,62 @@ def about_charts():
         ms = sorted([e for e in entries if e.get("series") == s["key"] and e["type"] == "mantra"], key=lambda e: e["date"])
         a, b = D(ms[0]["date"]), D(ms[-1]["date"]) + datetime.timedelta(days=1)
         y = 14 + i * rh
-        g.append(f'<text class="rl sm" x="{L2 - 10}" y="{y + 12}" text-anchor="end">{esc(s["en"])}</text>'
+        g.append(tx(f'class="rl sm" x="{L2 - 10}" y="{y + 12}" text-anchor="end"', esc(s["kn"]), esc(s["en"])) +
                  f'<rect class="bar" x="{xd(a):.1f}" y="{y + 2}" width="{max(4, xd(b) - xd(a)):.1f}" height="{rh - 8}" rx="4"><title>{esc(s["en"])} ({esc(s["ref"])}): {len(ms)} posts, {en_short(a)} to {en_short(D(ms[-1]["date"]))}</title></rect>'
                  f'<text class="rs" x="{xd(b) + 6:.1f}" y="{y + 12}">{len(ms)}</text>')
         rows_t += f'<tr><td>{esc(s["en"])}</td><td>{esc(s["ref"])}</td><td>{en_short(a)}</td><td>{en_short(D(ms[-1]["date"]))}</td><td>{len(ms)}</td></tr>'
-    f2 = (f'<figure class="viz"><figcaption><b>A year inside the Ṛgveda.</b> Each bar is one hymn, from the day Sri Hari began it to the day he finished; the number is how many posts it took.</figcaption>'
+    f2 = (f'<figure class="viz"><figcaption><span class="kn-only" lang="kn"><b>ಋಗ್ವೇದದೊಳಗೆ ಒಂದು ವರ್ಷ.</b> ಪ್ರತಿ ಪಟ್ಟಿ ಒಂದು ಸೂಕ್ತ: ಶ್ರೀ ಹರಿ ಅದನ್ನು ಆರಂಭಿಸಿದ ದಿನದಿಂದ ಮುಗಿಸಿದ ದಿನದವರೆಗೆ; ಸಂಖ್ಯೆಯು ಅದಕ್ಕೆ ಬೇಕಾದ ಬರಹಗಳ ಸಂಖ್ಯೆ.</span><span class="en-only"><b>A year inside the Ṛgveda.</b> Each bar is one hymn, from the day Sri Hari began it to the day he finished; the number is how many posts it took.</span></figcaption>'
           f'<div class="viz-scroll"><svg viewBox="0 0 {W2} {H2}" role="img" aria-label="Timeline of the hymns Sri Hari has explained, November 2025 to now">{"".join(g)}</svg></div>'
-          f'<details class="viz-table"><summary>Show as a table</summary><table><thead><tr><th>Hymn</th><th>Source</th><th>Began</th><th>Last post</th><th>Posts</th></tr></thead><tbody>{rows_t}</tbody></table></details></figure>')
+          f'<details class="viz-table"><summary>{bi("ಕೋಷ್ಟಕವಾಗಿ ತೋರಿಸಿ", "Show as a table")}</summary><table><thead><tr><th>{bi("ಸೂಕ್ತ", "Hymn")}</th><th>{bi("ಮೂಲ", "Source")}</th><th>{bi("ಆರಂಭ", "Began")}</th><th>{bi("ಕೊನೆಯ ಬರಹ", "Last post")}</th><th>{bi("ಬರಹಗಳು", "Posts")}</th></tr></thead><tbody>{rows_t}</tbody></table></details></figure>')
     n = {t: len(by_type(t)) for t in ("mantra", "poem", "dharma")}
-    stats = (f'<div class="stats"><div><b>{len(day_list)}</b><span>days with a post</span></div><div><b>{n["mantra"]}</b><span>mantras explained</span></div>'
-             f'<div><b>{len(ser)}</b><span>hymns</span></div><div><b>{n["poem"]}</b><span>verses</span></div><div><b>{n["dharma"]}</b><span>copper plates</span></div></div>')
+    st = [(len(day_list), "ಬರಹಗಳಿರುವ ದಿನಗಳು", "days with a post"), (n["mantra"], "ವಿವರಿಸಿದ ಮಂತ್ರಗಳು", "mantras explained"),
+          (len(ser), "ಸೂಕ್ತಗಳು", "hymns"), (n["poem"], "ಪದ್ಯಗಳು", "verses"), (n["dharma"], "ತಾಮ್ರಪತ್ರಗಳು", "copper plates")]
+    stats = '<div class="stats">' + "".join(f'<div><b>{v}</b><span>{bi(k, e)}</span></div>' for v, k, e in st) + '</div>'
     return stats, f1, f2
+
+def bp(kn, en, cls=""):
+    """A bilingual block: Kannada paragraph(s), then English; CSS shows one or both."""
+    return f'<div class="bp{(" " + cls) if cls else ""}"><div class="kn-only" lang="kn">{kn}</div><div class="en-only">{en}</div></div>'
+
+ED_KN = "ಕಾರ್ತಿಕ್ ಸಚ್ಚಿದಾನಂದ್"
 
 def about():
     n = {t: len(by_type(t)) for t in ("mantra", "poem", "dharma")}
+    nh = len([s for s in series if any(e.get('series') == s['key'] for e in by_type('mantra'))])
     first_poem = next(e for e in by_type("poem"))
     stats, f1, f2 = about_charts()
     fp = render_poem(first_poem, "", "grid")
+    em = f'<a class="email" href="mailto:{SITE["editor_email"]}">{SITE["editor_email"]}</a>'
+    ed = esc(SITE['editor'])
+    def facts(*pairs):
+        return '<p class="facts">' + "".join(f'<span>{bi(k, e)}</span>' for k, e in pairs) + '</p>'
     return f"""
 <header class="about-head">
   <p class="eyebrow">{bi("ಪರಿಚಯ", "About")}</p>
-  <h1 class="about-title"><span lang="kn">ಸ್ವಾಧ್ಯಾಯ</span> <span class="about-title-en">is the study you keep up on your own, every day, for its own sake.</span></h1>
+  <h1 class="about-title"><span lang="kn">ಸ್ವಾಧ್ಯಾಯ</span> <span class="about-title-en">{bi("ಎಂದರೆ ಪ್ರತಿದಿನ, ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ, ಅದರ ಸಲುವಾಗಿಯೇ ನಡೆಸುವ ಅಧ್ಯಯನ.", "is the study you keep up on your own, every day, for its own sake.")}</span></h1>
   <blockquote class="epigraph">
     <p lang="kn">ಆಚಾರ್ಯಾತ್ ಪಾದಮಾದತ್ತೇ ಪಾದಂ ಶಿಷ್ಯಃ ಸ್ವಮೇಧಯಾ ।<br>ಪಾದಂ ಸಬ್ರಹ್ಮಚಾರಿಭ್ಯಃ ಪಾದಂ ಕಾಲಕ್ರಮೇಣ ಹಿ ॥</p>
-    <p class="ep-en">A quarter of what we know comes from the teacher, a quarter from our own thinking, a quarter from those who study beside us, and the last quarter only with time.</p>
+    <p class="ep-en en-only">A quarter of what we know comes from the teacher, a quarter from our own thinking, a quarter from those who study beside us, and the last quarter only with time.</p>
+    <p class="ep-en kn-alone" lang="kn">ತಿಳಿವಿನ ಕಾಲು ಭಾಗ ಗುರುವಿನಿಂದ, ಕಾಲು ಭಾಗ ತನ್ನ ಬುದ್ಧಿಯಿಂದ, ಕಾಲು ಭಾಗ ಜೊತೆಗೆ ಕಲಿಯುವವರಿಂದ, ಉಳಿದ ಕಾಲು ಭಾಗ ಕಾಲಕ್ರಮದಲ್ಲಿ ಮಾತ್ರ.</p>
   </blockquote>
-  <p class="lede big">This site gathers three such daily practices. They are written in Kannada by three friends who belong to the same circle, and they are set here with English alongside, so that more people can read along.</p>
+  {bp('<p class="lede big">ಇಂತಹ ಮೂರು ದೈನಂದಿನ ಸಾಧನೆಗಳನ್ನು ಈ ತಾಣ ಒಂದೆಡೆ ಸೇರಿಸುತ್ತದೆ. ಒಂದೇ ಬಳಗಕ್ಕೆ ಸೇರಿದ ಮೂವರು ಮಿತ್ರರು ಇವನ್ನು ಕನ್ನಡದಲ್ಲಿ ಬರೆಯುತ್ತಾರೆ; ಇನ್ನಷ್ಟು ಜನರು ಓದುವಂತಾಗಲಿ ಎಂದು ಇಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಅನುವಾದದೊಂದಿಗೆ ಇರಿಸಲಾಗಿದೆ.</p>',
+      '<p class="lede big">This site gathers three such daily practices. They are written in Kannada by three friends who belong to the same circle, and they are set here with English alongside, so that more people can read along.</p>')}
 </header>
 
 <section class="story">
-  <p class="story-date"><span lang="kn">೧೮ ನವೆಂಬರ್ ೨೦೨೫</span> · 18 November 2025</p>
-  <h2>One afternoon in November</h2>
+  <p class="story-date">{bi("೧೮ ನವೆಂಬರ್ ೨೦೨೫", "18 November 2025")}</p>
+  <h2>{bi("ನವೆಂಬರ್‌ನ ಒಂದು ಮಧ್ಯಾಹ್ನ", "One afternoon in November")}</h2>
   <div class="story-body">
-    <p>For about a week, Sri Hari had been posting a Veda mantra with its meaning every morning. That Tuesday a friend thanked him warmly, then asked a hard question: how do these meanings relate to the mantras we actually use in pūjā?</p>
-    <p>Sri Hari’s reply set the tone for everything that followed.</p>
+    {bp('<p>ಸುಮಾರು ಒಂದು ವಾರದಿಂದ ಶ್ರೀ ಹರಿ ಅವರು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಒಂದು ವೇದಮಂತ್ರವನ್ನು ಅದರ ಅರ್ಥದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದರು. ಆ ಮಂಗಳವಾರ ಒಬ್ಬ ಮಿತ್ರರು ಅವರಿಗೆ ಆತ್ಮೀಯವಾಗಿ ಧನ್ಯವಾದ ಹೇಳಿ, ಒಂದು ಕಠಿಣ ಪ್ರಶ್ನೆ ಕೇಳಿದರು: ಈ ಅರ್ಥಗಳಿಗೂ ನಾವು ಪೂಜೆಯಲ್ಲಿ ನಿಜವಾಗಿ ಬಳಸುವ ಮಂತ್ರಗಳಿಗೂ ಏನು ಸಂಬಂಧ?</p><p>ಶ್ರೀ ಹರಿ ಅವರ ಉತ್ತರ ಮುಂದಿನ ಎಲ್ಲದಕ್ಕೂ ದಿಕ್ಕು ತೋರಿತು.</p>',
+        '<p>For about a week, Sri Hari had been posting a Veda mantra with its meaning every morning. That Tuesday a friend thanked him warmly, then asked a hard question: how do these meanings relate to the mantras we actually use in pūjā?</p><p>Sri Hari’s reply set the tone for everything that followed.</p>')}
     <figure class="quote q-palm"><blockquote lang="kn">ನಾನು ಗುರು ಮುಖೇನ ಸಮಗ್ರವಾಗಿ ವೇದವನ್ನಾಗಲಿ, ಭಾಷ್ಯವನ್ನಾಗಲಿ ಕಲಿತವನಲ್ಲ. ವಯಕ್ತಿಯ ಆಸಕ್ತಿಯಿಂದ … ನಿಮ್ಮಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳುತ್ತಿದ್ದೇನೆಯೇ ಹೊರತು ಪಾಂಡಿತ್ಯ ಪ್ರದರ್ಶನಕ್ಕೆ ಅಲ್ಲ.</blockquote>
-      <figcaption>“I have not learned the Veda, or its commentaries, in full at a teacher’s feet. I share what I find out of personal interest, not to display learning. It is best, the elders say, to learn from teachers, from classmates, from one’s own experience, and from discussion, not from argument.” <span class="who">— Sri Hari</span></figcaption></figure>
-    <p>A few minutes later Kusha answered him with the verse at the top of this page, about the four quarters of learning. Then he wrote:</p>
+      <figcaption><span class="en-only-inline">“I have not learned the Veda, or its commentaries, in full at a teacher’s feet. I share what I find out of personal interest, not to display learning. It is best, the elders say, to learn from teachers, from classmates, from one’s own experience, and from discussion, not from argument.” </span><span class="who">— {bi("ಶ್ರೀ ಹರಿ", "Sri Hari")}</span></figcaption></figure>
+    {bp('<p>ಕೆಲವೇ ನಿಮಿಷಗಳಲ್ಲಿ ಕುಶ ಅವರು, ಕಲಿಕೆಯ ನಾಲ್ಕು ಪಾದಗಳ ಕುರಿತಾದ, ಈ ಪುಟದ ಮೇಲ್ಭಾಗದಲ್ಲಿರುವ ಶ್ಲೋಕದಿಂದ ಅವರಿಗೆ ಉತ್ತರಿಸಿದರು. ನಂತರ ಹೀಗೆ ಬರೆದರು:</p>',
+        '<p>A few minutes later Kusha answered him with the verse at the top of this page, about the four quarters of learning. Then he wrote:</p>')}
     <figure class="quote q-paper"><blockquote lang="kn">ಎಲ್ಲಕ್ಕೂ ಆಸಕ್ತಿಯೇ ಮುಖ್ಯ… ತಮ್ಮ ಕಾರ್ಯ ಇನ್ನೂ ಅನೇಕರ ಮನದ ಜ್ಯೋತಿಗಳನ್ನು ಬೆಳಗುವಂತಾಗಲಿ.</blockquote>
-      <figcaption>“Interest is what matters most. It was the same for the seers of old: many of the Veda’s mantras are the fruit of deep study driven by curiosity. May your work go on lighting the lamps in many more minds.” <span class="who">— Kusha N M</span></figcaption></figure>
-    <p>Forty minutes later Kusha posted four lines ending in <i lang="kn">ಮೂಢಮನುಜ</i>. It was his first. Half an hour after that he told Sri Hari that, like Hanumān, he simply did not know his own strength. Kusha has written a verse nearly every morning since.</p>
+      <figcaption><span class="en-only-inline">“Interest is what matters most. It was the same for the seers of old: many of the Veda’s mantras are the fruit of deep study driven by curiosity. May your work go on lighting the lamps in many more minds.” </span><span class="who">— {bi("ಕುಶ ಎನ್ ಎಂ", "Kusha N M")}</span></figcaption></figure>
+    {bp('<p>ನಲವತ್ತು ನಿಮಿಷಗಳ ನಂತರ ಕುಶ ಅವರು <i>ಮೂಢಮನುಜ</i> ಎಂದು ಕೊನೆಗೊಳ್ಳುವ ನಾಲ್ಕು ಸಾಲುಗಳನ್ನು ಹಂಚಿಕೊಂಡರು. ಅದೇ ಅವರ ಮೊದಲ ಪದ್ಯ. ಅರ್ಧ ಗಂಟೆಯ ನಂತರ, ಹನುಮಂತನಂತೆ ಶ್ರೀ ಹರಿ ಅವರಿಗೂ ತಮ್ಮ ಶಕ್ತಿಯ ಅರಿವಿಲ್ಲ ಎಂದು ಅವರಿಗೆ ಹೇಳಿದರು. ಅಂದಿನಿಂದ ಕುಶ ಅವರು ಬಹುತೇಕ ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಒಂದು ಪದ್ಯ ಬರೆಯುತ್ತಿದ್ದಾರೆ.</p>',
+        '<p>Forty minutes later Kusha posted four lines ending in <i lang="kn">ಮೂಢಮನುಜ</i>. It was his first. Half an hour after that he told Sri Hari that, like Hanumān, he simply did not know his own strength. Kusha has written a verse nearly every morning since.</p>')}
     <div class="first-verse">{fp}</div>
   </div>
 </section>
@@ -604,34 +628,34 @@ def about():
   <article class="person" id="sri-hari">
     {portrait("sri-hari", "", "lg")}
     <div class="person-body">
-      <p class="eyebrow">{bi("ಮಂತ್ರಾರ್ಥ", "Mantrārtha")} · on palm leaf</p>
-      <h3><span lang="kn">ಶ್ರೀ ಹರಿ</span> Sri Hari</h3>
-      <p>Sri Hari’s posts arrive in the dark, usually between four and five in the morning. Each takes one mantra and does three things: gives it as it is recited, gives the meaning of each word, and then gives the sense of the whole, following Sāyaṇa’s great commentary. He works through a hymn a verse at a time, and so far has taken his readers through the Puruṣa Sūkta, the Śrī Sūkta, the riddling Asya Vāmīya, the wedding hymn of Sūryā and more.</p>
-      <p>He is careful to say he is a student, not a scholar. His readers disagree. “Sāyaṇa shines in Hari,” one of them wrote.</p>
-      <p class="facts"><span><b>{n['mantra']}</b> mantras</span><span><b>{len([s for s in series if any(e.get('series') == s['key'] for e in by_type('mantra'))])}</b> hymns</span><span>since <b>November 2025</b></span></p>
-      <p><a href="mantras.html">Read the mantras →</a></p>
+      <p class="eyebrow">{bi("ಮಂತ್ರಾರ್ಥ", "Mantrārtha")} · {bi("ತಾಳೆಗರಿಯ ಮೇಲೆ", "on palm leaf")}</p>
+      <h3><span lang="kn">ಶ್ರೀ ಹರಿ</span> <span class="en-only-inline">Sri Hari</span></h3>
+      {bp('<p>ಶ್ರೀ ಹರಿ ಅವರ ಬರಹಗಳು ಇನ್ನೂ ಕತ್ತಲಿರುವಾಗಲೇ, ಸಾಮಾನ್ಯವಾಗಿ ಬೆಳಿಗ್ಗೆ ನಾಲ್ಕರಿಂದ ಐದರ ನಡುವೆ ಬರುತ್ತವೆ. ಪ್ರತಿಯೊಂದರಲ್ಲೂ ಒಂದು ಮಂತ್ರ, ಮೂರು ಹಂತಗಳಲ್ಲಿ: ಪಠಿಸುವಂತೆಯೇ ಸಂಹಿತಾಪಾಠ, ಪ್ರತಿ ಪದದ ಅರ್ಥ, ಮತ್ತು ಸಾಯಣರ ಮಹಾಭಾಷ್ಯವನ್ನು ಅನುಸರಿಸಿ ಇಡೀ ಮಂತ್ರದ ಭಾವಾರ್ಥ. ಒಂದು ಸೂಕ್ತವನ್ನು ಮಂತ್ರದಿಂದ ಮಂತ್ರಕ್ಕೆ ವಿವರಿಸುತ್ತಾ, ಇದುವರೆಗೆ ಪುರುಷಸೂಕ್ತ, ಶ್ರೀಸೂಕ್ತ, ಗೂಢಾರ್ಥಗಳ ಅಸ್ಯವಾಮೀಯ ಸೂಕ್ತ, ಸೂರ್ಯಾ ವಿವಾಹ ಸೂಕ್ತ ಮುಂತಾದವುಗಳ ಮೂಲಕ ಓದುಗರನ್ನು ಕರೆದೊಯ್ದಿದ್ದಾರೆ.</p><p>ತಾವು ವಿದ್ವಾಂಸರಲ್ಲ, ವಿದ್ಯಾರ್ಥಿ ಮಾತ್ರ ಎಂದು ಅವರು ವಿನಯದಿಂದ ಹೇಳುತ್ತಾರೆ. ಓದುಗರು ಅದನ್ನು ಒಪ್ಪುವುದಿಲ್ಲ. “ಹರಿಯವರಲ್ಲಿ ಸಾಯಣರು ಹೊಳೆಯುತ್ತಾರೆ” ಎಂದು ಒಬ್ಬರು ಬರೆದರು.</p>',
+          '<p>Sri Hari’s posts arrive in the dark, usually between four and five in the morning. Each takes one mantra and does three things: gives it as it is recited, gives the meaning of each word, and then gives the sense of the whole, following Sāyaṇa’s great commentary. He works through a hymn a verse at a time, and so far has taken his readers through the Puruṣa Sūkta, the Śrī Sūkta, the riddling Asya Vāmīya, the wedding hymn of Sūryā and more.</p><p>He is careful to say he is a student, not a scholar. His readers disagree. “Sāyaṇa shines in Hari,” one of them wrote.</p>')}
+      {facts((f"<b>{kn_num(n['mantra'])}</b> ಮಂತ್ರಗಳು", f"<b>{n['mantra']}</b> mantras"), (f"<b>{kn_num(nh)}</b> ಸೂಕ್ತಗಳು", f"<b>{nh}</b> hymns"), ("<b>ನವೆಂಬರ್ ೨೦೨೫</b>ರಿಂದ", "since <b>November 2025</b>"))}
+      <p><a href="mantras.html">{bi("ಮಂತ್ರಗಳನ್ನು ಓದಿ →", "Read the mantras →")}</a></p>
     </div>
   </article>
   <article class="person" id="kusha">
     {portrait("kusha", "", "lg")}
     <div class="person-body">
-      <p class="eyebrow">{bi("ಮೂಢ ಮನುಜ", "Mūḍha Manuja")} · on handmade paper</p>
-      <h3><span lang="kn">ಕುಶ ಎನ್ ಎಂ</span> Kusha N M</h3>
-      <p>Kusha writes a four-line verse each morning, around sunrise, and every one ends by turning to the reader: <i lang="kn">ಮೂಢಮನುಜ</i>, “O deluded one”. The form echoes D. V. Gundappa’s <i>Maṅkutimmana Kagga</i>, with its shared second consonant across all four lines (<i>ādiprāsa</i>). The subjects are anger, money, time, pride and patience: the ordinary places where a life goes wrong or right.</p>
-      <p>The rebuke is gentle, and it is meant for everyone, the poet included.</p>
-      <p class="facts"><span><b>{n['poem']}</b> verses</span><span>since <b>18 November 2025</b></span></p>
-      <p><a href="verses.html">Read the verses →</a></p>
+      <p class="eyebrow">{bi("ಮೂಢ ಮನುಜ", "Mūḍha Manuja")} · {bi("ಕೈಕಾಗದದ ಮೇಲೆ", "on handmade paper")}</p>
+      <h3><span lang="kn">ಕುಶ ಎನ್ ಎಂ</span> <span class="en-only-inline">Kusha N M</span></h3>
+      {bp('<p>ಕುಶ ಅವರು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ, ಸೂರ್ಯೋದಯದ ಹೊತ್ತಿಗೆ, ನಾಲ್ಕು ಸಾಲಿನ ಒಂದು ಪದ್ಯ ಬರೆಯುತ್ತಾರೆ; ಪ್ರತಿಯೊಂದೂ ಓದುಗನತ್ತ ತಿರುಗಿ <i>ಮೂಢಮನುಜ</i> ಎಂದು ಕೊನೆಗೊಳ್ಳುತ್ತದೆ. ಈ ರೂಪ ಡಿ. ವಿ. ಗುಂಡಪ್ಪನವರ <i>ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ</i>ವನ್ನು ನೆನಪಿಸುತ್ತದೆ; ನಾಲ್ಕೂ ಸಾಲುಗಳಲ್ಲಿ ಎರಡನೆಯ ವ್ಯಂಜನ ಒಂದೇ ಆಗಿರುವ ಆದಿಪ್ರಾಸ ಇದರ ವಿಶೇಷ. ವಿಷಯಗಳು ಕೋಪ, ಹಣ, ಕಾಲ, ಅಹಂಕಾರ, ತಾಳ್ಮೆ: ಬದುಕು ತಪ್ಪುವ ಅಥವಾ ಸರಿಯಾಗುವ ದಿನನಿತ್ಯದ ಎಡೆಗಳು.</p><p>ಈ ಗದರಿಕೆ ಮೃದುವಾದದ್ದು; ಕವಿಯೂ ಸೇರಿದಂತೆ ಎಲ್ಲರಿಗೂ ಉದ್ದೇಶಿಸಿದ್ದು.</p>',
+          '<p>Kusha writes a four-line verse each morning, around sunrise, and every one ends by turning to the reader: <i lang="kn">ಮೂಢಮನುಜ</i>, “O deluded one”. The form echoes D. V. Gundappa’s <i>Maṅkutimmana Kagga</i>, with its shared second consonant across all four lines (<i>ādiprāsa</i>). The subjects are anger, money, time, pride and patience: the ordinary places where a life goes wrong or right.</p><p>The rebuke is gentle, and it is meant for everyone, the poet included.</p>')}
+      {facts((f"<b>{kn_num(n['poem'])}</b> ಪದ್ಯಗಳು", f"<b>{n['poem']}</b> verses"), ("<b>೧೮ ನವೆಂಬರ್ ೨೦೨೫</b>ರಿಂದ", "since <b>18 November 2025</b>"))}
+      <p><a href="verses.html">{bi("ಪದ್ಯಗಳನ್ನು ಓದಿ →", "Read the verses →")}</a></p>
     </div>
   </article>
   <article class="person" id="manjunatha">
     {portrait("manjunatha", "", "lg")}
     <div class="person-body">
-      <p class="eyebrow">{bi("ಧರ್ಮಸೂಕ್ಷ್ಮ", "Dharma Sūkṣma")} · on copper plate</p>
-      <h3><span lang="kn">ಮಂಜುನಾಥ ಶರ್ಮ</span> Manjunatha Sharma</h3>
-      <p>Manjunatha Sharma began the circle in December 2023, and he keeps it practical. When someone asks why the bell is rung at a certain point in the Rudrābhiṣeka, he recalls putting the same question to the Śṛṅgeri pontiff years ago, and the answer he got: there is no śāstric reason. When the timing of a ritual is in doubt, he works out the Abhijit muhūrta to the minute.</p>
-      <p>It was also his suggestion, in November 2025, that each mantra post should name its seer, its deity and its metre. Within a week Sri Hari’s posts did.</p>
-      <p class="facts"><span><b>{n['dharma']}</b> plates so far</span><span>shared <b>as questions arise</b></span></p>
-      <p><a href="dharma.html">Read the Dharma Sūkṣma →</a></p>
+      <p class="eyebrow">{bi("ಧರ್ಮಸೂಕ್ಷ್ಮ", "Dharma Sūkṣma")} · {bi("ತಾಮ್ರಪತ್ರದ ಮೇಲೆ", "on copper plate")}</p>
+      <h3><span lang="kn">ಮಂಜುನಾಥ ಶರ್ಮ</span> <span class="en-only-inline">Manjunatha Sharma</span></h3>
+      {bp('<p>ಮಂಜುನಾಥ ಶರ್ಮ ಅವರು ಡಿಸೆಂಬರ್ ೨೦೨೩ರಲ್ಲಿ ಈ ಬಳಗವನ್ನು ಆರಂಭಿಸಿದರು, ಮತ್ತು ಅದನ್ನು ಪ್ರಾಯೋಗಿಕವಾಗಿಯೇ ಇರಿಸಿದ್ದಾರೆ. ರುದ್ರಾಭಿಷೇಕದ ಒಂದು ನಿರ್ದಿಷ್ಟ ಹಂತದಲ್ಲಿ ಗಂಟೆ ಏಕೆ ಬಾರಿಸುತ್ತಾರೆ ಎಂದು ಯಾರೋ ಕೇಳಿದಾಗ, ವರ್ಷಗಳ ಹಿಂದೆ ತಾವೇ ಶೃಂಗೇರಿ ಜಗದ್ಗುರುಗಳಲ್ಲಿ ಇದೇ ಪ್ರಶ್ನೆ ಕೇಳಿದ್ದನ್ನೂ, ಅದಕ್ಕೆ ಶಾಸ್ತ್ರೀಯ ಕಾರಣವಿಲ್ಲ ಎಂದು ಸಿಕ್ಕ ಉತ್ತರವನ್ನೂ ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ. ಒಂದು ಕರ್ಮದ ಸಮಯದ ಬಗ್ಗೆ ಸಂದೇಹ ಬಂದಾಗ, ಅಭಿಜಿನ್ಮುಹೂರ್ತವನ್ನು ನಿಮಿಷದವರೆಗೂ ಲೆಕ್ಕ ಹಾಕುತ್ತಾರೆ.</p><p>ಪ್ರತಿ ಮಂತ್ರದ ಬರಹದಲ್ಲಿ ಅದರ ಋಷಿ, ದೇವತೆ ಮತ್ತು ಛಂದಸ್ಸನ್ನು ಹೆಸರಿಸಬೇಕು ಎಂದು ನವೆಂಬರ್ ೨೦೨೫ರಲ್ಲಿ ಸಲಹೆ ನೀಡಿದವರೂ ಅವರೇ. ಒಂದು ವಾರದೊಳಗೆ ಶ್ರೀ ಹರಿ ಅವರ ಬರಹಗಳಲ್ಲಿ ಅವು ಸೇರಿಕೊಂಡವು.</p>',
+          '<p>Manjunatha Sharma began the circle in December 2023, and he keeps it practical. When someone asks why the bell is rung at a certain point in the Rudrābhiṣeka, he recalls putting the same question to the Śṛṅgeri pontiff years ago, and the answer he got: there is no śāstric reason. When the timing of a ritual is in doubt, he works out the Abhijit muhūrta to the minute.</p><p>It was also his suggestion, in November 2025, that each mantra post should name its seer, its deity and its metre. Within a week Sri Hari’s posts did.</p>')}
+      {facts((f"ಇದುವರೆಗೆ <b>{kn_num(n['dharma'])}</b> ತಾಮ್ರಪತ್ರಗಳು", f"<b>{n['dharma']}</b> plates so far"), ("<b>ಪ್ರಶ್ನೆಗಳು ಎದ್ದಂತೆ</b> ಹಂಚಿಕೊಳ್ಳುತ್ತಾರೆ", "shared <b>as questions arise</b>"))}
+      <p><a href="dharma.html">{bi("ಧರ್ಮಸೂಕ್ಷ್ಮವನ್ನು ಓದಿ →", "Read the Dharma Sūkṣma →")}</a></p>
     </div>
   </article>
 </section>
@@ -647,24 +671,25 @@ def about():
 <section class="materials">
   <h2 class="sec-h">{bi("ಮೂರು ಮಾಧ್ಯಮಗಳು", "Three materials")}</h2>
   <div class="mat-row">
-    <div class="mat"><span class="mat-swatch s-palm"></span><h3>Palm leaf</h3><p>For centuries the Veda was carried in memory and copied onto dried palm leaves, strung together through two holes. Sri Hari’s mantras are set on leaves.</p></div>
-    <div class="mat"><span class="mat-swatch s-paper"></span><h3>Handmade paper</h3><p>A poet’s notebook: rag paper with a rough edge and indigo ink. Kusha’s verses are set on paper.</p></div>
-    <div class="mat"><span class="mat-swatch s-copper"></span><h3>Copper plate</h3><p>Grants and rulings of dharma were engraved on copper plates and bound with a sealed ring. Manjunatha Sharma’s notes are set on copper.</p></div>
+    <div class="mat"><span class="mat-swatch s-palm"></span><h3>{bi("ತಾಳೆಗರಿ", "Palm leaf")}</h3>{bp("<p>ಶತಮಾನಗಳ ಕಾಲ ವೇದವು ಸ್ಮರಣೆಯಲ್ಲಿ ಉಳಿದು, ಒಣಗಿದ ತಾಳೆಗರಿಗಳ ಮೇಲೆ ಪ್ರತಿ ಮಾಡಲ್ಪಟ್ಟು, ಎರಡು ರಂಧ್ರಗಳ ಮೂಲಕ ದಾರದಲ್ಲಿ ಪೋಣಿಸಲ್ಪಟ್ಟಿತು. ಶ್ರೀ ಹರಿ ಅವರ ಮಂತ್ರಗಳು ಗರಿಗಳ ಮೇಲೆ.</p>", "<p>For centuries the Veda was carried in memory and copied onto dried palm leaves, strung together through two holes. Sri Hari’s mantras are set on leaves.</p>")}</div>
+    <div class="mat"><span class="mat-swatch s-paper"></span><h3>{bi("ಕೈಕಾಗದ", "Handmade paper")}</h3>{bp("<p>ಕವಿಯ ಟಿಪ್ಪಣಿ ಪುಸ್ತಕ: ಒರಟು ಅಂಚಿನ ಚಿಂದಿ ಕಾಗದ, ನೀಲಿ ಶಾಯಿ. ಕುಶ ಅವರ ಪದ್ಯಗಳು ಕಾಗದದ ಮೇಲೆ.</p>", "<p>A poet’s notebook: rag paper with a rough edge and indigo ink. Kusha’s verses are set on paper.</p>")}</div>
+    <div class="mat"><span class="mat-swatch s-copper"></span><h3>{bi("ತಾಮ್ರಪತ್ರ", "Copper plate")}</h3>{bp("<p>ದಾನಶಾಸನಗಳು ಮತ್ತು ಧರ್ಮನಿರ್ಣಯಗಳನ್ನು ತಾಮ್ರಪತ್ರಗಳ ಮೇಲೆ ಕೆತ್ತಿ, ಮುದ್ರೆಯ ಉಂಗುರದಿಂದ ಬಂಧಿಸುತ್ತಿದ್ದರು. ಮಂಜುನಾಥ ಶರ್ಮ ಅವರ ಟಿಪ್ಪಣಿಗಳು ತಾಮ್ರದ ಮೇಲೆ.</p>", "<p>Grants and rulings of dharma were engraved on copper plates and bound with a sealed ring. Manjunatha Sharma’s notes are set on copper.</p>")}</div>
   </div>
 </section>
 
 <section class="prose-sec">
   <h2 class="sec-h">{bi("ಇಂಗ್ಲಿಷ್ ಅನುವಾದ", "About the English")}</h2>
   <div class="prose">
-    <p>The English is drafted with AI assistance from the Kannada, then read by {esc(SITE['editor'])}. It tries to be faithful first and readable second. For the mantras it follows the authors’ own word-by-word glosses; for the verses it keeps the four-line shape and adds a short note where a pun or a play on words cannot cross into English. Romanized text is generated automatically. The Kannada is always the original.</p>
-    <p>If you spot a mistake, or would like your own daily practice to appear here, write to {esc(SITE['editor'])} at <a class="email" href="mailto:{SITE['editor_email']}">{SITE['editor_email']}</a>.</p>
+    {bp(f'<p>ಇಂಗ್ಲಿಷ್ ಅನುವಾದವನ್ನು ಕನ್ನಡ ಮೂಲದಿಂದ AI ಸಹಾಯದೊಂದಿಗೆ ಸಿದ್ಧಪಡಿಸಿ, ನಂತರ {ED_KN} ಅವರು ಓದಿ ಪರಿಶೀಲಿಸುತ್ತಾರೆ. ಮೊದಲು ಮೂಲಕ್ಕೆ ನಿಷ್ಠೆ, ನಂತರ ಓದುವ ಸುಲಭತೆ: ಇದು ಅದರ ಗುರಿ. ಮಂತ್ರಗಳಿಗೆ ಲೇಖಕರ ಪ್ರತಿಪದಾರ್ಥವನ್ನೇ ಅನುಸರಿಸಲಾಗಿದೆ; ಪದ್ಯಗಳಲ್ಲಿ ನಾಲ್ಕು ಸಾಲಿನ ರೂಪವನ್ನು ಉಳಿಸಿಕೊಂಡು, ಶ್ಲೇಷೆ ಅಥವಾ ಪದಚಮತ್ಕಾರ ಇಂಗ್ಲಿಷ್‌ಗೆ ದಾಟದಿದ್ದಲ್ಲಿ ಒಂದು ಚಿಕ್ಕ ಟಿಪ್ಪಣಿ ಸೇರಿಸಲಾಗಿದೆ. ರೋಮನ್ ಲಿಪಿಯ ಪಾಠ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ತಯಾರಾಗುತ್ತದೆ. ಕನ್ನಡವೇ ಯಾವಾಗಲೂ ಮೂಲ.</p><p>ಏನಾದರೂ ತಪ್ಪು ಕಂಡುಬಂದರೆ, ಅಥವಾ ನಿಮ್ಮ ದೈನಂದಿನ ಸಾಧನೆಯೂ ಇಲ್ಲಿ ಸೇರಬೇಕೆಂದಿದ್ದರೆ, {ED_KN} ಅವರಿಗೆ {em} ವಿಳಾಸಕ್ಕೆ ಬರೆಯಿರಿ.</p>',
+        f'<p>The English is drafted with AI assistance from the Kannada, then read by {ed}. It tries to be faithful first and readable second. For the mantras it follows the authors’ own word-by-word glosses; for the verses it keeps the four-line shape and adds a short note where a pun or a play on words cannot cross into English. Romanized text is generated automatically. The Kannada is always the original.</p><p>If you spot a mistake, or would like your own daily practice to appear here, write to {ed} at {em}.</p>')}
   </div>
 </section>
 
 <section class="prose-sec">
   <h2 class="sec-h">{bi("ಮೂಲ", "Where it began")}</h2>
   <div class="prose">
-    <p>All three write for <span lang="kn">ವೈದಿಕ ಮಿತ್ರರು</span> (Vaidika Mitraru, “friends of the Veda”), a WhatsApp circle of Vedic scholars, practitioners and seekers that Manjunatha Sharma started in December 2023. Most of what passes through it is the ordinary business of friends: invitations, festival greetings, arrangements for the next homa. This site keeps the part that is meant to last. New posts are added every morning at 8.</p>
+    {bp('<p>ಈ ಮೂವರೂ <b>ವೈದಿಕ ಮಿತ್ರರು</b> ಎಂಬ ವಾಟ್ಸ್‌ಆಪ್ ಬಳಗಕ್ಕಾಗಿ ಬರೆಯುತ್ತಾರೆ. ವೈದಿಕ ವಿದ್ವಾಂಸರು, ಉಪಾಸಕರು ಮತ್ತು ಜಿಜ್ಞಾಸುಗಳ ಈ ಬಳಗವನ್ನು ಮಂಜುನಾಥ ಶರ್ಮ ಅವರು ಡಿಸೆಂಬರ್ ೨೦೨೩ರಲ್ಲಿ ಆರಂಭಿಸಿದರು. ಅಲ್ಲಿ ಹರಿದಾಡುವುದರಲ್ಲಿ ಬಹುಪಾಲು ಮಿತ್ರರ ನಡುವಿನ ಸಾಮಾನ್ಯ ವಿಷಯಗಳು: ಆಮಂತ್ರಣಗಳು, ಹಬ್ಬದ ಶುಭಾಶಯಗಳು, ಮುಂದಿನ ಹೋಮದ ಏರ್ಪಾಡುಗಳು. ಉಳಿಯಬೇಕಾದ ಭಾಗವನ್ನು ಈ ತಾಣ ಕಾಪಾಡುತ್ತದೆ. ಹೊಸ ಬರಹಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಇಲ್ಲಿ ಸೇರಿಸಲಾಗುತ್ತದೆ.</p>',
+        '<p>All three write for <span lang="kn">ವೈದಿಕ ಮಿತ್ರರು</span> (Vaidika Mitraru, “friends of the Veda”), a WhatsApp circle of Vedic scholars, practitioners and seekers that Manjunatha Sharma started in December 2023. Most of what passes through it is the ordinary business of friends: invitations, festival greetings, arrangements for the next homa. This site keeps the part that is meant to last. New posts are added here regularly.</p>')}
   </div>
 </section>"""
 
