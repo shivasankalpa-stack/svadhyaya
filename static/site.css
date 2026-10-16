@@ -423,8 +423,8 @@ a.cal-d:hover{border-color:var(--accent)}
 html[data-lang="both"] .crumb .kn-only-inline{display:none}
 html[data-lang="both"] .crumb .en-only-inline::before{content:none}
 /* handwritten verses */
-.stanza.hand{font-family:"Akaya Kanadaka","Tiro Kannada",serif;font-size:1.34rem;line-height:1.75;letter-spacing:.01em;color:#1B2657}
-.m-paper.compact .stanza.hand{font-size:1.18rem}
+.stanza.hand{font-family:"Tiro Kannada",serif;font-style:italic;font-size:1.36rem;line-height:1.8;letter-spacing:0;color:#1B2657}
+.m-paper.compact .stanza.hand{font-size:1.22rem}
 .mini-label{font-family:var(--cap);font-size:.74rem;letter-spacing:.14em;color:var(--paper-mute);margin:0 0 4px}
 .bhava{margin-top:18px;padding-top:14px;border-top:1px dashed var(--paper-rule)}
 .bhava .theme{font-family:var(--en);font-style:italic;letter-spacing:.02em;font-size:1.05rem;color:var(--paper-ink);text-transform:none}
@@ -510,7 +510,7 @@ html[data-lang="both"] .step-text .en-only-inline::before{content:none}
 .st-palm .step-kn{color:var(--palm-rubric)}
 .st-copper{color:var(--cu-ink);background:radial-gradient(ellipse at 25% 15%,var(--cu-hi),transparent 55%),linear-gradient(135deg,var(--cu-1),var(--cu-2) 45%,var(--cu-1) 72%,var(--cu-3));box-shadow:inset 0 0 0 2px var(--cu-edge);text-shadow:0 1px 0 rgba(255,225,190,.3)}
 .st-paper{color:var(--paper-ink);background:var(--paper);box-shadow:0 1px 2px rgba(40,40,60,.15),0 8px 16px -12px rgba(40,40,60,.35)}
-.st-paper .step-kn{font-family:"Akaya Kanadaka","Tiro Kannada",serif}
+.st-paper .step-kn{font-family:"Tiro Kannada",serif;font-style:italic}
 
 /* verse theme word */
 .bhava .theme{color:#A8321C;font-weight:500}

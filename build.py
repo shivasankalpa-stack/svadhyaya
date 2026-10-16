@@ -100,7 +100,7 @@ def page(title, body, r="", active="", desc="", cls=""):
 <meta name="description" content="{esc(desc or SITE['tagline_en'])}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Marcellus+SC&family=Spectral:ital,wght@0,400;0,500;1,400&family=Tiro+Kannada:ital@0;1&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Spectral:ital,wght@0,400;0,500;1,400&family=Tiro+Kannada:ital@0;1&display=swap">
 <link rel="stylesheet" href="{r}assets/site.css">
 <script>try{{var m=localStorage.getItem('vm-lang');if(m)document.documentElement.dataset.lang=m}}catch(e){{}}</script>
 </head>
