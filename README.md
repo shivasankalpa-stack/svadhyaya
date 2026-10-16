@@ -6,6 +6,8 @@ svādhyāyān mā pramadaḥ
 
 Daily Veda mantra meanings (Sri Hari), *Mūḍha Manuja* verses (Kusha N M) and *Dharma Sūkṣma* notes (Manjunatha Sharma), in Kannada with English alongside.
 
+Live at **https://svadhyaya.vaidika-mitraru.workers.dev/**
+
 - `content/entries/*.json`: one file per post (Kannada original + English `en` block)
 - `content/series.json`: sūkta series (date ranges, names, verse counts)
 - `scripts/extract.py <chat.txt>`: pulls new posts from a WhatsApp export (rules in `scripts/rules.json`)
