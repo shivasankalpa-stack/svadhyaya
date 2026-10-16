@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-15-poem",
+ "type": "poem",
+ "date": "2026-10-15",
+ "time": "09:30",
+ "author": "Kusha N M",
+ "source": "2026-10-15T09:30|ನಿನ್ನಹಿಂದಿನಜನುಮನಿನಗೇನೆತಿಳಿದಿಲ್",
+ "kn": {
+  "lines": [
+   "ನಿನ್ನ ಹಿಂದಿನ ಜನುಮ ನಿನಗೇನೆ ತಿಳಿದಿಲ್ಲ",
+   "ಏನಾಗಲಿದೆ ಮುಂದೆ ಅರಿವಿಲ್ಲ ನಿನಗೆ",
+   "ಏನಾಗಿ ನೀನಿಹೆಯೊ ಅದನೀನು ಚೆನ್ನಗಿಡೆ",
+   "ನಿನಬದುಕು ಹಸನೆಂದು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಿನ್ನ ಹಿಂದಿನ ಜನುಮ ನಿನಗೇನೆ ತಿಳಿದಿಲ್ಲ\nಏನಾಗಲಿದೆ ಮುಂದೆ ಅರಿವಿಲ್ಲ ನಿನಗೆ\nಏನಾಗಿ ನೀನಿಹೆಯೊ ಅದನೀನು ಚೆನ್ನಗಿಡೆ\nನಿನಬದುಕು ಹಸನೆಂದು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "You yourself do not know your previous birth;",
+   "you have no idea what is to come;",
+   "if you keep well what you are now,",
+   "your life will be good, O deluded one."
+  ],
+  "theme": "Now",
+  "bhavartha": "We know nothing of our past births and nothing of what lies ahead. All we can tend is who we are today; take care of that, and life turns out well."
+ }
+}

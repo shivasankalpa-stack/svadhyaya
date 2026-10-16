@@ -1,0 +1,29 @@
+{
+ "id": "2026-10-12-poem",
+ "type": "poem",
+ "date": "2026-10-12",
+ "time": "06:34",
+ "author": "Kusha N M",
+ "source": "2026-10-12T06:34|ದೈವಸೃಷ್ಟಿಯಲೆಲ್ಲೂಲೋಪದೋಷಗಳಿಲ್ಲಗೈ",
+ "kn": {
+  "lines": [
+   "ದೈವಸೃಷ್ಟಿಯಲೆಲ್ಲೂ ಲೋಪದೋಷಗಳಿಲ್ಲ",
+   "ಗೈವ ಕರ್ಮಗಳಿಂದ ಒಳಿತು ಕೆಡಕುಗಳು",
+   "ಮೈವವಾಗುವ ಮನುಜ ಸೃಷ್ಟಿಗೂಢವ ತಿಳಿಯೆ",
+   "ದೈವತ್ವದೆಡೆ ನಡೆಯೊ ಮೂಢಮನುಜ"
+  ],
+  "footnote": "(ಮೈವ : ದೇವ ಅಥವಾ ದೇವತೆ)"
+ },
+ "raw": "ದೈವಸೃಷ್ಟಿಯಲೆಲ್ಲೂ ಲೋಪದೋಷಗಳಿಲ್ಲ\nಗೈವ ಕರ್ಮಗಳಿಂದ ಒಳಿತು ಕೆಡಕುಗಳು\nಮೈವವಾಗುವ ಮನುಜ ಸೃಷ್ಟಿಗೂಢವ ತಿಳಿಯೆ\nದೈವತ್ವದೆಡೆ ನಡೆಯೊ ಮೂಢಮನುಜ\n(ಮೈವ : ದೇವ ಅಥವಾ ದೇವತೆ)",
+ "en": {
+  "lines": [
+   "In God's creation there is no flaw anywhere;",
+   "good and bad come from the deeds we do;",
+   "know the secret of creation, man who can become divine:",
+   "walk towards divinity, O deluded one."
+  ],
+  "note": "The poet glosses maiva as ‘deva or devatā’, a god.",
+  "theme": "Divinity",
+  "bhavartha": "Creation itself has no defects; good and evil arise from our own actions. A human being is capable of becoming divine, so understand how the world is made and walk towards the divine."
+ }
+}
