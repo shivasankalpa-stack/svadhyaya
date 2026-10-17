@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-17-poem",
+ "type": "poem",
+ "date": "2026-10-17",
+ "time": "06:00",
+ "author": "Kusha N M",
+ "source": "2026-10-17T06:00|ನಿನ್ನೊಳಿಹದುರುಳನನುಹೊರಗೆಳೆದುಸಂಹರ",
+ "kn": {
+  "lines": [
+   "ನಿನ್ನೊಳಿಹ ದುರುಳನನು ಹೊರಗೆಳೆದು ಸಂಹರಿಸು",
+   "ನಿನ್ನಜೊತೆ ಅನ್ಯರನು ಕಾಡುತಲೆ ಇಹನು",
+   "ಕನ್ನಕೊರೆಯುತಲವನು ನಿನ್ನತನ ಕದಿಯುವನು",
+   "ಸನ್ನದ್ಧನಿರು ಕಾದೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಿನ್ನೊಳಿಹ ದುರುಳನನು ಹೊರಗೆಳೆದು ಸಂಹರಿಸು\nನಿನ್ನಜೊತೆ ಅನ್ಯರನು ಕಾಡುತಲೆ ಇಹನು\nಕನ್ನಕೊರೆಯುತಲವನು ನಿನ್ನತನ ಕದಿಯುವನು\nಸನ್ನದ್ಧನಿರು ಕಾದೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Drag out the villain within you and slay him;",
+   "he keeps tormenting others along with you;",
+   "tunnelling in like a burglar, he steals your very self:",
+   "stay armed and on guard, O deluded one."
+  ],
+  "theme": "Vigilance",
+  "bhavartha": "There is a wrongdoer living inside each of us. Drag him out and destroy him, for he troubles not only us but those around us too. Like a thief breaking through a wall, he quietly robs us of who we are; so stay alert and keep watch."
+ }
+}
