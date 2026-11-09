@@ -1,0 +1,29 @@
+{
+ "id": "2026-10-31-poem",
+ "type": "poem",
+ "date": "2026-10-31",
+ "time": "07:11",
+ "author": "Kusha N M",
+ "source": "2026-10-31T07:11|ನಾಳೆಮಾಡುವೆನೆನಲುನಗುವಮೊದಲಿಗೆದೇವಸ",
+ "kn": {
+  "lines": [
+   "ನಾಳೆಮಾಡುವೆನೆನಲು ನಗುವ ಮೊದಲಿಗೆ ದೇವ",
+   "ಸೀಳುಭೂಮಿಯ ಭಾಗ ನನದಾಗಲೆನಲು",
+   "ಬೀಳುತಿಹ ದೇಹವನು ತಾನುಳಿಪೆನೆಂದಾಗ",
+   "ಶೂಲಪಾಣಿಯು ನಗುವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ನಾಳೆಮಾಡುವೆನೆನಲು ನಗುವ ಮೊದಲಿಗೆ ದೇವ\nಸೀಳುಭೂಮಿಯ ಭಾಗ ನನದಾಗಲೆನಲು\nಬೀಳುತಿಹ ದೇಹವನು ತಾನುಳಿಪೆನೆಂದಾಗ\nಶೂಲಪಾಣಿಯು ನಗುವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When you say “I will do it tomorrow”, God is the first to laugh;",
+   "when you say “let this divided piece of land be mine”,",
+   "when you say you will save this falling body,",
+   "the trident-bearer laughs, O deluded one."
+  ],
+  "note": "The verse echoes the well-known saying of Śrī Rāmakṛṣṇa that God laughs when brothers divide their land, and when a physician promises to save a life. Śūlapāṇi, “trident-bearer”, is Śiva.",
+  "theme": "Laughter of the gods",
+  "bhavartha": "Putting things off till tomorrow, staking claims to pieces of land, promising to save a body that is bound to fall: to the divine, these are all laughable. We are not in charge of time, property or life."
+ }
+}

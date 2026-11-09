@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-25-poem",
+ "type": "poem",
+ "date": "2026-10-25",
+ "time": "06:18",
+ "author": "Kusha N M",
+ "source": "2026-10-25T06:18|ಕೊಳೆತುಮನನಾರುತಿರೆಸುವಿಚಾರಒಳಬರದುಕ",
+ "kn": {
+  "lines": [
+   "ಕೊಳೆತುಮನ ನಾರುತಿರೆ ಸುವಿಚಾರ ಒಳಬರದು",
+   "ಕಳೆಯುವುದು ಯೋಚಿಸುವ ಪರಿಪರಿಯ ಭಾವ",
+   "ಸೆಳೆಯುವುದು ನಗುಮೊಗವು ಆದರಾತಿಥ್ಯಗಳ",
+   "ಬೆಳೆಸುವುದು ಗೌರವವ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕೊಳೆತುಮನ ನಾರುತಿರೆ ಸುವಿಚಾರ ಒಳಬರದು\nಕಳೆಯುವುದು ಯೋಚಿಸುವ ಪರಿಪರಿಯ ಭಾವ\nಸೆಳೆಯುವುದು ನಗುಮೊಗವು ಆದರಾತಿಥ್ಯಗಳ\nಬೆಳೆಸುವುದು ಗೌರವವ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "When the mind rots and reeks, no good thought can enter;",
+   "it drives away every thoughtful feeling;",
+   "a smiling face draws warmth and hospitality;",
+   "it makes respect grow, O deluded one."
+  ],
+  "theme": "A smiling face",
+  "bhavartha": "A mind that has gone sour lets no good thought in and crowds out every gentle feeling. A cheerful face, on the other hand, draws people's warmth and welcome, and earns lasting respect."
+ }
+}

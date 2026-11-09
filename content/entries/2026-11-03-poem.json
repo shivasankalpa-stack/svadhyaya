@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-03-poem",
+ "type": "poem",
+ "date": "2026-11-03",
+ "time": "07:04",
+ "author": "Kusha N M",
+ "source": "2026-11-03T07:04|ಮಳೆಗಾಳಿಚಳಿಬಿಸಿಲನೆಪಗಳನುಹುಡುಕುತಿ",
+ "kn": {
+  "lines": [
+   "ಮಳೆಗಾಳಿ ಚಳಿಬಿಸಿಲ ನೆಪಗಳನು ಹುಡುಕುತಿರೆ",
+   "ಕಳೆಯುವುದೆ ಜೀವನವ ಕಷ್ಟವಾದೀತು",
+   "ಇಳೆಯೊಳಗೆ ಛಲದಿಂದ ಎದುರಿಸುವ ಛಾತಿಯಿರೆ",
+   "ಬೆಳೆಯುವೆಯೊ ಉನ್ನತಿಗೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಮಳೆಗಾಳಿ ಚಳಿಬಿಸಿಲ ನೆಪಗಳನು ಹುಡುಕುತಿರೆ\nಕಳೆಯುವುದೆ ಜೀವನವ ಕಷ್ಟವಾದೀತು\nಇಳೆಯೊಳಗೆ ಛಲದಿಂದ ಎದುರಿಸುವ ಛಾತಿಯಿರೆ\nಬೆಳೆಯುವೆಯೊ ಉನ್ನತಿಗೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If you keep finding excuses in rain, wind, cold and sun,",
+   "life slips by and grows hard;",
+   "if on this earth you have the spirit to face things with resolve,",
+   "you will rise to great heights, O deluded one."
+  ],
+  "theme": "No excuses",
+  "bhavartha": "Someone who always blames the weather lets life drift by and finds it hard. Someone with the resolve to face whatever comes rises high."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-10-30-poem",
+ "type": "poem",
+ "date": "2026-10-30",
+ "time": "06:06",
+ "author": "Kusha N M",
+ "source": "2026-10-30T06:06|ಕೂಡುವುದುಕಳೆಯುವುದುಗುಣಿಸುವುದುಭಾಗ",
+ "kn": {
+  "lines": [
+   "ಕೂಡುವುದು ಕಳೆಯುವುದು ಗುಣಿಸುವುದು ಭಾಗಿಪುದು",
+   "ಜೋಡಿಸುವ ಬೇರ್ಪಡಿಪ ಶಕುತಿಯೊಂದಿಹುದು",
+   "ಆಡಿಸುವ ಜಗವನ್ನೆ ತನಗಿಷ್ಟ ಬಂದಂತೆ",
+   "ಮೋಡಿಮಾಡುವನವನು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕೂಡುವುದು ಕಳೆಯುವುದು ಗುಣಿಸುವುದು ಭಾಗಿಪುದು\nಜೋಡಿಸುವ ಬೇರ್ಪಡಿಪ ಶಕುತಿಯೊಂದಿಹುದು\nಆಡಿಸುವ ಜಗವನ್ನೆ ತನಗಿಷ್ಟ ಬಂದಂತೆ\nಮೋಡಿಮಾಡುವನವನು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Adding, subtracting, multiplying, dividing,",
+   "there is one power that joins and parts;",
+   "it makes the whole world dance as it pleases:",
+   "he is the great enchanter, O deluded one."
+  ],
+  "theme": "The enchanter",
+  "bhavartha": "Behind all the adding and taking away, the joining and separating in our lives, there is a single power. It moves the whole world as it wills; that is the divine enchanter at work."
+ }
+}

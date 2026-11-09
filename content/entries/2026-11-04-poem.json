@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-04-poem",
+ "type": "poem",
+ "date": "2026-11-04",
+ "time": "05:33",
+ "author": "Kusha N M",
+ "source": "2026-11-04T05:33|ದೇಶಸಂಸ್ಕೃತಿಭಾಷೆಮಾನವನಮೊದಲಾಯ್ಕೆಕ",
+ "kn": {
+  "lines": [
+   "ದೇಶ ಸಂಸ್ಕೃತಿ ಭಾಷೆ ಮಾನವನ ಮೊದಲಾಯ್ಕೆ",
+   "ಕೋಶಗಳ ಅಧ್ಯಯನ ಪುಷ್ಟಿ ನೀಡುವವು",
+   "ಈಶ ದೈವದ ವರವು ಸ್ಥಿರತೆ ಮೂಡಿಸಲಾಗೆ",
+   "ನಾಶವದೆ ವಿಸ್ಮೃತಿಯು ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ದೇಶ ಸಂಸ್ಕೃತಿ ಭಾಷೆ ಮಾನವನ ಮೊದಲಾಯ್ಕೆ\nಕೋಶಗಳ ಅಧ್ಯಯನ ಪುಷ್ಟಿ ನೀಡುವವು\nಈಶ ದೈವದ ವರವು ಸ್ಥಿರತೆ ಮೂಡಿಸಲಾಗೆ\nನಾಶವದೆ ವಿಸ್ಮೃತಿಯು ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "Country, culture, language: these are a person's first choices;",
+   "the study of the great treasuries of learning nourishes them;",
+   "the grace of the Lord and the gods brings steadiness;",
+   "forgetting them is ruin, O deluded one."
+  ],
+  "theme": "Roots",
+  "bhavartha": "Our land, our culture and our language come first. Studying the treasuries of our learning strengthens them, and divine grace gives them stability. To forget them is to be lost."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-02-poem",
+ "type": "poem",
+ "date": "2026-11-02",
+ "time": "11:20",
+ "author": "Kusha N M",
+ "source": "2026-11-02T11:20|ಕಷ್ಟವಿದೆನಿನಗೆಂದುಸಾರುತಿರೆಜನರಬಳಿ",
+ "kn": {
+  "lines": [
+   "ಕಷ್ಟವಿದೆ ನಿನಗೆಂದು ಸಾರುತಿರೆ ಜನರಬಳಿ",
+   "ಇಷ್ಟಮಿತ್ರರು ಆಡಿ ನಗಲಿಹರು ನಿನನು",
+   "ನಷ್ಟಗಳ ಸಹಿಸುತಲೆ ನಗುಮೊಗವ ಹೊತ್ತಿರಲು",
+   "ನಿಷ್ಠರಿರುವರು ನಿನಗೆ ಮೂಢಮನುಜ"
+  ],
+  "footnote": ""
+ },
+ "raw": "ಕಷ್ಟವಿದೆ ನಿನಗೆಂದು ಸಾರುತಿರೆ ಜನರಬಳಿ\nಇಷ್ಟಮಿತ್ರರು ಆಡಿ ನಗಲಿಹರು ನಿನನು\nನಷ್ಟಗಳ ಸಹಿಸುತಲೆ ನಗುಮೊಗವ ಹೊತ್ತಿರಲು\nನಿಷ್ಠರಿರುವರು ನಿನಗೆ ಮೂಢಮನುಜ",
+ "en": {
+  "lines": [
+   "If you go about telling people of your troubles,",
+   "your dear friends will talk and laugh at you;",
+   "if you bear your losses with a smiling face,",
+   "the loyal will stand by you, O deluded one."
+  ],
+  "theme": "Grace under loss",
+  "bhavartha": "Broadcasting our troubles only gives others something to gossip about. Bearing losses quietly and with a smile shows who our true friends are, and they stay with us."
+ }
+}
